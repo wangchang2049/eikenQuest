@@ -1,0 +1,751 @@
+section,title,prompt,passage,audio_text,choice_1,choice_2,choice_3,choice_4,answer_index,explanation
+vocabulary,Choose the best answer.,I usually eat breakfast at seven (    ). [Set 1],,,clock,o'clock,time,hour,1,Use seven o'clock for time.
+vocabulary,Choose the best answer.,My sister can play the piano very (    ). [Set 1],,,well,good,nice,happy,0,Use the adverb well.
+vocabulary,Choose the best answer.,Please (    ) your name here. [Set 1],,,write,read,speak,listen,0,Write fits with name here.
+vocabulary,Choose the best answer.,The box is too heavy. I cannot (    ) it. [Set 1],,,carry,cook,open,watch,0,Carry means move something heavy.
+vocabulary,Choose the best answer.,I am thirsty. I want some (    ). [Set 1],,,water,paper,music,homework,0,Thirsty means wanting water.
+vocabulary,Choose the best answer.,My father is a doctor. He works at a (    ). [Set 1],,,hospital,station,library,farm,0,Doctors work at hospitals.
+vocabulary,Choose the best answer.,This question is not easy. It is (    ). [Set 1],,,difficult,small,early,quiet,0,Not easy means difficult.
+vocabulary,Choose the best answer.,I (    ) my teeth after breakfast. [Set 1],,,brush,ride,draw,close,0,The phrase is brush my teeth.
+vocabulary,Choose the best answer.,A (    ) has a long neck. [Set 1],,,giraffe,rabbit,fish,bird,0,A giraffe has a long neck.
+vocabulary,Choose the best answer.,Spring comes after (    ). [Set 1],,,winter,summer,Sunday,breakfast,0,Spring comes after winter.
+vocabulary,Choose the best answer.,There are twelve (    ) in a year. [Set 1],,,months,hours,days,minutes,0,A year has twelve months.
+vocabulary,Choose the best answer.,She (    ) her room every Sunday. [Set 1],,,cleans,drinks,wears,runs,0,Clean a room is natural.
+vocabulary,Choose the best answer.,This cap is (    ) than that one. [Set 1],,,newer,new,newest,newly,0,Than needs a comparative form.
+vocabulary,Choose the best answer.,The train will (    ) at three thirty. [Set 1],,,arrive,wash,invite,climb,0,Trains arrive at a time.
+vocabulary,Choose the best answer.,I have to (    ) for the test tonight. [Set 1],,,study,sleep,dance,snow,0,Study for a test is natural.
+conversation,Choose the best response.,"A: How was your weekend?
+B: (    )
+[Set 1]",,,It was great.,It is on the desk.,At three.,"Yes, I do.",0,Answer with an opinion.
+conversation,Choose the best response.,"A: Whose bag is this?
+B: (    )
+[Set 1]",,,It is Ken's.,It is sunny.,I am twelve.,I like bags.,0,Whose asks the owner.
+conversation,Choose the best response.,"A: May I use your pen?
+B: (    )
+[Set 1]",,,Sure. Here you are.,I am fine.,It is Monday.,"No, I don't.",0,This accepts a request.
+conversation,Choose the best response.,"A: What time do you get up?
+B: (    )
+[Set 1]",,,At six thirty.,In the kitchen.,With my brother.,Because I like it.,0,What time asks for a time.
+conversation,Choose the best response.,"A: Would you like some tea?
+B: (    )
+[Set 1]",,,"Yes, please.",It is blue.,I am reading.,On foot.,0,"Use Yes, please for an offer."
+ordering,Choose the best word order.,I went to the library yesterday. Choose the best order: I (    ) yesterday. [Set 1],,,went to the library,to the library went,library to went,went the library to,0,The order is went to the library.
+ordering,Choose the best word order.,She studies English every morning. Choose the best order: She (    ) every morning. [Set 1],,,studies English,English studies,study English,studies the English,0,She takes studies.
+ordering,Choose the best word order.,What time do you get up? Choose the best order: (    ) get up? [Set 1],,,What time do you,Do what time you,What you do time,You what time do,0,Use What time do you.
+ordering,Choose the best word order.,I want that red bag. Choose the best order: I (    ). [Set 1],,,want that red bag,that red bag want,want red that bag,that want red bag,0,Use want that red bag.
+ordering,Choose the best word order.,Ken plays soccer after school. Choose the best order: Ken (    ) after school. [Set 1],,,plays soccer,soccer plays,play soccer,plays the soccer,0,Ken takes plays.
+reading,Read the passage and answer.,What does Emma do every Saturday morning? [Set 1],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,She goes to the park.,She studies math.,She cleans her room.,She visits her grandmother.,0,The passage says she goes to the park.
+reading,Read the passage and answer.,What do they buy after the park? [Set 1],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,Bread,Milk,A dog,A book,0,They buy bread.
+reading,Read the passage and answer.,What will Yuta's class make? [Set 1],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,Curry and rice,Sandwiches,Cake,Soup,0,They will make curry and rice.
+reading,Read the passage and answer.,When will Yuta buy vegetables? [Set 1],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,After school today,Next Sunday,Tomorrow morning,During lunch,0,The passage says after school today.
+reading,Read the passage and answer.,Where does Lisa live? [Set 1],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,Australia,Japan,Canada,India,0,Lisa lives in Australia.
+reading,Read the passage and answer.,What does Miki want to send? [Set 1],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,A picture of snow,A summer hat,An email from Canada,A Japanese book,0,She wants to send a picture of snow.
+reading,Read the passage and answer.,Where does Ben work on Sundays? [Set 1],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,At a bakery,At a hospital,At a station,At a school,0,He works at a bakery.
+reading,Read the passage and answer.,What is Ben's favorite bread? [Set 1],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,Melon bread,French bread,Rice bread,Banana bread,0,His favorite is melon bread.
+reading,Read the passage and answer.,How many fish did they catch? [Set 1],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,Three,Two,Four,Five,0,They caught three fish.
+reading,Read the passage and answer.,What did they do at night? [Set 1],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,They looked at the stars.,They swam.,They played soccer.,They cooked breakfast.,0,They looked at the stars.
+listening1,Choose the best response.,What is the best response? [Set 1],,Boy: I lost my pencil. Girl: (    ),You can use mine.,It is sunny today.,I like soccer.,I do not know.,0,This is a helpful response.
+listening1,Choose the best response.,What is the best response? [Set 1],,Girl: Thank you for helping me. Boy: (    ),You're welcome.,I am ten.,At school.,I do not know.,0,Reply to thanks with You are welcome.
+listening1,Choose the best response.,What is the best response? [Set 1],,Mother: Please clean your room. Boy: (    ),"OK, Mom.",I like rooms.,It is blue.,I do not know.,0,OK accepts the request.
+listening1,Choose the best response.,What is the best response? [Set 1],,Man: Where is the post office? Woman: (    ),It is next to the bank.,I bought stamps.,It is delicious.,I do not know.,0,Answer with a place.
+listening1,Choose the best response.,What is the best response? [Set 1],,Girl: Can you come to my party? Boy: (    ),"Yes, I'd love to.",It is my party.,I can swim.,I do not know.,0,This accepts the invitation.
+listening1,Choose the best response.,What is the best response? [Set 1],,Teacher: Open your books to page ten. Student: (    ),All right.,I am hungry.,It is mine.,I do not know.,0,All right follows the instruction.
+listening1,Choose the best response.,What is the best response? [Set 1],,Boy: Happy New Year! Girl: (    ),Happy New Year!,Nice to meet you.,I'm sorry.,I do not know.,0,Return the same greeting.
+listening1,Choose the best response.,What is the best response? [Set 1],,Woman: Would you like some cake? Boy: (    ),"Yes, please.",It is on Sunday.,I am cake.,I do not know.,0,Use Yes please for an offer.
+listening1,Choose the best response.,What is the best response? [Set 1],,Girl: I have a test tomorrow. Boy: (    ),Good luck.,It is a test.,I watched TV.,I do not know.,0,Say Good luck before a test.
+listening1,Choose the best response.,What is the best response? [Set 1],,Father: Don't run in the kitchen. Girl: (    ),"Sorry, I won't.","Yes, I run.",In the kitchen.,I do not know.,0,Apologize after a warning.
+listening2,Listen and choose the best answer.,What is true? [Set 1],,"Girl: I have two tickets for the soccer game. Can you come with me on Sunday? Boy: Sorry, I have to visit my aunt.",The girl has soccer tickets.,The boy will go on Sunday.,The boy has two tickets.,They will visit the aunt together.,0,The girl has two tickets.
+listening2,Listen and choose the best answer.,What does Mike need? [Set 1],,"Mother: It is raining now. Take your umbrella, Mike. Mike: OK, Mom.",An umbrella,A notebook,A ticket,A camera,0,He needs an umbrella.
+listening2,Listen and choose the best answer.,What should the student bring? [Set 1],,"Teacher: Please bring your science book tomorrow. Student: Do we need a notebook too? Teacher: No, just the book.",A science book,A notebook,A lunch box,A dictionary,0,Only the science book is needed.
+listening2,Listen and choose the best answer.,When will they meet? [Set 1],,"Boy: What time does the movie start? Girl: It starts at four, but let us meet at three thirty.",At three thirty,At four,At two thirty,At five,0,They will meet at three thirty.
+listening2,Listen and choose the best answer.,Which bus should the man take? [Set 1],,Man: Is this bus going to the museum? Woman: No. Please take bus number eight.,Bus number eight,This bus,Bus number five,A train,0,He should take bus number eight.
+listening2,Listen and choose the best answer.,Where is the notebook? [Set 1],,"Girl: I cannot find my math notebook. Boy: Is it in your desk? Girl: Oh, yes.",In her desk,In her bag,On the chair,At home,0,It is in her desk.
+listening2,Listen and choose the best answer.,What will they make? [Set 1],,Father: What do you want for dinner? Boy: I want spaghetti.,Spaghetti,Curry,Salad,Sandwiches,0,The boy wants spaghetti.
+listening2,Listen and choose the best answer.,When will they go to the museum? [Set 1],,Woman: The museum is closed on Mondays. Boy: Then let us go there on Tuesday.,Tuesday,Monday,Friday,Sunday,0,They will go on Tuesday.
+listening2,Listen and choose the best answer.,How old is Max? [Set 1],,Girl: Your dog is cute. What is his name? Boy: His name is Max. He is five years old.,Five,Four,Six,Ten,0,Max is five.
+listening2,Listen and choose the best answer.,What will the students do after lunch? [Set 1],,Teacher: We will clean the classroom after lunch. Please do not go home early.,Clean the classroom,Go home,Eat breakfast,Play in the park,0,They will clean the classroom.
+listening3,Listen and choose the best answer.,What did Meg give her cat today? [Set 1],,"Meg gets up at six every morning. Today, she gave her cat fish.",Fish,Milk,Bread,Chicken,0,She gave the cat fish.
+listening3,Listen and choose the best answer.,What can children do in May? [Set 1],,The new sports center opens next Saturday. Children can use it for free in May.,Use the center for free,Buy tennis rackets,Open a pool,Play only soccer,0,They can use it for free.
+listening3,Listen and choose the best answer.,Where does Jun cousin live? [Set 1],,Jun will visit his cousin near the mountains this weekend.,Near the mountains,Near the sea,In a big city,Next to a library,0,The cousin lives near the mountains.
+listening3,Listen and choose the best answer.,What time does the festival end? [Set 1],,There is a music festival at the park today. It starts at two and ends at five.,At five,At two,At four,At seven,0,It ends at five.
+listening3,Listen and choose the best answer.,How many cookies will Lisa take to school? [Set 1],,Lisa made thirty cookies and ate two at home. She will take twenty-eight cookies to school.,Twenty-eight,Thirty,Two,Twenty,0,She will take twenty-eight.
+listening3,Listen and choose the best answer.,What animals did Tom like best? [Set 1],,Tom's family went to the zoo on Sunday. Tom liked the monkeys best because they were funny.,Monkeys,Lions,Birds,Elephants,0,He liked monkeys best.
+listening3,Listen and choose the best answer.,Why was the bus late? [Set 1],,The school bus was late this morning because of snow.,Because of snow,Because of rain,Because of traffic lights,Because of a game,0,It was late because of snow.
+listening3,Listen and choose the best answer.,What does Anna need? [Set 1],,Anna needs a blue notebook for science class.,A blue notebook,A red pen,A science book,A lunch box,0,She needs a blue notebook.
+listening3,Listen and choose the best answer.,What does Mr. Green do on weekends? [Set 1],,"Mr. Green teaches English. On weekends, he plays the guitar.",He plays the guitar.,He teaches math.,He reads newspapers.,He goes fishing.,0,He plays the guitar.
+listening3,Listen and choose the best answer.,When will the pool open again? [Set 1],,The city pool is closed today. It will open again tomorrow morning at ten.,Tomorrow morning,This afternoon,Next week,Tonight,0,It opens tomorrow morning.
+vocabulary,Choose the best answer.,I usually eat breakfast at seven (    ). [Set 2],,,clock,o'clock,time,hour,1,Use seven o'clock for time.
+vocabulary,Choose the best answer.,My sister can play the piano very (    ). [Set 2],,,well,good,nice,happy,0,Use the adverb well.
+vocabulary,Choose the best answer.,Please (    ) your name here. [Set 2],,,write,read,speak,listen,0,Write fits with name here.
+vocabulary,Choose the best answer.,The box is too heavy. I cannot (    ) it. [Set 2],,,carry,cook,open,watch,0,Carry means move something heavy.
+vocabulary,Choose the best answer.,I am thirsty. I want some (    ). [Set 2],,,water,paper,music,homework,0,Thirsty means wanting water.
+vocabulary,Choose the best answer.,My father is a doctor. He works at a (    ). [Set 2],,,hospital,station,library,farm,0,Doctors work at hospitals.
+vocabulary,Choose the best answer.,This question is not easy. It is (    ). [Set 2],,,difficult,small,early,quiet,0,Not easy means difficult.
+vocabulary,Choose the best answer.,I (    ) my teeth after breakfast. [Set 2],,,brush,ride,draw,close,0,The phrase is brush my teeth.
+vocabulary,Choose the best answer.,A (    ) has a long neck. [Set 2],,,giraffe,rabbit,fish,bird,0,A giraffe has a long neck.
+vocabulary,Choose the best answer.,Spring comes after (    ). [Set 2],,,winter,summer,Sunday,breakfast,0,Spring comes after winter.
+vocabulary,Choose the best answer.,There are twelve (    ) in a year. [Set 2],,,months,hours,days,minutes,0,A year has twelve months.
+vocabulary,Choose the best answer.,She (    ) her room every Sunday. [Set 2],,,cleans,drinks,wears,runs,0,Clean a room is natural.
+vocabulary,Choose the best answer.,This cap is (    ) than that one. [Set 2],,,newer,new,newest,newly,0,Than needs a comparative form.
+vocabulary,Choose the best answer.,The train will (    ) at three thirty. [Set 2],,,arrive,wash,invite,climb,0,Trains arrive at a time.
+vocabulary,Choose the best answer.,I have to (    ) for the test tonight. [Set 2],,,study,sleep,dance,snow,0,Study for a test is natural.
+conversation,Choose the best response.,"A: How was your weekend?
+B: (    )
+[Set 2]",,,It was great.,It is on the desk.,At three.,"Yes, I do.",0,Answer with an opinion.
+conversation,Choose the best response.,"A: Whose bag is this?
+B: (    )
+[Set 2]",,,It is Ken's.,It is sunny.,I am twelve.,I like bags.,0,Whose asks the owner.
+conversation,Choose the best response.,"A: May I use your pen?
+B: (    )
+[Set 2]",,,Sure. Here you are.,I am fine.,It is Monday.,"No, I don't.",0,This accepts a request.
+conversation,Choose the best response.,"A: What time do you get up?
+B: (    )
+[Set 2]",,,At six thirty.,In the kitchen.,With my brother.,Because I like it.,0,What time asks for a time.
+conversation,Choose the best response.,"A: Would you like some tea?
+B: (    )
+[Set 2]",,,"Yes, please.",It is blue.,I am reading.,On foot.,0,"Use Yes, please for an offer."
+ordering,Choose the best word order.,I went to the library yesterday. Choose the best order: I (    ) yesterday. [Set 2],,,went to the library,to the library went,library to went,went the library to,0,The order is went to the library.
+ordering,Choose the best word order.,She studies English every morning. Choose the best order: She (    ) every morning. [Set 2],,,studies English,English studies,study English,studies the English,0,She takes studies.
+ordering,Choose the best word order.,What time do you get up? Choose the best order: (    ) get up? [Set 2],,,What time do you,Do what time you,What you do time,You what time do,0,Use What time do you.
+ordering,Choose the best word order.,I want that red bag. Choose the best order: I (    ). [Set 2],,,want that red bag,that red bag want,want red that bag,that want red bag,0,Use want that red bag.
+ordering,Choose the best word order.,Ken plays soccer after school. Choose the best order: Ken (    ) after school. [Set 2],,,plays soccer,soccer plays,play soccer,plays the soccer,0,Ken takes plays.
+reading,Read the passage and answer.,What does Emma do every Saturday morning? [Set 2],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,She goes to the park.,She studies math.,She cleans her room.,She visits her grandmother.,0,The passage says she goes to the park.
+reading,Read the passage and answer.,What do they buy after the park? [Set 2],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,Bread,Milk,A dog,A book,0,They buy bread.
+reading,Read the passage and answer.,What will Yuta's class make? [Set 2],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,Curry and rice,Sandwiches,Cake,Soup,0,They will make curry and rice.
+reading,Read the passage and answer.,When will Yuta buy vegetables? [Set 2],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,After school today,Next Sunday,Tomorrow morning,During lunch,0,The passage says after school today.
+reading,Read the passage and answer.,Where does Lisa live? [Set 2],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,Australia,Japan,Canada,India,0,Lisa lives in Australia.
+reading,Read the passage and answer.,What does Miki want to send? [Set 2],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,A picture of snow,A summer hat,An email from Canada,A Japanese book,0,She wants to send a picture of snow.
+reading,Read the passage and answer.,Where does Ben work on Sundays? [Set 2],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,At a bakery,At a hospital,At a station,At a school,0,He works at a bakery.
+reading,Read the passage and answer.,What is Ben's favorite bread? [Set 2],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,Melon bread,French bread,Rice bread,Banana bread,0,His favorite is melon bread.
+reading,Read the passage and answer.,How many fish did they catch? [Set 2],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,Three,Two,Four,Five,0,They caught three fish.
+reading,Read the passage and answer.,What did they do at night? [Set 2],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,They looked at the stars.,They swam.,They played soccer.,They cooked breakfast.,0,They looked at the stars.
+listening1,Choose the best response.,What is the best response? [Set 2],,Boy: I lost my pencil. Girl: (    ),You can use mine.,It is sunny today.,I like soccer.,I do not know.,0,This is a helpful response.
+listening1,Choose the best response.,What is the best response? [Set 2],,Girl: Thank you for helping me. Boy: (    ),You're welcome.,I am ten.,At school.,I do not know.,0,Reply to thanks with You are welcome.
+listening1,Choose the best response.,What is the best response? [Set 2],,Mother: Please clean your room. Boy: (    ),"OK, Mom.",I like rooms.,It is blue.,I do not know.,0,OK accepts the request.
+listening1,Choose the best response.,What is the best response? [Set 2],,Man: Where is the post office? Woman: (    ),It is next to the bank.,I bought stamps.,It is delicious.,I do not know.,0,Answer with a place.
+listening1,Choose the best response.,What is the best response? [Set 2],,Girl: Can you come to my party? Boy: (    ),"Yes, I'd love to.",It is my party.,I can swim.,I do not know.,0,This accepts the invitation.
+listening1,Choose the best response.,What is the best response? [Set 2],,Teacher: Open your books to page ten. Student: (    ),All right.,I am hungry.,It is mine.,I do not know.,0,All right follows the instruction.
+listening1,Choose the best response.,What is the best response? [Set 2],,Boy: Happy New Year! Girl: (    ),Happy New Year!,Nice to meet you.,I'm sorry.,I do not know.,0,Return the same greeting.
+listening1,Choose the best response.,What is the best response? [Set 2],,Woman: Would you like some cake? Boy: (    ),"Yes, please.",It is on Sunday.,I am cake.,I do not know.,0,Use Yes please for an offer.
+listening1,Choose the best response.,What is the best response? [Set 2],,Girl: I have a test tomorrow. Boy: (    ),Good luck.,It is a test.,I watched TV.,I do not know.,0,Say Good luck before a test.
+listening1,Choose the best response.,What is the best response? [Set 2],,Father: Don't run in the kitchen. Girl: (    ),"Sorry, I won't.","Yes, I run.",In the kitchen.,I do not know.,0,Apologize after a warning.
+listening2,Listen and choose the best answer.,What is true? [Set 2],,"Girl: I have two tickets for the soccer game. Can you come with me on Sunday? Boy: Sorry, I have to visit my aunt.",The girl has soccer tickets.,The boy will go on Sunday.,The boy has two tickets.,They will visit the aunt together.,0,The girl has two tickets.
+listening2,Listen and choose the best answer.,What does Mike need? [Set 2],,"Mother: It is raining now. Take your umbrella, Mike. Mike: OK, Mom.",An umbrella,A notebook,A ticket,A camera,0,He needs an umbrella.
+listening2,Listen and choose the best answer.,What should the student bring? [Set 2],,"Teacher: Please bring your science book tomorrow. Student: Do we need a notebook too? Teacher: No, just the book.",A science book,A notebook,A lunch box,A dictionary,0,Only the science book is needed.
+listening2,Listen and choose the best answer.,When will they meet? [Set 2],,"Boy: What time does the movie start? Girl: It starts at four, but let us meet at three thirty.",At three thirty,At four,At two thirty,At five,0,They will meet at three thirty.
+listening2,Listen and choose the best answer.,Which bus should the man take? [Set 2],,Man: Is this bus going to the museum? Woman: No. Please take bus number eight.,Bus number eight,This bus,Bus number five,A train,0,He should take bus number eight.
+listening2,Listen and choose the best answer.,Where is the notebook? [Set 2],,"Girl: I cannot find my math notebook. Boy: Is it in your desk? Girl: Oh, yes.",In her desk,In her bag,On the chair,At home,0,It is in her desk.
+listening2,Listen and choose the best answer.,What will they make? [Set 2],,Father: What do you want for dinner? Boy: I want spaghetti.,Spaghetti,Curry,Salad,Sandwiches,0,The boy wants spaghetti.
+listening2,Listen and choose the best answer.,When will they go to the museum? [Set 2],,Woman: The museum is closed on Mondays. Boy: Then let us go there on Tuesday.,Tuesday,Monday,Friday,Sunday,0,They will go on Tuesday.
+listening2,Listen and choose the best answer.,How old is Max? [Set 2],,Girl: Your dog is cute. What is his name? Boy: His name is Max. He is five years old.,Five,Four,Six,Ten,0,Max is five.
+listening2,Listen and choose the best answer.,What will the students do after lunch? [Set 2],,Teacher: We will clean the classroom after lunch. Please do not go home early.,Clean the classroom,Go home,Eat breakfast,Play in the park,0,They will clean the classroom.
+listening3,Listen and choose the best answer.,What did Meg give her cat today? [Set 2],,"Meg gets up at six every morning. Today, she gave her cat fish.",Fish,Milk,Bread,Chicken,0,She gave the cat fish.
+listening3,Listen and choose the best answer.,What can children do in May? [Set 2],,The new sports center opens next Saturday. Children can use it for free in May.,Use the center for free,Buy tennis rackets,Open a pool,Play only soccer,0,They can use it for free.
+listening3,Listen and choose the best answer.,Where does Jun cousin live? [Set 2],,Jun will visit his cousin near the mountains this weekend.,Near the mountains,Near the sea,In a big city,Next to a library,0,The cousin lives near the mountains.
+listening3,Listen and choose the best answer.,What time does the festival end? [Set 2],,There is a music festival at the park today. It starts at two and ends at five.,At five,At two,At four,At seven,0,It ends at five.
+listening3,Listen and choose the best answer.,How many cookies will Lisa take to school? [Set 2],,Lisa made thirty cookies and ate two at home. She will take twenty-eight cookies to school.,Twenty-eight,Thirty,Two,Twenty,0,She will take twenty-eight.
+listening3,Listen and choose the best answer.,What animals did Tom like best? [Set 2],,Tom's family went to the zoo on Sunday. Tom liked the monkeys best because they were funny.,Monkeys,Lions,Birds,Elephants,0,He liked monkeys best.
+listening3,Listen and choose the best answer.,Why was the bus late? [Set 2],,The school bus was late this morning because of snow.,Because of snow,Because of rain,Because of traffic lights,Because of a game,0,It was late because of snow.
+listening3,Listen and choose the best answer.,What does Anna need? [Set 2],,Anna needs a blue notebook for science class.,A blue notebook,A red pen,A science book,A lunch box,0,She needs a blue notebook.
+listening3,Listen and choose the best answer.,What does Mr. Green do on weekends? [Set 2],,"Mr. Green teaches English. On weekends, he plays the guitar.",He plays the guitar.,He teaches math.,He reads newspapers.,He goes fishing.,0,He plays the guitar.
+listening3,Listen and choose the best answer.,When will the pool open again? [Set 2],,The city pool is closed today. It will open again tomorrow morning at ten.,Tomorrow morning,This afternoon,Next week,Tonight,0,It opens tomorrow morning.
+vocabulary,Choose the best answer.,I usually eat breakfast at seven (    ). [Set 3],,,clock,o'clock,time,hour,1,Use seven o'clock for time.
+vocabulary,Choose the best answer.,My sister can play the piano very (    ). [Set 3],,,well,good,nice,happy,0,Use the adverb well.
+vocabulary,Choose the best answer.,Please (    ) your name here. [Set 3],,,write,read,speak,listen,0,Write fits with name here.
+vocabulary,Choose the best answer.,The box is too heavy. I cannot (    ) it. [Set 3],,,carry,cook,open,watch,0,Carry means move something heavy.
+vocabulary,Choose the best answer.,I am thirsty. I want some (    ). [Set 3],,,water,paper,music,homework,0,Thirsty means wanting water.
+vocabulary,Choose the best answer.,My father is a doctor. He works at a (    ). [Set 3],,,hospital,station,library,farm,0,Doctors work at hospitals.
+vocabulary,Choose the best answer.,This question is not easy. It is (    ). [Set 3],,,difficult,small,early,quiet,0,Not easy means difficult.
+vocabulary,Choose the best answer.,I (    ) my teeth after breakfast. [Set 3],,,brush,ride,draw,close,0,The phrase is brush my teeth.
+vocabulary,Choose the best answer.,A (    ) has a long neck. [Set 3],,,giraffe,rabbit,fish,bird,0,A giraffe has a long neck.
+vocabulary,Choose the best answer.,Spring comes after (    ). [Set 3],,,winter,summer,Sunday,breakfast,0,Spring comes after winter.
+vocabulary,Choose the best answer.,There are twelve (    ) in a year. [Set 3],,,months,hours,days,minutes,0,A year has twelve months.
+vocabulary,Choose the best answer.,She (    ) her room every Sunday. [Set 3],,,cleans,drinks,wears,runs,0,Clean a room is natural.
+vocabulary,Choose the best answer.,This cap is (    ) than that one. [Set 3],,,newer,new,newest,newly,0,Than needs a comparative form.
+vocabulary,Choose the best answer.,The train will (    ) at three thirty. [Set 3],,,arrive,wash,invite,climb,0,Trains arrive at a time.
+vocabulary,Choose the best answer.,I have to (    ) for the test tonight. [Set 3],,,study,sleep,dance,snow,0,Study for a test is natural.
+conversation,Choose the best response.,"A: How was your weekend?
+B: (    )
+[Set 3]",,,It was great.,It is on the desk.,At three.,"Yes, I do.",0,Answer with an opinion.
+conversation,Choose the best response.,"A: Whose bag is this?
+B: (    )
+[Set 3]",,,It is Ken's.,It is sunny.,I am twelve.,I like bags.,0,Whose asks the owner.
+conversation,Choose the best response.,"A: May I use your pen?
+B: (    )
+[Set 3]",,,Sure. Here you are.,I am fine.,It is Monday.,"No, I don't.",0,This accepts a request.
+conversation,Choose the best response.,"A: What time do you get up?
+B: (    )
+[Set 3]",,,At six thirty.,In the kitchen.,With my brother.,Because I like it.,0,What time asks for a time.
+conversation,Choose the best response.,"A: Would you like some tea?
+B: (    )
+[Set 3]",,,"Yes, please.",It is blue.,I am reading.,On foot.,0,"Use Yes, please for an offer."
+ordering,Choose the best word order.,I went to the library yesterday. Choose the best order: I (    ) yesterday. [Set 3],,,went to the library,to the library went,library to went,went the library to,0,The order is went to the library.
+ordering,Choose the best word order.,She studies English every morning. Choose the best order: She (    ) every morning. [Set 3],,,studies English,English studies,study English,studies the English,0,She takes studies.
+ordering,Choose the best word order.,What time do you get up? Choose the best order: (    ) get up? [Set 3],,,What time do you,Do what time you,What you do time,You what time do,0,Use What time do you.
+ordering,Choose the best word order.,I want that red bag. Choose the best order: I (    ). [Set 3],,,want that red bag,that red bag want,want red that bag,that want red bag,0,Use want that red bag.
+ordering,Choose the best word order.,Ken plays soccer after school. Choose the best order: Ken (    ) after school. [Set 3],,,plays soccer,soccer plays,play soccer,plays the soccer,0,Ken takes plays.
+reading,Read the passage and answer.,What does Emma do every Saturday morning? [Set 3],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,She goes to the park.,She studies math.,She cleans her room.,She visits her grandmother.,0,The passage says she goes to the park.
+reading,Read the passage and answer.,What do they buy after the park? [Set 3],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,Bread,Milk,A dog,A book,0,They buy bread.
+reading,Read the passage and answer.,What will Yuta's class make? [Set 3],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,Curry and rice,Sandwiches,Cake,Soup,0,They will make curry and rice.
+reading,Read the passage and answer.,When will Yuta buy vegetables? [Set 3],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,After school today,Next Sunday,Tomorrow morning,During lunch,0,The passage says after school today.
+reading,Read the passage and answer.,Where does Lisa live? [Set 3],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,Australia,Japan,Canada,India,0,Lisa lives in Australia.
+reading,Read the passage and answer.,What does Miki want to send? [Set 3],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,A picture of snow,A summer hat,An email from Canada,A Japanese book,0,She wants to send a picture of snow.
+reading,Read the passage and answer.,Where does Ben work on Sundays? [Set 3],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,At a bakery,At a hospital,At a station,At a school,0,He works at a bakery.
+reading,Read the passage and answer.,What is Ben's favorite bread? [Set 3],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,Melon bread,French bread,Rice bread,Banana bread,0,His favorite is melon bread.
+reading,Read the passage and answer.,How many fish did they catch? [Set 3],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,Three,Two,Four,Five,0,They caught three fish.
+reading,Read the passage and answer.,What did they do at night? [Set 3],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,They looked at the stars.,They swam.,They played soccer.,They cooked breakfast.,0,They looked at the stars.
+listening1,Choose the best response.,What is the best response? [Set 3],,Boy: I lost my pencil. Girl: (    ),You can use mine.,It is sunny today.,I like soccer.,I do not know.,0,This is a helpful response.
+listening1,Choose the best response.,What is the best response? [Set 3],,Girl: Thank you for helping me. Boy: (    ),You're welcome.,I am ten.,At school.,I do not know.,0,Reply to thanks with You are welcome.
+listening1,Choose the best response.,What is the best response? [Set 3],,Mother: Please clean your room. Boy: (    ),"OK, Mom.",I like rooms.,It is blue.,I do not know.,0,OK accepts the request.
+listening1,Choose the best response.,What is the best response? [Set 3],,Man: Where is the post office? Woman: (    ),It is next to the bank.,I bought stamps.,It is delicious.,I do not know.,0,Answer with a place.
+listening1,Choose the best response.,What is the best response? [Set 3],,Girl: Can you come to my party? Boy: (    ),"Yes, I'd love to.",It is my party.,I can swim.,I do not know.,0,This accepts the invitation.
+listening1,Choose the best response.,What is the best response? [Set 3],,Teacher: Open your books to page ten. Student: (    ),All right.,I am hungry.,It is mine.,I do not know.,0,All right follows the instruction.
+listening1,Choose the best response.,What is the best response? [Set 3],,Boy: Happy New Year! Girl: (    ),Happy New Year!,Nice to meet you.,I'm sorry.,I do not know.,0,Return the same greeting.
+listening1,Choose the best response.,What is the best response? [Set 3],,Woman: Would you like some cake? Boy: (    ),"Yes, please.",It is on Sunday.,I am cake.,I do not know.,0,Use Yes please for an offer.
+listening1,Choose the best response.,What is the best response? [Set 3],,Girl: I have a test tomorrow. Boy: (    ),Good luck.,It is a test.,I watched TV.,I do not know.,0,Say Good luck before a test.
+listening1,Choose the best response.,What is the best response? [Set 3],,Father: Don't run in the kitchen. Girl: (    ),"Sorry, I won't.","Yes, I run.",In the kitchen.,I do not know.,0,Apologize after a warning.
+listening2,Listen and choose the best answer.,What is true? [Set 3],,"Girl: I have two tickets for the soccer game. Can you come with me on Sunday? Boy: Sorry, I have to visit my aunt.",The girl has soccer tickets.,The boy will go on Sunday.,The boy has two tickets.,They will visit the aunt together.,0,The girl has two tickets.
+listening2,Listen and choose the best answer.,What does Mike need? [Set 3],,"Mother: It is raining now. Take your umbrella, Mike. Mike: OK, Mom.",An umbrella,A notebook,A ticket,A camera,0,He needs an umbrella.
+listening2,Listen and choose the best answer.,What should the student bring? [Set 3],,"Teacher: Please bring your science book tomorrow. Student: Do we need a notebook too? Teacher: No, just the book.",A science book,A notebook,A lunch box,A dictionary,0,Only the science book is needed.
+listening2,Listen and choose the best answer.,When will they meet? [Set 3],,"Boy: What time does the movie start? Girl: It starts at four, but let us meet at three thirty.",At three thirty,At four,At two thirty,At five,0,They will meet at three thirty.
+listening2,Listen and choose the best answer.,Which bus should the man take? [Set 3],,Man: Is this bus going to the museum? Woman: No. Please take bus number eight.,Bus number eight,This bus,Bus number five,A train,0,He should take bus number eight.
+listening2,Listen and choose the best answer.,Where is the notebook? [Set 3],,"Girl: I cannot find my math notebook. Boy: Is it in your desk? Girl: Oh, yes.",In her desk,In her bag,On the chair,At home,0,It is in her desk.
+listening2,Listen and choose the best answer.,What will they make? [Set 3],,Father: What do you want for dinner? Boy: I want spaghetti.,Spaghetti,Curry,Salad,Sandwiches,0,The boy wants spaghetti.
+listening2,Listen and choose the best answer.,When will they go to the museum? [Set 3],,Woman: The museum is closed on Mondays. Boy: Then let us go there on Tuesday.,Tuesday,Monday,Friday,Sunday,0,They will go on Tuesday.
+listening2,Listen and choose the best answer.,How old is Max? [Set 3],,Girl: Your dog is cute. What is his name? Boy: His name is Max. He is five years old.,Five,Four,Six,Ten,0,Max is five.
+listening2,Listen and choose the best answer.,What will the students do after lunch? [Set 3],,Teacher: We will clean the classroom after lunch. Please do not go home early.,Clean the classroom,Go home,Eat breakfast,Play in the park,0,They will clean the classroom.
+listening3,Listen and choose the best answer.,What did Meg give her cat today? [Set 3],,"Meg gets up at six every morning. Today, she gave her cat fish.",Fish,Milk,Bread,Chicken,0,She gave the cat fish.
+listening3,Listen and choose the best answer.,What can children do in May? [Set 3],,The new sports center opens next Saturday. Children can use it for free in May.,Use the center for free,Buy tennis rackets,Open a pool,Play only soccer,0,They can use it for free.
+listening3,Listen and choose the best answer.,Where does Jun cousin live? [Set 3],,Jun will visit his cousin near the mountains this weekend.,Near the mountains,Near the sea,In a big city,Next to a library,0,The cousin lives near the mountains.
+listening3,Listen and choose the best answer.,What time does the festival end? [Set 3],,There is a music festival at the park today. It starts at two and ends at five.,At five,At two,At four,At seven,0,It ends at five.
+listening3,Listen and choose the best answer.,How many cookies will Lisa take to school? [Set 3],,Lisa made thirty cookies and ate two at home. She will take twenty-eight cookies to school.,Twenty-eight,Thirty,Two,Twenty,0,She will take twenty-eight.
+listening3,Listen and choose the best answer.,What animals did Tom like best? [Set 3],,Tom's family went to the zoo on Sunday. Tom liked the monkeys best because they were funny.,Monkeys,Lions,Birds,Elephants,0,He liked monkeys best.
+listening3,Listen and choose the best answer.,Why was the bus late? [Set 3],,The school bus was late this morning because of snow.,Because of snow,Because of rain,Because of traffic lights,Because of a game,0,It was late because of snow.
+listening3,Listen and choose the best answer.,What does Anna need? [Set 3],,Anna needs a blue notebook for science class.,A blue notebook,A red pen,A science book,A lunch box,0,She needs a blue notebook.
+listening3,Listen and choose the best answer.,What does Mr. Green do on weekends? [Set 3],,"Mr. Green teaches English. On weekends, he plays the guitar.",He plays the guitar.,He teaches math.,He reads newspapers.,He goes fishing.,0,He plays the guitar.
+listening3,Listen and choose the best answer.,When will the pool open again? [Set 3],,The city pool is closed today. It will open again tomorrow morning at ten.,Tomorrow morning,This afternoon,Next week,Tonight,0,It opens tomorrow morning.
+vocabulary,Choose the best answer.,I usually eat breakfast at seven (    ). [Set 4],,,clock,o'clock,time,hour,1,Use seven o'clock for time.
+vocabulary,Choose the best answer.,My sister can play the piano very (    ). [Set 4],,,well,good,nice,happy,0,Use the adverb well.
+vocabulary,Choose the best answer.,Please (    ) your name here. [Set 4],,,write,read,speak,listen,0,Write fits with name here.
+vocabulary,Choose the best answer.,The box is too heavy. I cannot (    ) it. [Set 4],,,carry,cook,open,watch,0,Carry means move something heavy.
+vocabulary,Choose the best answer.,I am thirsty. I want some (    ). [Set 4],,,water,paper,music,homework,0,Thirsty means wanting water.
+vocabulary,Choose the best answer.,My father is a doctor. He works at a (    ). [Set 4],,,hospital,station,library,farm,0,Doctors work at hospitals.
+vocabulary,Choose the best answer.,This question is not easy. It is (    ). [Set 4],,,difficult,small,early,quiet,0,Not easy means difficult.
+vocabulary,Choose the best answer.,I (    ) my teeth after breakfast. [Set 4],,,brush,ride,draw,close,0,The phrase is brush my teeth.
+vocabulary,Choose the best answer.,A (    ) has a long neck. [Set 4],,,giraffe,rabbit,fish,bird,0,A giraffe has a long neck.
+vocabulary,Choose the best answer.,Spring comes after (    ). [Set 4],,,winter,summer,Sunday,breakfast,0,Spring comes after winter.
+vocabulary,Choose the best answer.,There are twelve (    ) in a year. [Set 4],,,months,hours,days,minutes,0,A year has twelve months.
+vocabulary,Choose the best answer.,She (    ) her room every Sunday. [Set 4],,,cleans,drinks,wears,runs,0,Clean a room is natural.
+vocabulary,Choose the best answer.,This cap is (    ) than that one. [Set 4],,,newer,new,newest,newly,0,Than needs a comparative form.
+vocabulary,Choose the best answer.,The train will (    ) at three thirty. [Set 4],,,arrive,wash,invite,climb,0,Trains arrive at a time.
+vocabulary,Choose the best answer.,I have to (    ) for the test tonight. [Set 4],,,study,sleep,dance,snow,0,Study for a test is natural.
+conversation,Choose the best response.,"A: How was your weekend?
+B: (    )
+[Set 4]",,,It was great.,It is on the desk.,At three.,"Yes, I do.",0,Answer with an opinion.
+conversation,Choose the best response.,"A: Whose bag is this?
+B: (    )
+[Set 4]",,,It is Ken's.,It is sunny.,I am twelve.,I like bags.,0,Whose asks the owner.
+conversation,Choose the best response.,"A: May I use your pen?
+B: (    )
+[Set 4]",,,Sure. Here you are.,I am fine.,It is Monday.,"No, I don't.",0,This accepts a request.
+conversation,Choose the best response.,"A: What time do you get up?
+B: (    )
+[Set 4]",,,At six thirty.,In the kitchen.,With my brother.,Because I like it.,0,What time asks for a time.
+conversation,Choose the best response.,"A: Would you like some tea?
+B: (    )
+[Set 4]",,,"Yes, please.",It is blue.,I am reading.,On foot.,0,"Use Yes, please for an offer."
+ordering,Choose the best word order.,I went to the library yesterday. Choose the best order: I (    ) yesterday. [Set 4],,,went to the library,to the library went,library to went,went the library to,0,The order is went to the library.
+ordering,Choose the best word order.,She studies English every morning. Choose the best order: She (    ) every morning. [Set 4],,,studies English,English studies,study English,studies the English,0,She takes studies.
+ordering,Choose the best word order.,What time do you get up? Choose the best order: (    ) get up? [Set 4],,,What time do you,Do what time you,What you do time,You what time do,0,Use What time do you.
+ordering,Choose the best word order.,I want that red bag. Choose the best order: I (    ). [Set 4],,,want that red bag,that red bag want,want red that bag,that want red bag,0,Use want that red bag.
+ordering,Choose the best word order.,Ken plays soccer after school. Choose the best order: Ken (    ) after school. [Set 4],,,plays soccer,soccer plays,play soccer,plays the soccer,0,Ken takes plays.
+reading,Read the passage and answer.,What does Emma do every Saturday morning? [Set 4],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,She goes to the park.,She studies math.,She cleans her room.,She visits her grandmother.,0,The passage says she goes to the park.
+reading,Read the passage and answer.,What do they buy after the park? [Set 4],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,Bread,Milk,A dog,A book,0,They buy bread.
+reading,Read the passage and answer.,What will Yuta's class make? [Set 4],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,Curry and rice,Sandwiches,Cake,Soup,0,They will make curry and rice.
+reading,Read the passage and answer.,When will Yuta buy vegetables? [Set 4],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,After school today,Next Sunday,Tomorrow morning,During lunch,0,The passage says after school today.
+reading,Read the passage and answer.,Where does Lisa live? [Set 4],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,Australia,Japan,Canada,India,0,Lisa lives in Australia.
+reading,Read the passage and answer.,What does Miki want to send? [Set 4],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,A picture of snow,A summer hat,An email from Canada,A Japanese book,0,She wants to send a picture of snow.
+reading,Read the passage and answer.,Where does Ben work on Sundays? [Set 4],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,At a bakery,At a hospital,At a station,At a school,0,He works at a bakery.
+reading,Read the passage and answer.,What is Ben's favorite bread? [Set 4],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,Melon bread,French bread,Rice bread,Banana bread,0,His favorite is melon bread.
+reading,Read the passage and answer.,How many fish did they catch? [Set 4],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,Three,Two,Four,Five,0,They caught three fish.
+reading,Read the passage and answer.,What did they do at night? [Set 4],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,They looked at the stars.,They swam.,They played soccer.,They cooked breakfast.,0,They looked at the stars.
+listening1,Choose the best response.,What is the best response? [Set 4],,Boy: I lost my pencil. Girl: (    ),You can use mine.,It is sunny today.,I like soccer.,I do not know.,0,This is a helpful response.
+listening1,Choose the best response.,What is the best response? [Set 4],,Girl: Thank you for helping me. Boy: (    ),You're welcome.,I am ten.,At school.,I do not know.,0,Reply to thanks with You are welcome.
+listening1,Choose the best response.,What is the best response? [Set 4],,Mother: Please clean your room. Boy: (    ),"OK, Mom.",I like rooms.,It is blue.,I do not know.,0,OK accepts the request.
+listening1,Choose the best response.,What is the best response? [Set 4],,Man: Where is the post office? Woman: (    ),It is next to the bank.,I bought stamps.,It is delicious.,I do not know.,0,Answer with a place.
+listening1,Choose the best response.,What is the best response? [Set 4],,Girl: Can you come to my party? Boy: (    ),"Yes, I'd love to.",It is my party.,I can swim.,I do not know.,0,This accepts the invitation.
+listening1,Choose the best response.,What is the best response? [Set 4],,Teacher: Open your books to page ten. Student: (    ),All right.,I am hungry.,It is mine.,I do not know.,0,All right follows the instruction.
+listening1,Choose the best response.,What is the best response? [Set 4],,Boy: Happy New Year! Girl: (    ),Happy New Year!,Nice to meet you.,I'm sorry.,I do not know.,0,Return the same greeting.
+listening1,Choose the best response.,What is the best response? [Set 4],,Woman: Would you like some cake? Boy: (    ),"Yes, please.",It is on Sunday.,I am cake.,I do not know.,0,Use Yes please for an offer.
+listening1,Choose the best response.,What is the best response? [Set 4],,Girl: I have a test tomorrow. Boy: (    ),Good luck.,It is a test.,I watched TV.,I do not know.,0,Say Good luck before a test.
+listening1,Choose the best response.,What is the best response? [Set 4],,Father: Don't run in the kitchen. Girl: (    ),"Sorry, I won't.","Yes, I run.",In the kitchen.,I do not know.,0,Apologize after a warning.
+listening2,Listen and choose the best answer.,What is true? [Set 4],,"Girl: I have two tickets for the soccer game. Can you come with me on Sunday? Boy: Sorry, I have to visit my aunt.",The girl has soccer tickets.,The boy will go on Sunday.,The boy has two tickets.,They will visit the aunt together.,0,The girl has two tickets.
+listening2,Listen and choose the best answer.,What does Mike need? [Set 4],,"Mother: It is raining now. Take your umbrella, Mike. Mike: OK, Mom.",An umbrella,A notebook,A ticket,A camera,0,He needs an umbrella.
+listening2,Listen and choose the best answer.,What should the student bring? [Set 4],,"Teacher: Please bring your science book tomorrow. Student: Do we need a notebook too? Teacher: No, just the book.",A science book,A notebook,A lunch box,A dictionary,0,Only the science book is needed.
+listening2,Listen and choose the best answer.,When will they meet? [Set 4],,"Boy: What time does the movie start? Girl: It starts at four, but let us meet at three thirty.",At three thirty,At four,At two thirty,At five,0,They will meet at three thirty.
+listening2,Listen and choose the best answer.,Which bus should the man take? [Set 4],,Man: Is this bus going to the museum? Woman: No. Please take bus number eight.,Bus number eight,This bus,Bus number five,A train,0,He should take bus number eight.
+listening2,Listen and choose the best answer.,Where is the notebook? [Set 4],,"Girl: I cannot find my math notebook. Boy: Is it in your desk? Girl: Oh, yes.",In her desk,In her bag,On the chair,At home,0,It is in her desk.
+listening2,Listen and choose the best answer.,What will they make? [Set 4],,Father: What do you want for dinner? Boy: I want spaghetti.,Spaghetti,Curry,Salad,Sandwiches,0,The boy wants spaghetti.
+listening2,Listen and choose the best answer.,When will they go to the museum? [Set 4],,Woman: The museum is closed on Mondays. Boy: Then let us go there on Tuesday.,Tuesday,Monday,Friday,Sunday,0,They will go on Tuesday.
+listening2,Listen and choose the best answer.,How old is Max? [Set 4],,Girl: Your dog is cute. What is his name? Boy: His name is Max. He is five years old.,Five,Four,Six,Ten,0,Max is five.
+listening2,Listen and choose the best answer.,What will the students do after lunch? [Set 4],,Teacher: We will clean the classroom after lunch. Please do not go home early.,Clean the classroom,Go home,Eat breakfast,Play in the park,0,They will clean the classroom.
+listening3,Listen and choose the best answer.,What did Meg give her cat today? [Set 4],,"Meg gets up at six every morning. Today, she gave her cat fish.",Fish,Milk,Bread,Chicken,0,She gave the cat fish.
+listening3,Listen and choose the best answer.,What can children do in May? [Set 4],,The new sports center opens next Saturday. Children can use it for free in May.,Use the center for free,Buy tennis rackets,Open a pool,Play only soccer,0,They can use it for free.
+listening3,Listen and choose the best answer.,Where does Jun cousin live? [Set 4],,Jun will visit his cousin near the mountains this weekend.,Near the mountains,Near the sea,In a big city,Next to a library,0,The cousin lives near the mountains.
+listening3,Listen and choose the best answer.,What time does the festival end? [Set 4],,There is a music festival at the park today. It starts at two and ends at five.,At five,At two,At four,At seven,0,It ends at five.
+listening3,Listen and choose the best answer.,How many cookies will Lisa take to school? [Set 4],,Lisa made thirty cookies and ate two at home. She will take twenty-eight cookies to school.,Twenty-eight,Thirty,Two,Twenty,0,She will take twenty-eight.
+listening3,Listen and choose the best answer.,What animals did Tom like best? [Set 4],,Tom's family went to the zoo on Sunday. Tom liked the monkeys best because they were funny.,Monkeys,Lions,Birds,Elephants,0,He liked monkeys best.
+listening3,Listen and choose the best answer.,Why was the bus late? [Set 4],,The school bus was late this morning because of snow.,Because of snow,Because of rain,Because of traffic lights,Because of a game,0,It was late because of snow.
+listening3,Listen and choose the best answer.,What does Anna need? [Set 4],,Anna needs a blue notebook for science class.,A blue notebook,A red pen,A science book,A lunch box,0,She needs a blue notebook.
+listening3,Listen and choose the best answer.,What does Mr. Green do on weekends? [Set 4],,"Mr. Green teaches English. On weekends, he plays the guitar.",He plays the guitar.,He teaches math.,He reads newspapers.,He goes fishing.,0,He plays the guitar.
+listening3,Listen and choose the best answer.,When will the pool open again? [Set 4],,The city pool is closed today. It will open again tomorrow morning at ten.,Tomorrow morning,This afternoon,Next week,Tonight,0,It opens tomorrow morning.
+vocabulary,Choose the best answer.,I usually eat breakfast at seven (    ). [Set 5],,,clock,o'clock,time,hour,1,Use seven o'clock for time.
+vocabulary,Choose the best answer.,My sister can play the piano very (    ). [Set 5],,,well,good,nice,happy,0,Use the adverb well.
+vocabulary,Choose the best answer.,Please (    ) your name here. [Set 5],,,write,read,speak,listen,0,Write fits with name here.
+vocabulary,Choose the best answer.,The box is too heavy. I cannot (    ) it. [Set 5],,,carry,cook,open,watch,0,Carry means move something heavy.
+vocabulary,Choose the best answer.,I am thirsty. I want some (    ). [Set 5],,,water,paper,music,homework,0,Thirsty means wanting water.
+vocabulary,Choose the best answer.,My father is a doctor. He works at a (    ). [Set 5],,,hospital,station,library,farm,0,Doctors work at hospitals.
+vocabulary,Choose the best answer.,This question is not easy. It is (    ). [Set 5],,,difficult,small,early,quiet,0,Not easy means difficult.
+vocabulary,Choose the best answer.,I (    ) my teeth after breakfast. [Set 5],,,brush,ride,draw,close,0,The phrase is brush my teeth.
+vocabulary,Choose the best answer.,A (    ) has a long neck. [Set 5],,,giraffe,rabbit,fish,bird,0,A giraffe has a long neck.
+vocabulary,Choose the best answer.,Spring comes after (    ). [Set 5],,,winter,summer,Sunday,breakfast,0,Spring comes after winter.
+vocabulary,Choose the best answer.,There are twelve (    ) in a year. [Set 5],,,months,hours,days,minutes,0,A year has twelve months.
+vocabulary,Choose the best answer.,She (    ) her room every Sunday. [Set 5],,,cleans,drinks,wears,runs,0,Clean a room is natural.
+vocabulary,Choose the best answer.,This cap is (    ) than that one. [Set 5],,,newer,new,newest,newly,0,Than needs a comparative form.
+vocabulary,Choose the best answer.,The train will (    ) at three thirty. [Set 5],,,arrive,wash,invite,climb,0,Trains arrive at a time.
+vocabulary,Choose the best answer.,I have to (    ) for the test tonight. [Set 5],,,study,sleep,dance,snow,0,Study for a test is natural.
+conversation,Choose the best response.,"A: How was your weekend?
+B: (    )
+[Set 5]",,,It was great.,It is on the desk.,At three.,"Yes, I do.",0,Answer with an opinion.
+conversation,Choose the best response.,"A: Whose bag is this?
+B: (    )
+[Set 5]",,,It is Ken's.,It is sunny.,I am twelve.,I like bags.,0,Whose asks the owner.
+conversation,Choose the best response.,"A: May I use your pen?
+B: (    )
+[Set 5]",,,Sure. Here you are.,I am fine.,It is Monday.,"No, I don't.",0,This accepts a request.
+conversation,Choose the best response.,"A: What time do you get up?
+B: (    )
+[Set 5]",,,At six thirty.,In the kitchen.,With my brother.,Because I like it.,0,What time asks for a time.
+conversation,Choose the best response.,"A: Would you like some tea?
+B: (    )
+[Set 5]",,,"Yes, please.",It is blue.,I am reading.,On foot.,0,"Use Yes, please for an offer."
+ordering,Choose the best word order.,I went to the library yesterday. Choose the best order: I (    ) yesterday. [Set 5],,,went to the library,to the library went,library to went,went the library to,0,The order is went to the library.
+ordering,Choose the best word order.,She studies English every morning. Choose the best order: She (    ) every morning. [Set 5],,,studies English,English studies,study English,studies the English,0,She takes studies.
+ordering,Choose the best word order.,What time do you get up? Choose the best order: (    ) get up? [Set 5],,,What time do you,Do what time you,What you do time,You what time do,0,Use What time do you.
+ordering,Choose the best word order.,I want that red bag. Choose the best order: I (    ). [Set 5],,,want that red bag,that red bag want,want red that bag,that want red bag,0,Use want that red bag.
+ordering,Choose the best word order.,Ken plays soccer after school. Choose the best order: Ken (    ) after school. [Set 5],,,plays soccer,soccer plays,play soccer,plays the soccer,0,Ken takes plays.
+reading,Read the passage and answer.,What does Emma do every Saturday morning? [Set 5],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,She goes to the park.,She studies math.,She cleans her room.,She visits her grandmother.,0,The passage says she goes to the park.
+reading,Read the passage and answer.,What do they buy after the park? [Set 5],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,Bread,Milk,A dog,A book,0,They buy bread.
+reading,Read the passage and answer.,What will Yuta's class make? [Set 5],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,Curry and rice,Sandwiches,Cake,Soup,0,They will make curry and rice.
+reading,Read the passage and answer.,When will Yuta buy vegetables? [Set 5],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,After school today,Next Sunday,Tomorrow morning,During lunch,0,The passage says after school today.
+reading,Read the passage and answer.,Where does Lisa live? [Set 5],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,Australia,Japan,Canada,India,0,Lisa lives in Australia.
+reading,Read the passage and answer.,What does Miki want to send? [Set 5],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,A picture of snow,A summer hat,An email from Canada,A Japanese book,0,She wants to send a picture of snow.
+reading,Read the passage and answer.,Where does Ben work on Sundays? [Set 5],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,At a bakery,At a hospital,At a station,At a school,0,He works at a bakery.
+reading,Read the passage and answer.,What is Ben's favorite bread? [Set 5],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,Melon bread,French bread,Rice bread,Banana bread,0,His favorite is melon bread.
+reading,Read the passage and answer.,How many fish did they catch? [Set 5],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,Three,Two,Four,Five,0,They caught three fish.
+reading,Read the passage and answer.,What did they do at night? [Set 5],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,They looked at the stars.,They swam.,They played soccer.,They cooked breakfast.,0,They looked at the stars.
+listening1,Choose the best response.,What is the best response? [Set 5],,Boy: I lost my pencil. Girl: (    ),You can use mine.,It is sunny today.,I like soccer.,I do not know.,0,This is a helpful response.
+listening1,Choose the best response.,What is the best response? [Set 5],,Girl: Thank you for helping me. Boy: (    ),You're welcome.,I am ten.,At school.,I do not know.,0,Reply to thanks with You are welcome.
+listening1,Choose the best response.,What is the best response? [Set 5],,Mother: Please clean your room. Boy: (    ),"OK, Mom.",I like rooms.,It is blue.,I do not know.,0,OK accepts the request.
+listening1,Choose the best response.,What is the best response? [Set 5],,Man: Where is the post office? Woman: (    ),It is next to the bank.,I bought stamps.,It is delicious.,I do not know.,0,Answer with a place.
+listening1,Choose the best response.,What is the best response? [Set 5],,Girl: Can you come to my party? Boy: (    ),"Yes, I'd love to.",It is my party.,I can swim.,I do not know.,0,This accepts the invitation.
+listening1,Choose the best response.,What is the best response? [Set 5],,Teacher: Open your books to page ten. Student: (    ),All right.,I am hungry.,It is mine.,I do not know.,0,All right follows the instruction.
+listening1,Choose the best response.,What is the best response? [Set 5],,Boy: Happy New Year! Girl: (    ),Happy New Year!,Nice to meet you.,I'm sorry.,I do not know.,0,Return the same greeting.
+listening1,Choose the best response.,What is the best response? [Set 5],,Woman: Would you like some cake? Boy: (    ),"Yes, please.",It is on Sunday.,I am cake.,I do not know.,0,Use Yes please for an offer.
+listening1,Choose the best response.,What is the best response? [Set 5],,Girl: I have a test tomorrow. Boy: (    ),Good luck.,It is a test.,I watched TV.,I do not know.,0,Say Good luck before a test.
+listening1,Choose the best response.,What is the best response? [Set 5],,Father: Don't run in the kitchen. Girl: (    ),"Sorry, I won't.","Yes, I run.",In the kitchen.,I do not know.,0,Apologize after a warning.
+listening2,Listen and choose the best answer.,What is true? [Set 5],,"Girl: I have two tickets for the soccer game. Can you come with me on Sunday? Boy: Sorry, I have to visit my aunt.",The girl has soccer tickets.,The boy will go on Sunday.,The boy has two tickets.,They will visit the aunt together.,0,The girl has two tickets.
+listening2,Listen and choose the best answer.,What does Mike need? [Set 5],,"Mother: It is raining now. Take your umbrella, Mike. Mike: OK, Mom.",An umbrella,A notebook,A ticket,A camera,0,He needs an umbrella.
+listening2,Listen and choose the best answer.,What should the student bring? [Set 5],,"Teacher: Please bring your science book tomorrow. Student: Do we need a notebook too? Teacher: No, just the book.",A science book,A notebook,A lunch box,A dictionary,0,Only the science book is needed.
+listening2,Listen and choose the best answer.,When will they meet? [Set 5],,"Boy: What time does the movie start? Girl: It starts at four, but let us meet at three thirty.",At three thirty,At four,At two thirty,At five,0,They will meet at three thirty.
+listening2,Listen and choose the best answer.,Which bus should the man take? [Set 5],,Man: Is this bus going to the museum? Woman: No. Please take bus number eight.,Bus number eight,This bus,Bus number five,A train,0,He should take bus number eight.
+listening2,Listen and choose the best answer.,Where is the notebook? [Set 5],,"Girl: I cannot find my math notebook. Boy: Is it in your desk? Girl: Oh, yes.",In her desk,In her bag,On the chair,At home,0,It is in her desk.
+listening2,Listen and choose the best answer.,What will they make? [Set 5],,Father: What do you want for dinner? Boy: I want spaghetti.,Spaghetti,Curry,Salad,Sandwiches,0,The boy wants spaghetti.
+listening2,Listen and choose the best answer.,When will they go to the museum? [Set 5],,Woman: The museum is closed on Mondays. Boy: Then let us go there on Tuesday.,Tuesday,Monday,Friday,Sunday,0,They will go on Tuesday.
+listening2,Listen and choose the best answer.,How old is Max? [Set 5],,Girl: Your dog is cute. What is his name? Boy: His name is Max. He is five years old.,Five,Four,Six,Ten,0,Max is five.
+listening2,Listen and choose the best answer.,What will the students do after lunch? [Set 5],,Teacher: We will clean the classroom after lunch. Please do not go home early.,Clean the classroom,Go home,Eat breakfast,Play in the park,0,They will clean the classroom.
+listening3,Listen and choose the best answer.,What did Meg give her cat today? [Set 5],,"Meg gets up at six every morning. Today, she gave her cat fish.",Fish,Milk,Bread,Chicken,0,She gave the cat fish.
+listening3,Listen and choose the best answer.,What can children do in May? [Set 5],,The new sports center opens next Saturday. Children can use it for free in May.,Use the center for free,Buy tennis rackets,Open a pool,Play only soccer,0,They can use it for free.
+listening3,Listen and choose the best answer.,Where does Jun cousin live? [Set 5],,Jun will visit his cousin near the mountains this weekend.,Near the mountains,Near the sea,In a big city,Next to a library,0,The cousin lives near the mountains.
+listening3,Listen and choose the best answer.,What time does the festival end? [Set 5],,There is a music festival at the park today. It starts at two and ends at five.,At five,At two,At four,At seven,0,It ends at five.
+listening3,Listen and choose the best answer.,How many cookies will Lisa take to school? [Set 5],,Lisa made thirty cookies and ate two at home. She will take twenty-eight cookies to school.,Twenty-eight,Thirty,Two,Twenty,0,She will take twenty-eight.
+listening3,Listen and choose the best answer.,What animals did Tom like best? [Set 5],,Tom's family went to the zoo on Sunday. Tom liked the monkeys best because they were funny.,Monkeys,Lions,Birds,Elephants,0,He liked monkeys best.
+listening3,Listen and choose the best answer.,Why was the bus late? [Set 5],,The school bus was late this morning because of snow.,Because of snow,Because of rain,Because of traffic lights,Because of a game,0,It was late because of snow.
+listening3,Listen and choose the best answer.,What does Anna need? [Set 5],,Anna needs a blue notebook for science class.,A blue notebook,A red pen,A science book,A lunch box,0,She needs a blue notebook.
+listening3,Listen and choose the best answer.,What does Mr. Green do on weekends? [Set 5],,"Mr. Green teaches English. On weekends, he plays the guitar.",He plays the guitar.,He teaches math.,He reads newspapers.,He goes fishing.,0,He plays the guitar.
+listening3,Listen and choose the best answer.,When will the pool open again? [Set 5],,The city pool is closed today. It will open again tomorrow morning at ten.,Tomorrow morning,This afternoon,Next week,Tonight,0,It opens tomorrow morning.
+vocabulary,Choose the best answer.,I usually eat breakfast at seven (    ). [Set 6],,,clock,o'clock,time,hour,1,Use seven o'clock for time.
+vocabulary,Choose the best answer.,My sister can play the piano very (    ). [Set 6],,,well,good,nice,happy,0,Use the adverb well.
+vocabulary,Choose the best answer.,Please (    ) your name here. [Set 6],,,write,read,speak,listen,0,Write fits with name here.
+vocabulary,Choose the best answer.,The box is too heavy. I cannot (    ) it. [Set 6],,,carry,cook,open,watch,0,Carry means move something heavy.
+vocabulary,Choose the best answer.,I am thirsty. I want some (    ). [Set 6],,,water,paper,music,homework,0,Thirsty means wanting water.
+vocabulary,Choose the best answer.,My father is a doctor. He works at a (    ). [Set 6],,,hospital,station,library,farm,0,Doctors work at hospitals.
+vocabulary,Choose the best answer.,This question is not easy. It is (    ). [Set 6],,,difficult,small,early,quiet,0,Not easy means difficult.
+vocabulary,Choose the best answer.,I (    ) my teeth after breakfast. [Set 6],,,brush,ride,draw,close,0,The phrase is brush my teeth.
+vocabulary,Choose the best answer.,A (    ) has a long neck. [Set 6],,,giraffe,rabbit,fish,bird,0,A giraffe has a long neck.
+vocabulary,Choose the best answer.,Spring comes after (    ). [Set 6],,,winter,summer,Sunday,breakfast,0,Spring comes after winter.
+vocabulary,Choose the best answer.,There are twelve (    ) in a year. [Set 6],,,months,hours,days,minutes,0,A year has twelve months.
+vocabulary,Choose the best answer.,She (    ) her room every Sunday. [Set 6],,,cleans,drinks,wears,runs,0,Clean a room is natural.
+vocabulary,Choose the best answer.,This cap is (    ) than that one. [Set 6],,,newer,new,newest,newly,0,Than needs a comparative form.
+vocabulary,Choose the best answer.,The train will (    ) at three thirty. [Set 6],,,arrive,wash,invite,climb,0,Trains arrive at a time.
+vocabulary,Choose the best answer.,I have to (    ) for the test tonight. [Set 6],,,study,sleep,dance,snow,0,Study for a test is natural.
+conversation,Choose the best response.,"A: How was your weekend?
+B: (    )
+[Set 6]",,,It was great.,It is on the desk.,At three.,"Yes, I do.",0,Answer with an opinion.
+conversation,Choose the best response.,"A: Whose bag is this?
+B: (    )
+[Set 6]",,,It is Ken's.,It is sunny.,I am twelve.,I like bags.,0,Whose asks the owner.
+conversation,Choose the best response.,"A: May I use your pen?
+B: (    )
+[Set 6]",,,Sure. Here you are.,I am fine.,It is Monday.,"No, I don't.",0,This accepts a request.
+conversation,Choose the best response.,"A: What time do you get up?
+B: (    )
+[Set 6]",,,At six thirty.,In the kitchen.,With my brother.,Because I like it.,0,What time asks for a time.
+conversation,Choose the best response.,"A: Would you like some tea?
+B: (    )
+[Set 6]",,,"Yes, please.",It is blue.,I am reading.,On foot.,0,"Use Yes, please for an offer."
+ordering,Choose the best word order.,I went to the library yesterday. Choose the best order: I (    ) yesterday. [Set 6],,,went to the library,to the library went,library to went,went the library to,0,The order is went to the library.
+ordering,Choose the best word order.,She studies English every morning. Choose the best order: She (    ) every morning. [Set 6],,,studies English,English studies,study English,studies the English,0,She takes studies.
+ordering,Choose the best word order.,What time do you get up? Choose the best order: (    ) get up? [Set 6],,,What time do you,Do what time you,What you do time,You what time do,0,Use What time do you.
+ordering,Choose the best word order.,I want that red bag. Choose the best order: I (    ). [Set 6],,,want that red bag,that red bag want,want red that bag,that want red bag,0,Use want that red bag.
+ordering,Choose the best word order.,Ken plays soccer after school. Choose the best order: Ken (    ) after school. [Set 6],,,plays soccer,soccer plays,play soccer,plays the soccer,0,Ken takes plays.
+reading,Read the passage and answer.,What does Emma do every Saturday morning? [Set 6],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,She goes to the park.,She studies math.,She cleans her room.,She visits her grandmother.,0,The passage says she goes to the park.
+reading,Read the passage and answer.,What do they buy after the park? [Set 6],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,Bread,Milk,A dog,A book,0,They buy bread.
+reading,Read the passage and answer.,What will Yuta's class make? [Set 6],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,Curry and rice,Sandwiches,Cake,Soup,0,They will make curry and rice.
+reading,Read the passage and answer.,When will Yuta buy vegetables? [Set 6],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,After school today,Next Sunday,Tomorrow morning,During lunch,0,The passage says after school today.
+reading,Read the passage and answer.,Where does Lisa live? [Set 6],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,Australia,Japan,Canada,India,0,Lisa lives in Australia.
+reading,Read the passage and answer.,What does Miki want to send? [Set 6],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,A picture of snow,A summer hat,An email from Canada,A Japanese book,0,She wants to send a picture of snow.
+reading,Read the passage and answer.,Where does Ben work on Sundays? [Set 6],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,At a bakery,At a hospital,At a station,At a school,0,He works at a bakery.
+reading,Read the passage and answer.,What is Ben's favorite bread? [Set 6],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,Melon bread,French bread,Rice bread,Banana bread,0,His favorite is melon bread.
+reading,Read the passage and answer.,How many fish did they catch? [Set 6],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,Three,Two,Four,Five,0,They caught three fish.
+reading,Read the passage and answer.,What did they do at night? [Set 6],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,They looked at the stars.,They swam.,They played soccer.,They cooked breakfast.,0,They looked at the stars.
+listening1,Choose the best response.,What is the best response? [Set 6],,Boy: I lost my pencil. Girl: (    ),You can use mine.,It is sunny today.,I like soccer.,I do not know.,0,This is a helpful response.
+listening1,Choose the best response.,What is the best response? [Set 6],,Girl: Thank you for helping me. Boy: (    ),You're welcome.,I am ten.,At school.,I do not know.,0,Reply to thanks with You are welcome.
+listening1,Choose the best response.,What is the best response? [Set 6],,Mother: Please clean your room. Boy: (    ),"OK, Mom.",I like rooms.,It is blue.,I do not know.,0,OK accepts the request.
+listening1,Choose the best response.,What is the best response? [Set 6],,Man: Where is the post office? Woman: (    ),It is next to the bank.,I bought stamps.,It is delicious.,I do not know.,0,Answer with a place.
+listening1,Choose the best response.,What is the best response? [Set 6],,Girl: Can you come to my party? Boy: (    ),"Yes, I'd love to.",It is my party.,I can swim.,I do not know.,0,This accepts the invitation.
+listening1,Choose the best response.,What is the best response? [Set 6],,Teacher: Open your books to page ten. Student: (    ),All right.,I am hungry.,It is mine.,I do not know.,0,All right follows the instruction.
+listening1,Choose the best response.,What is the best response? [Set 6],,Boy: Happy New Year! Girl: (    ),Happy New Year!,Nice to meet you.,I'm sorry.,I do not know.,0,Return the same greeting.
+listening1,Choose the best response.,What is the best response? [Set 6],,Woman: Would you like some cake? Boy: (    ),"Yes, please.",It is on Sunday.,I am cake.,I do not know.,0,Use Yes please for an offer.
+listening1,Choose the best response.,What is the best response? [Set 6],,Girl: I have a test tomorrow. Boy: (    ),Good luck.,It is a test.,I watched TV.,I do not know.,0,Say Good luck before a test.
+listening1,Choose the best response.,What is the best response? [Set 6],,Father: Don't run in the kitchen. Girl: (    ),"Sorry, I won't.","Yes, I run.",In the kitchen.,I do not know.,0,Apologize after a warning.
+listening2,Listen and choose the best answer.,What is true? [Set 6],,"Girl: I have two tickets for the soccer game. Can you come with me on Sunday? Boy: Sorry, I have to visit my aunt.",The girl has soccer tickets.,The boy will go on Sunday.,The boy has two tickets.,They will visit the aunt together.,0,The girl has two tickets.
+listening2,Listen and choose the best answer.,What does Mike need? [Set 6],,"Mother: It is raining now. Take your umbrella, Mike. Mike: OK, Mom.",An umbrella,A notebook,A ticket,A camera,0,He needs an umbrella.
+listening2,Listen and choose the best answer.,What should the student bring? [Set 6],,"Teacher: Please bring your science book tomorrow. Student: Do we need a notebook too? Teacher: No, just the book.",A science book,A notebook,A lunch box,A dictionary,0,Only the science book is needed.
+listening2,Listen and choose the best answer.,When will they meet? [Set 6],,"Boy: What time does the movie start? Girl: It starts at four, but let us meet at three thirty.",At three thirty,At four,At two thirty,At five,0,They will meet at three thirty.
+listening2,Listen and choose the best answer.,Which bus should the man take? [Set 6],,Man: Is this bus going to the museum? Woman: No. Please take bus number eight.,Bus number eight,This bus,Bus number five,A train,0,He should take bus number eight.
+listening2,Listen and choose the best answer.,Where is the notebook? [Set 6],,"Girl: I cannot find my math notebook. Boy: Is it in your desk? Girl: Oh, yes.",In her desk,In her bag,On the chair,At home,0,It is in her desk.
+listening2,Listen and choose the best answer.,What will they make? [Set 6],,Father: What do you want for dinner? Boy: I want spaghetti.,Spaghetti,Curry,Salad,Sandwiches,0,The boy wants spaghetti.
+listening2,Listen and choose the best answer.,When will they go to the museum? [Set 6],,Woman: The museum is closed on Mondays. Boy: Then let us go there on Tuesday.,Tuesday,Monday,Friday,Sunday,0,They will go on Tuesday.
+listening2,Listen and choose the best answer.,How old is Max? [Set 6],,Girl: Your dog is cute. What is his name? Boy: His name is Max. He is five years old.,Five,Four,Six,Ten,0,Max is five.
+listening2,Listen and choose the best answer.,What will the students do after lunch? [Set 6],,Teacher: We will clean the classroom after lunch. Please do not go home early.,Clean the classroom,Go home,Eat breakfast,Play in the park,0,They will clean the classroom.
+listening3,Listen and choose the best answer.,What did Meg give her cat today? [Set 6],,"Meg gets up at six every morning. Today, she gave her cat fish.",Fish,Milk,Bread,Chicken,0,She gave the cat fish.
+listening3,Listen and choose the best answer.,What can children do in May? [Set 6],,The new sports center opens next Saturday. Children can use it for free in May.,Use the center for free,Buy tennis rackets,Open a pool,Play only soccer,0,They can use it for free.
+listening3,Listen and choose the best answer.,Where does Jun cousin live? [Set 6],,Jun will visit his cousin near the mountains this weekend.,Near the mountains,Near the sea,In a big city,Next to a library,0,The cousin lives near the mountains.
+listening3,Listen and choose the best answer.,What time does the festival end? [Set 6],,There is a music festival at the park today. It starts at two and ends at five.,At five,At two,At four,At seven,0,It ends at five.
+listening3,Listen and choose the best answer.,How many cookies will Lisa take to school? [Set 6],,Lisa made thirty cookies and ate two at home. She will take twenty-eight cookies to school.,Twenty-eight,Thirty,Two,Twenty,0,She will take twenty-eight.
+listening3,Listen and choose the best answer.,What animals did Tom like best? [Set 6],,Tom's family went to the zoo on Sunday. Tom liked the monkeys best because they were funny.,Monkeys,Lions,Birds,Elephants,0,He liked monkeys best.
+listening3,Listen and choose the best answer.,Why was the bus late? [Set 6],,The school bus was late this morning because of snow.,Because of snow,Because of rain,Because of traffic lights,Because of a game,0,It was late because of snow.
+listening3,Listen and choose the best answer.,What does Anna need? [Set 6],,Anna needs a blue notebook for science class.,A blue notebook,A red pen,A science book,A lunch box,0,She needs a blue notebook.
+listening3,Listen and choose the best answer.,What does Mr. Green do on weekends? [Set 6],,"Mr. Green teaches English. On weekends, he plays the guitar.",He plays the guitar.,He teaches math.,He reads newspapers.,He goes fishing.,0,He plays the guitar.
+listening3,Listen and choose the best answer.,When will the pool open again? [Set 6],,The city pool is closed today. It will open again tomorrow morning at ten.,Tomorrow morning,This afternoon,Next week,Tonight,0,It opens tomorrow morning.
+vocabulary,Choose the best answer.,I usually eat breakfast at seven (    ). [Set 7],,,clock,o'clock,time,hour,1,Use seven o'clock for time.
+vocabulary,Choose the best answer.,My sister can play the piano very (    ). [Set 7],,,well,good,nice,happy,0,Use the adverb well.
+vocabulary,Choose the best answer.,Please (    ) your name here. [Set 7],,,write,read,speak,listen,0,Write fits with name here.
+vocabulary,Choose the best answer.,The box is too heavy. I cannot (    ) it. [Set 7],,,carry,cook,open,watch,0,Carry means move something heavy.
+vocabulary,Choose the best answer.,I am thirsty. I want some (    ). [Set 7],,,water,paper,music,homework,0,Thirsty means wanting water.
+vocabulary,Choose the best answer.,My father is a doctor. He works at a (    ). [Set 7],,,hospital,station,library,farm,0,Doctors work at hospitals.
+vocabulary,Choose the best answer.,This question is not easy. It is (    ). [Set 7],,,difficult,small,early,quiet,0,Not easy means difficult.
+vocabulary,Choose the best answer.,I (    ) my teeth after breakfast. [Set 7],,,brush,ride,draw,close,0,The phrase is brush my teeth.
+vocabulary,Choose the best answer.,A (    ) has a long neck. [Set 7],,,giraffe,rabbit,fish,bird,0,A giraffe has a long neck.
+vocabulary,Choose the best answer.,Spring comes after (    ). [Set 7],,,winter,summer,Sunday,breakfast,0,Spring comes after winter.
+vocabulary,Choose the best answer.,There are twelve (    ) in a year. [Set 7],,,months,hours,days,minutes,0,A year has twelve months.
+vocabulary,Choose the best answer.,She (    ) her room every Sunday. [Set 7],,,cleans,drinks,wears,runs,0,Clean a room is natural.
+vocabulary,Choose the best answer.,This cap is (    ) than that one. [Set 7],,,newer,new,newest,newly,0,Than needs a comparative form.
+vocabulary,Choose the best answer.,The train will (    ) at three thirty. [Set 7],,,arrive,wash,invite,climb,0,Trains arrive at a time.
+vocabulary,Choose the best answer.,I have to (    ) for the test tonight. [Set 7],,,study,sleep,dance,snow,0,Study for a test is natural.
+conversation,Choose the best response.,"A: How was your weekend?
+B: (    )
+[Set 7]",,,It was great.,It is on the desk.,At three.,"Yes, I do.",0,Answer with an opinion.
+conversation,Choose the best response.,"A: Whose bag is this?
+B: (    )
+[Set 7]",,,It is Ken's.,It is sunny.,I am twelve.,I like bags.,0,Whose asks the owner.
+conversation,Choose the best response.,"A: May I use your pen?
+B: (    )
+[Set 7]",,,Sure. Here you are.,I am fine.,It is Monday.,"No, I don't.",0,This accepts a request.
+conversation,Choose the best response.,"A: What time do you get up?
+B: (    )
+[Set 7]",,,At six thirty.,In the kitchen.,With my brother.,Because I like it.,0,What time asks for a time.
+conversation,Choose the best response.,"A: Would you like some tea?
+B: (    )
+[Set 7]",,,"Yes, please.",It is blue.,I am reading.,On foot.,0,"Use Yes, please for an offer."
+ordering,Choose the best word order.,I went to the library yesterday. Choose the best order: I (    ) yesterday. [Set 7],,,went to the library,to the library went,library to went,went the library to,0,The order is went to the library.
+ordering,Choose the best word order.,She studies English every morning. Choose the best order: She (    ) every morning. [Set 7],,,studies English,English studies,study English,studies the English,0,She takes studies.
+ordering,Choose the best word order.,What time do you get up? Choose the best order: (    ) get up? [Set 7],,,What time do you,Do what time you,What you do time,You what time do,0,Use What time do you.
+ordering,Choose the best word order.,I want that red bag. Choose the best order: I (    ). [Set 7],,,want that red bag,that red bag want,want red that bag,that want red bag,0,Use want that red bag.
+ordering,Choose the best word order.,Ken plays soccer after school. Choose the best order: Ken (    ) after school. [Set 7],,,plays soccer,soccer plays,play soccer,plays the soccer,0,Ken takes plays.
+reading,Read the passage and answer.,What does Emma do every Saturday morning? [Set 7],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,She goes to the park.,She studies math.,She cleans her room.,She visits her grandmother.,0,The passage says she goes to the park.
+reading,Read the passage and answer.,What do they buy after the park? [Set 7],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,Bread,Milk,A dog,A book,0,They buy bread.
+reading,Read the passage and answer.,What will Yuta's class make? [Set 7],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,Curry and rice,Sandwiches,Cake,Soup,0,They will make curry and rice.
+reading,Read the passage and answer.,When will Yuta buy vegetables? [Set 7],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,After school today,Next Sunday,Tomorrow morning,During lunch,0,The passage says after school today.
+reading,Read the passage and answer.,Where does Lisa live? [Set 7],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,Australia,Japan,Canada,India,0,Lisa lives in Australia.
+reading,Read the passage and answer.,What does Miki want to send? [Set 7],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,A picture of snow,A summer hat,An email from Canada,A Japanese book,0,She wants to send a picture of snow.
+reading,Read the passage and answer.,Where does Ben work on Sundays? [Set 7],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,At a bakery,At a hospital,At a station,At a school,0,He works at a bakery.
+reading,Read the passage and answer.,What is Ben's favorite bread? [Set 7],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,Melon bread,French bread,Rice bread,Banana bread,0,His favorite is melon bread.
+reading,Read the passage and answer.,How many fish did they catch? [Set 7],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,Three,Two,Four,Five,0,They caught three fish.
+reading,Read the passage and answer.,What did they do at night? [Set 7],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,They looked at the stars.,They swam.,They played soccer.,They cooked breakfast.,0,They looked at the stars.
+listening1,Choose the best response.,What is the best response? [Set 7],,Boy: I lost my pencil. Girl: (    ),You can use mine.,It is sunny today.,I like soccer.,I do not know.,0,This is a helpful response.
+listening1,Choose the best response.,What is the best response? [Set 7],,Girl: Thank you for helping me. Boy: (    ),You're welcome.,I am ten.,At school.,I do not know.,0,Reply to thanks with You are welcome.
+listening1,Choose the best response.,What is the best response? [Set 7],,Mother: Please clean your room. Boy: (    ),"OK, Mom.",I like rooms.,It is blue.,I do not know.,0,OK accepts the request.
+listening1,Choose the best response.,What is the best response? [Set 7],,Man: Where is the post office? Woman: (    ),It is next to the bank.,I bought stamps.,It is delicious.,I do not know.,0,Answer with a place.
+listening1,Choose the best response.,What is the best response? [Set 7],,Girl: Can you come to my party? Boy: (    ),"Yes, I'd love to.",It is my party.,I can swim.,I do not know.,0,This accepts the invitation.
+listening1,Choose the best response.,What is the best response? [Set 7],,Teacher: Open your books to page ten. Student: (    ),All right.,I am hungry.,It is mine.,I do not know.,0,All right follows the instruction.
+listening1,Choose the best response.,What is the best response? [Set 7],,Boy: Happy New Year! Girl: (    ),Happy New Year!,Nice to meet you.,I'm sorry.,I do not know.,0,Return the same greeting.
+listening1,Choose the best response.,What is the best response? [Set 7],,Woman: Would you like some cake? Boy: (    ),"Yes, please.",It is on Sunday.,I am cake.,I do not know.,0,Use Yes please for an offer.
+listening1,Choose the best response.,What is the best response? [Set 7],,Girl: I have a test tomorrow. Boy: (    ),Good luck.,It is a test.,I watched TV.,I do not know.,0,Say Good luck before a test.
+listening1,Choose the best response.,What is the best response? [Set 7],,Father: Don't run in the kitchen. Girl: (    ),"Sorry, I won't.","Yes, I run.",In the kitchen.,I do not know.,0,Apologize after a warning.
+listening2,Listen and choose the best answer.,What is true? [Set 7],,"Girl: I have two tickets for the soccer game. Can you come with me on Sunday? Boy: Sorry, I have to visit my aunt.",The girl has soccer tickets.,The boy will go on Sunday.,The boy has two tickets.,They will visit the aunt together.,0,The girl has two tickets.
+listening2,Listen and choose the best answer.,What does Mike need? [Set 7],,"Mother: It is raining now. Take your umbrella, Mike. Mike: OK, Mom.",An umbrella,A notebook,A ticket,A camera,0,He needs an umbrella.
+listening2,Listen and choose the best answer.,What should the student bring? [Set 7],,"Teacher: Please bring your science book tomorrow. Student: Do we need a notebook too? Teacher: No, just the book.",A science book,A notebook,A lunch box,A dictionary,0,Only the science book is needed.
+listening2,Listen and choose the best answer.,When will they meet? [Set 7],,"Boy: What time does the movie start? Girl: It starts at four, but let us meet at three thirty.",At three thirty,At four,At two thirty,At five,0,They will meet at three thirty.
+listening2,Listen and choose the best answer.,Which bus should the man take? [Set 7],,Man: Is this bus going to the museum? Woman: No. Please take bus number eight.,Bus number eight,This bus,Bus number five,A train,0,He should take bus number eight.
+listening2,Listen and choose the best answer.,Where is the notebook? [Set 7],,"Girl: I cannot find my math notebook. Boy: Is it in your desk? Girl: Oh, yes.",In her desk,In her bag,On the chair,At home,0,It is in her desk.
+listening2,Listen and choose the best answer.,What will they make? [Set 7],,Father: What do you want for dinner? Boy: I want spaghetti.,Spaghetti,Curry,Salad,Sandwiches,0,The boy wants spaghetti.
+listening2,Listen and choose the best answer.,When will they go to the museum? [Set 7],,Woman: The museum is closed on Mondays. Boy: Then let us go there on Tuesday.,Tuesday,Monday,Friday,Sunday,0,They will go on Tuesday.
+listening2,Listen and choose the best answer.,How old is Max? [Set 7],,Girl: Your dog is cute. What is his name? Boy: His name is Max. He is five years old.,Five,Four,Six,Ten,0,Max is five.
+listening2,Listen and choose the best answer.,What will the students do after lunch? [Set 7],,Teacher: We will clean the classroom after lunch. Please do not go home early.,Clean the classroom,Go home,Eat breakfast,Play in the park,0,They will clean the classroom.
+listening3,Listen and choose the best answer.,What did Meg give her cat today? [Set 7],,"Meg gets up at six every morning. Today, she gave her cat fish.",Fish,Milk,Bread,Chicken,0,She gave the cat fish.
+listening3,Listen and choose the best answer.,What can children do in May? [Set 7],,The new sports center opens next Saturday. Children can use it for free in May.,Use the center for free,Buy tennis rackets,Open a pool,Play only soccer,0,They can use it for free.
+listening3,Listen and choose the best answer.,Where does Jun cousin live? [Set 7],,Jun will visit his cousin near the mountains this weekend.,Near the mountains,Near the sea,In a big city,Next to a library,0,The cousin lives near the mountains.
+listening3,Listen and choose the best answer.,What time does the festival end? [Set 7],,There is a music festival at the park today. It starts at two and ends at five.,At five,At two,At four,At seven,0,It ends at five.
+listening3,Listen and choose the best answer.,How many cookies will Lisa take to school? [Set 7],,Lisa made thirty cookies and ate two at home. She will take twenty-eight cookies to school.,Twenty-eight,Thirty,Two,Twenty,0,She will take twenty-eight.
+listening3,Listen and choose the best answer.,What animals did Tom like best? [Set 7],,Tom's family went to the zoo on Sunday. Tom liked the monkeys best because they were funny.,Monkeys,Lions,Birds,Elephants,0,He liked monkeys best.
+listening3,Listen and choose the best answer.,Why was the bus late? [Set 7],,The school bus was late this morning because of snow.,Because of snow,Because of rain,Because of traffic lights,Because of a game,0,It was late because of snow.
+listening3,Listen and choose the best answer.,What does Anna need? [Set 7],,Anna needs a blue notebook for science class.,A blue notebook,A red pen,A science book,A lunch box,0,She needs a blue notebook.
+listening3,Listen and choose the best answer.,What does Mr. Green do on weekends? [Set 7],,"Mr. Green teaches English. On weekends, he plays the guitar.",He plays the guitar.,He teaches math.,He reads newspapers.,He goes fishing.,0,He plays the guitar.
+listening3,Listen and choose the best answer.,When will the pool open again? [Set 7],,The city pool is closed today. It will open again tomorrow morning at ten.,Tomorrow morning,This afternoon,Next week,Tonight,0,It opens tomorrow morning.
+vocabulary,Choose the best answer.,I usually eat breakfast at seven (    ). [Set 8],,,clock,o'clock,time,hour,1,Use seven o'clock for time.
+vocabulary,Choose the best answer.,My sister can play the piano very (    ). [Set 8],,,well,good,nice,happy,0,Use the adverb well.
+vocabulary,Choose the best answer.,Please (    ) your name here. [Set 8],,,write,read,speak,listen,0,Write fits with name here.
+vocabulary,Choose the best answer.,The box is too heavy. I cannot (    ) it. [Set 8],,,carry,cook,open,watch,0,Carry means move something heavy.
+vocabulary,Choose the best answer.,I am thirsty. I want some (    ). [Set 8],,,water,paper,music,homework,0,Thirsty means wanting water.
+vocabulary,Choose the best answer.,My father is a doctor. He works at a (    ). [Set 8],,,hospital,station,library,farm,0,Doctors work at hospitals.
+vocabulary,Choose the best answer.,This question is not easy. It is (    ). [Set 8],,,difficult,small,early,quiet,0,Not easy means difficult.
+vocabulary,Choose the best answer.,I (    ) my teeth after breakfast. [Set 8],,,brush,ride,draw,close,0,The phrase is brush my teeth.
+vocabulary,Choose the best answer.,A (    ) has a long neck. [Set 8],,,giraffe,rabbit,fish,bird,0,A giraffe has a long neck.
+vocabulary,Choose the best answer.,Spring comes after (    ). [Set 8],,,winter,summer,Sunday,breakfast,0,Spring comes after winter.
+vocabulary,Choose the best answer.,There are twelve (    ) in a year. [Set 8],,,months,hours,days,minutes,0,A year has twelve months.
+vocabulary,Choose the best answer.,She (    ) her room every Sunday. [Set 8],,,cleans,drinks,wears,runs,0,Clean a room is natural.
+vocabulary,Choose the best answer.,This cap is (    ) than that one. [Set 8],,,newer,new,newest,newly,0,Than needs a comparative form.
+vocabulary,Choose the best answer.,The train will (    ) at three thirty. [Set 8],,,arrive,wash,invite,climb,0,Trains arrive at a time.
+vocabulary,Choose the best answer.,I have to (    ) for the test tonight. [Set 8],,,study,sleep,dance,snow,0,Study for a test is natural.
+conversation,Choose the best response.,"A: How was your weekend?
+B: (    )
+[Set 8]",,,It was great.,It is on the desk.,At three.,"Yes, I do.",0,Answer with an opinion.
+conversation,Choose the best response.,"A: Whose bag is this?
+B: (    )
+[Set 8]",,,It is Ken's.,It is sunny.,I am twelve.,I like bags.,0,Whose asks the owner.
+conversation,Choose the best response.,"A: May I use your pen?
+B: (    )
+[Set 8]",,,Sure. Here you are.,I am fine.,It is Monday.,"No, I don't.",0,This accepts a request.
+conversation,Choose the best response.,"A: What time do you get up?
+B: (    )
+[Set 8]",,,At six thirty.,In the kitchen.,With my brother.,Because I like it.,0,What time asks for a time.
+conversation,Choose the best response.,"A: Would you like some tea?
+B: (    )
+[Set 8]",,,"Yes, please.",It is blue.,I am reading.,On foot.,0,"Use Yes, please for an offer."
+ordering,Choose the best word order.,I went to the library yesterday. Choose the best order: I (    ) yesterday. [Set 8],,,went to the library,to the library went,library to went,went the library to,0,The order is went to the library.
+ordering,Choose the best word order.,She studies English every morning. Choose the best order: She (    ) every morning. [Set 8],,,studies English,English studies,study English,studies the English,0,She takes studies.
+ordering,Choose the best word order.,What time do you get up? Choose the best order: (    ) get up? [Set 8],,,What time do you,Do what time you,What you do time,You what time do,0,Use What time do you.
+ordering,Choose the best word order.,I want that red bag. Choose the best order: I (    ). [Set 8],,,want that red bag,that red bag want,want red that bag,that want red bag,0,Use want that red bag.
+ordering,Choose the best word order.,Ken plays soccer after school. Choose the best order: Ken (    ) after school. [Set 8],,,plays soccer,soccer plays,play soccer,plays the soccer,0,Ken takes plays.
+reading,Read the passage and answer.,What does Emma do every Saturday morning? [Set 8],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,She goes to the park.,She studies math.,She cleans her room.,She visits her grandmother.,0,The passage says she goes to the park.
+reading,Read the passage and answer.,What do they buy after the park? [Set 8],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,Bread,Milk,A dog,A book,0,They buy bread.
+reading,Read the passage and answer.,What will Yuta's class make? [Set 8],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,Curry and rice,Sandwiches,Cake,Soup,0,They will make curry and rice.
+reading,Read the passage and answer.,When will Yuta buy vegetables? [Set 8],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,After school today,Next Sunday,Tomorrow morning,During lunch,0,The passage says after school today.
+reading,Read the passage and answer.,Where does Lisa live? [Set 8],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,Australia,Japan,Canada,India,0,Lisa lives in Australia.
+reading,Read the passage and answer.,What does Miki want to send? [Set 8],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,A picture of snow,A summer hat,An email from Canada,A Japanese book,0,She wants to send a picture of snow.
+reading,Read the passage and answer.,Where does Ben work on Sundays? [Set 8],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,At a bakery,At a hospital,At a station,At a school,0,He works at a bakery.
+reading,Read the passage and answer.,What is Ben's favorite bread? [Set 8],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,Melon bread,French bread,Rice bread,Banana bread,0,His favorite is melon bread.
+reading,Read the passage and answer.,How many fish did they catch? [Set 8],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,Three,Two,Four,Five,0,They caught three fish.
+reading,Read the passage and answer.,What did they do at night? [Set 8],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,They looked at the stars.,They swam.,They played soccer.,They cooked breakfast.,0,They looked at the stars.
+listening1,Choose the best response.,What is the best response? [Set 8],,Boy: I lost my pencil. Girl: (    ),You can use mine.,It is sunny today.,I like soccer.,I do not know.,0,This is a helpful response.
+listening1,Choose the best response.,What is the best response? [Set 8],,Girl: Thank you for helping me. Boy: (    ),You're welcome.,I am ten.,At school.,I do not know.,0,Reply to thanks with You are welcome.
+listening1,Choose the best response.,What is the best response? [Set 8],,Mother: Please clean your room. Boy: (    ),"OK, Mom.",I like rooms.,It is blue.,I do not know.,0,OK accepts the request.
+listening1,Choose the best response.,What is the best response? [Set 8],,Man: Where is the post office? Woman: (    ),It is next to the bank.,I bought stamps.,It is delicious.,I do not know.,0,Answer with a place.
+listening1,Choose the best response.,What is the best response? [Set 8],,Girl: Can you come to my party? Boy: (    ),"Yes, I'd love to.",It is my party.,I can swim.,I do not know.,0,This accepts the invitation.
+listening1,Choose the best response.,What is the best response? [Set 8],,Teacher: Open your books to page ten. Student: (    ),All right.,I am hungry.,It is mine.,I do not know.,0,All right follows the instruction.
+listening1,Choose the best response.,What is the best response? [Set 8],,Boy: Happy New Year! Girl: (    ),Happy New Year!,Nice to meet you.,I'm sorry.,I do not know.,0,Return the same greeting.
+listening1,Choose the best response.,What is the best response? [Set 8],,Woman: Would you like some cake? Boy: (    ),"Yes, please.",It is on Sunday.,I am cake.,I do not know.,0,Use Yes please for an offer.
+listening1,Choose the best response.,What is the best response? [Set 8],,Girl: I have a test tomorrow. Boy: (    ),Good luck.,It is a test.,I watched TV.,I do not know.,0,Say Good luck before a test.
+listening1,Choose the best response.,What is the best response? [Set 8],,Father: Don't run in the kitchen. Girl: (    ),"Sorry, I won't.","Yes, I run.",In the kitchen.,I do not know.,0,Apologize after a warning.
+listening2,Listen and choose the best answer.,What is true? [Set 8],,"Girl: I have two tickets for the soccer game. Can you come with me on Sunday? Boy: Sorry, I have to visit my aunt.",The girl has soccer tickets.,The boy will go on Sunday.,The boy has two tickets.,They will visit the aunt together.,0,The girl has two tickets.
+listening2,Listen and choose the best answer.,What does Mike need? [Set 8],,"Mother: It is raining now. Take your umbrella, Mike. Mike: OK, Mom.",An umbrella,A notebook,A ticket,A camera,0,He needs an umbrella.
+listening2,Listen and choose the best answer.,What should the student bring? [Set 8],,"Teacher: Please bring your science book tomorrow. Student: Do we need a notebook too? Teacher: No, just the book.",A science book,A notebook,A lunch box,A dictionary,0,Only the science book is needed.
+listening2,Listen and choose the best answer.,When will they meet? [Set 8],,"Boy: What time does the movie start? Girl: It starts at four, but let us meet at three thirty.",At three thirty,At four,At two thirty,At five,0,They will meet at three thirty.
+listening2,Listen and choose the best answer.,Which bus should the man take? [Set 8],,Man: Is this bus going to the museum? Woman: No. Please take bus number eight.,Bus number eight,This bus,Bus number five,A train,0,He should take bus number eight.
+listening2,Listen and choose the best answer.,Where is the notebook? [Set 8],,"Girl: I cannot find my math notebook. Boy: Is it in your desk? Girl: Oh, yes.",In her desk,In her bag,On the chair,At home,0,It is in her desk.
+listening2,Listen and choose the best answer.,What will they make? [Set 8],,Father: What do you want for dinner? Boy: I want spaghetti.,Spaghetti,Curry,Salad,Sandwiches,0,The boy wants spaghetti.
+listening2,Listen and choose the best answer.,When will they go to the museum? [Set 8],,Woman: The museum is closed on Mondays. Boy: Then let us go there on Tuesday.,Tuesday,Monday,Friday,Sunday,0,They will go on Tuesday.
+listening2,Listen and choose the best answer.,How old is Max? [Set 8],,Girl: Your dog is cute. What is his name? Boy: His name is Max. He is five years old.,Five,Four,Six,Ten,0,Max is five.
+listening2,Listen and choose the best answer.,What will the students do after lunch? [Set 8],,Teacher: We will clean the classroom after lunch. Please do not go home early.,Clean the classroom,Go home,Eat breakfast,Play in the park,0,They will clean the classroom.
+listening3,Listen and choose the best answer.,What did Meg give her cat today? [Set 8],,"Meg gets up at six every morning. Today, she gave her cat fish.",Fish,Milk,Bread,Chicken,0,She gave the cat fish.
+listening3,Listen and choose the best answer.,What can children do in May? [Set 8],,The new sports center opens next Saturday. Children can use it for free in May.,Use the center for free,Buy tennis rackets,Open a pool,Play only soccer,0,They can use it for free.
+listening3,Listen and choose the best answer.,Where does Jun cousin live? [Set 8],,Jun will visit his cousin near the mountains this weekend.,Near the mountains,Near the sea,In a big city,Next to a library,0,The cousin lives near the mountains.
+listening3,Listen and choose the best answer.,What time does the festival end? [Set 8],,There is a music festival at the park today. It starts at two and ends at five.,At five,At two,At four,At seven,0,It ends at five.
+listening3,Listen and choose the best answer.,How many cookies will Lisa take to school? [Set 8],,Lisa made thirty cookies and ate two at home. She will take twenty-eight cookies to school.,Twenty-eight,Thirty,Two,Twenty,0,She will take twenty-eight.
+listening3,Listen and choose the best answer.,What animals did Tom like best? [Set 8],,Tom's family went to the zoo on Sunday. Tom liked the monkeys best because they were funny.,Monkeys,Lions,Birds,Elephants,0,He liked monkeys best.
+listening3,Listen and choose the best answer.,Why was the bus late? [Set 8],,The school bus was late this morning because of snow.,Because of snow,Because of rain,Because of traffic lights,Because of a game,0,It was late because of snow.
+listening3,Listen and choose the best answer.,What does Anna need? [Set 8],,Anna needs a blue notebook for science class.,A blue notebook,A red pen,A science book,A lunch box,0,She needs a blue notebook.
+listening3,Listen and choose the best answer.,What does Mr. Green do on weekends? [Set 8],,"Mr. Green teaches English. On weekends, he plays the guitar.",He plays the guitar.,He teaches math.,He reads newspapers.,He goes fishing.,0,He plays the guitar.
+listening3,Listen and choose the best answer.,When will the pool open again? [Set 8],,The city pool is closed today. It will open again tomorrow morning at ten.,Tomorrow morning,This afternoon,Next week,Tonight,0,It opens tomorrow morning.
+vocabulary,Choose the best answer.,I usually eat breakfast at seven (    ). [Set 9],,,clock,o'clock,time,hour,1,Use seven o'clock for time.
+vocabulary,Choose the best answer.,My sister can play the piano very (    ). [Set 9],,,well,good,nice,happy,0,Use the adverb well.
+vocabulary,Choose the best answer.,Please (    ) your name here. [Set 9],,,write,read,speak,listen,0,Write fits with name here.
+vocabulary,Choose the best answer.,The box is too heavy. I cannot (    ) it. [Set 9],,,carry,cook,open,watch,0,Carry means move something heavy.
+vocabulary,Choose the best answer.,I am thirsty. I want some (    ). [Set 9],,,water,paper,music,homework,0,Thirsty means wanting water.
+vocabulary,Choose the best answer.,My father is a doctor. He works at a (    ). [Set 9],,,hospital,station,library,farm,0,Doctors work at hospitals.
+vocabulary,Choose the best answer.,This question is not easy. It is (    ). [Set 9],,,difficult,small,early,quiet,0,Not easy means difficult.
+vocabulary,Choose the best answer.,I (    ) my teeth after breakfast. [Set 9],,,brush,ride,draw,close,0,The phrase is brush my teeth.
+vocabulary,Choose the best answer.,A (    ) has a long neck. [Set 9],,,giraffe,rabbit,fish,bird,0,A giraffe has a long neck.
+vocabulary,Choose the best answer.,Spring comes after (    ). [Set 9],,,winter,summer,Sunday,breakfast,0,Spring comes after winter.
+vocabulary,Choose the best answer.,There are twelve (    ) in a year. [Set 9],,,months,hours,days,minutes,0,A year has twelve months.
+vocabulary,Choose the best answer.,She (    ) her room every Sunday. [Set 9],,,cleans,drinks,wears,runs,0,Clean a room is natural.
+vocabulary,Choose the best answer.,This cap is (    ) than that one. [Set 9],,,newer,new,newest,newly,0,Than needs a comparative form.
+vocabulary,Choose the best answer.,The train will (    ) at three thirty. [Set 9],,,arrive,wash,invite,climb,0,Trains arrive at a time.
+vocabulary,Choose the best answer.,I have to (    ) for the test tonight. [Set 9],,,study,sleep,dance,snow,0,Study for a test is natural.
+conversation,Choose the best response.,"A: How was your weekend?
+B: (    )
+[Set 9]",,,It was great.,It is on the desk.,At three.,"Yes, I do.",0,Answer with an opinion.
+conversation,Choose the best response.,"A: Whose bag is this?
+B: (    )
+[Set 9]",,,It is Ken's.,It is sunny.,I am twelve.,I like bags.,0,Whose asks the owner.
+conversation,Choose the best response.,"A: May I use your pen?
+B: (    )
+[Set 9]",,,Sure. Here you are.,I am fine.,It is Monday.,"No, I don't.",0,This accepts a request.
+conversation,Choose the best response.,"A: What time do you get up?
+B: (    )
+[Set 9]",,,At six thirty.,In the kitchen.,With my brother.,Because I like it.,0,What time asks for a time.
+conversation,Choose the best response.,"A: Would you like some tea?
+B: (    )
+[Set 9]",,,"Yes, please.",It is blue.,I am reading.,On foot.,0,"Use Yes, please for an offer."
+ordering,Choose the best word order.,I went to the library yesterday. Choose the best order: I (    ) yesterday. [Set 9],,,went to the library,to the library went,library to went,went the library to,0,The order is went to the library.
+ordering,Choose the best word order.,She studies English every morning. Choose the best order: She (    ) every morning. [Set 9],,,studies English,English studies,study English,studies the English,0,She takes studies.
+ordering,Choose the best word order.,What time do you get up? Choose the best order: (    ) get up? [Set 9],,,What time do you,Do what time you,What you do time,You what time do,0,Use What time do you.
+ordering,Choose the best word order.,I want that red bag. Choose the best order: I (    ). [Set 9],,,want that red bag,that red bag want,want red that bag,that want red bag,0,Use want that red bag.
+ordering,Choose the best word order.,Ken plays soccer after school. Choose the best order: Ken (    ) after school. [Set 9],,,plays soccer,soccer plays,play soccer,plays the soccer,0,Ken takes plays.
+reading,Read the passage and answer.,What does Emma do every Saturday morning? [Set 9],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,She goes to the park.,She studies math.,She cleans her room.,She visits her grandmother.,0,The passage says she goes to the park.
+reading,Read the passage and answer.,What do they buy after the park? [Set 9],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,Bread,Milk,A dog,A book,0,They buy bread.
+reading,Read the passage and answer.,What will Yuta's class make? [Set 9],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,Curry and rice,Sandwiches,Cake,Soup,0,They will make curry and rice.
+reading,Read the passage and answer.,When will Yuta buy vegetables? [Set 9],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,After school today,Next Sunday,Tomorrow morning,During lunch,0,The passage says after school today.
+reading,Read the passage and answer.,Where does Lisa live? [Set 9],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,Australia,Japan,Canada,India,0,Lisa lives in Australia.
+reading,Read the passage and answer.,What does Miki want to send? [Set 9],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,A picture of snow,A summer hat,An email from Canada,A Japanese book,0,She wants to send a picture of snow.
+reading,Read the passage and answer.,Where does Ben work on Sundays? [Set 9],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,At a bakery,At a hospital,At a station,At a school,0,He works at a bakery.
+reading,Read the passage and answer.,What is Ben's favorite bread? [Set 9],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,Melon bread,French bread,Rice bread,Banana bread,0,His favorite is melon bread.
+reading,Read the passage and answer.,How many fish did they catch? [Set 9],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,Three,Two,Four,Five,0,They caught three fish.
+reading,Read the passage and answer.,What did they do at night? [Set 9],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,They looked at the stars.,They swam.,They played soccer.,They cooked breakfast.,0,They looked at the stars.
+listening1,Choose the best response.,What is the best response? [Set 9],,Boy: I lost my pencil. Girl: (    ),You can use mine.,It is sunny today.,I like soccer.,I do not know.,0,This is a helpful response.
+listening1,Choose the best response.,What is the best response? [Set 9],,Girl: Thank you for helping me. Boy: (    ),You're welcome.,I am ten.,At school.,I do not know.,0,Reply to thanks with You are welcome.
+listening1,Choose the best response.,What is the best response? [Set 9],,Mother: Please clean your room. Boy: (    ),"OK, Mom.",I like rooms.,It is blue.,I do not know.,0,OK accepts the request.
+listening1,Choose the best response.,What is the best response? [Set 9],,Man: Where is the post office? Woman: (    ),It is next to the bank.,I bought stamps.,It is delicious.,I do not know.,0,Answer with a place.
+listening1,Choose the best response.,What is the best response? [Set 9],,Girl: Can you come to my party? Boy: (    ),"Yes, I'd love to.",It is my party.,I can swim.,I do not know.,0,This accepts the invitation.
+listening1,Choose the best response.,What is the best response? [Set 9],,Teacher: Open your books to page ten. Student: (    ),All right.,I am hungry.,It is mine.,I do not know.,0,All right follows the instruction.
+listening1,Choose the best response.,What is the best response? [Set 9],,Boy: Happy New Year! Girl: (    ),Happy New Year!,Nice to meet you.,I'm sorry.,I do not know.,0,Return the same greeting.
+listening1,Choose the best response.,What is the best response? [Set 9],,Woman: Would you like some cake? Boy: (    ),"Yes, please.",It is on Sunday.,I am cake.,I do not know.,0,Use Yes please for an offer.
+listening1,Choose the best response.,What is the best response? [Set 9],,Girl: I have a test tomorrow. Boy: (    ),Good luck.,It is a test.,I watched TV.,I do not know.,0,Say Good luck before a test.
+listening1,Choose the best response.,What is the best response? [Set 9],,Father: Don't run in the kitchen. Girl: (    ),"Sorry, I won't.","Yes, I run.",In the kitchen.,I do not know.,0,Apologize after a warning.
+listening2,Listen and choose the best answer.,What is true? [Set 9],,"Girl: I have two tickets for the soccer game. Can you come with me on Sunday? Boy: Sorry, I have to visit my aunt.",The girl has soccer tickets.,The boy will go on Sunday.,The boy has two tickets.,They will visit the aunt together.,0,The girl has two tickets.
+listening2,Listen and choose the best answer.,What does Mike need? [Set 9],,"Mother: It is raining now. Take your umbrella, Mike. Mike: OK, Mom.",An umbrella,A notebook,A ticket,A camera,0,He needs an umbrella.
+listening2,Listen and choose the best answer.,What should the student bring? [Set 9],,"Teacher: Please bring your science book tomorrow. Student: Do we need a notebook too? Teacher: No, just the book.",A science book,A notebook,A lunch box,A dictionary,0,Only the science book is needed.
+listening2,Listen and choose the best answer.,When will they meet? [Set 9],,"Boy: What time does the movie start? Girl: It starts at four, but let us meet at three thirty.",At three thirty,At four,At two thirty,At five,0,They will meet at three thirty.
+listening2,Listen and choose the best answer.,Which bus should the man take? [Set 9],,Man: Is this bus going to the museum? Woman: No. Please take bus number eight.,Bus number eight,This bus,Bus number five,A train,0,He should take bus number eight.
+listening2,Listen and choose the best answer.,Where is the notebook? [Set 9],,"Girl: I cannot find my math notebook. Boy: Is it in your desk? Girl: Oh, yes.",In her desk,In her bag,On the chair,At home,0,It is in her desk.
+listening2,Listen and choose the best answer.,What will they make? [Set 9],,Father: What do you want for dinner? Boy: I want spaghetti.,Spaghetti,Curry,Salad,Sandwiches,0,The boy wants spaghetti.
+listening2,Listen and choose the best answer.,When will they go to the museum? [Set 9],,Woman: The museum is closed on Mondays. Boy: Then let us go there on Tuesday.,Tuesday,Monday,Friday,Sunday,0,They will go on Tuesday.
+listening2,Listen and choose the best answer.,How old is Max? [Set 9],,Girl: Your dog is cute. What is his name? Boy: His name is Max. He is five years old.,Five,Four,Six,Ten,0,Max is five.
+listening2,Listen and choose the best answer.,What will the students do after lunch? [Set 9],,Teacher: We will clean the classroom after lunch. Please do not go home early.,Clean the classroom,Go home,Eat breakfast,Play in the park,0,They will clean the classroom.
+listening3,Listen and choose the best answer.,What did Meg give her cat today? [Set 9],,"Meg gets up at six every morning. Today, she gave her cat fish.",Fish,Milk,Bread,Chicken,0,She gave the cat fish.
+listening3,Listen and choose the best answer.,What can children do in May? [Set 9],,The new sports center opens next Saturday. Children can use it for free in May.,Use the center for free,Buy tennis rackets,Open a pool,Play only soccer,0,They can use it for free.
+listening3,Listen and choose the best answer.,Where does Jun cousin live? [Set 9],,Jun will visit his cousin near the mountains this weekend.,Near the mountains,Near the sea,In a big city,Next to a library,0,The cousin lives near the mountains.
+listening3,Listen and choose the best answer.,What time does the festival end? [Set 9],,There is a music festival at the park today. It starts at two and ends at five.,At five,At two,At four,At seven,0,It ends at five.
+listening3,Listen and choose the best answer.,How many cookies will Lisa take to school? [Set 9],,Lisa made thirty cookies and ate two at home. She will take twenty-eight cookies to school.,Twenty-eight,Thirty,Two,Twenty,0,She will take twenty-eight.
+listening3,Listen and choose the best answer.,What animals did Tom like best? [Set 9],,Tom's family went to the zoo on Sunday. Tom liked the monkeys best because they were funny.,Monkeys,Lions,Birds,Elephants,0,He liked monkeys best.
+listening3,Listen and choose the best answer.,Why was the bus late? [Set 9],,The school bus was late this morning because of snow.,Because of snow,Because of rain,Because of traffic lights,Because of a game,0,It was late because of snow.
+listening3,Listen and choose the best answer.,What does Anna need? [Set 9],,Anna needs a blue notebook for science class.,A blue notebook,A red pen,A science book,A lunch box,0,She needs a blue notebook.
+listening3,Listen and choose the best answer.,What does Mr. Green do on weekends? [Set 9],,"Mr. Green teaches English. On weekends, he plays the guitar.",He plays the guitar.,He teaches math.,He reads newspapers.,He goes fishing.,0,He plays the guitar.
+listening3,Listen and choose the best answer.,When will the pool open again? [Set 9],,The city pool is closed today. It will open again tomorrow morning at ten.,Tomorrow morning,This afternoon,Next week,Tonight,0,It opens tomorrow morning.
+vocabulary,Choose the best answer.,I usually eat breakfast at seven (    ). [Set 10],,,clock,o'clock,time,hour,1,Use seven o'clock for time.
+vocabulary,Choose the best answer.,My sister can play the piano very (    ). [Set 10],,,well,good,nice,happy,0,Use the adverb well.
+vocabulary,Choose the best answer.,Please (    ) your name here. [Set 10],,,write,read,speak,listen,0,Write fits with name here.
+vocabulary,Choose the best answer.,The box is too heavy. I cannot (    ) it. [Set 10],,,carry,cook,open,watch,0,Carry means move something heavy.
+vocabulary,Choose the best answer.,I am thirsty. I want some (    ). [Set 10],,,water,paper,music,homework,0,Thirsty means wanting water.
+vocabulary,Choose the best answer.,My father is a doctor. He works at a (    ). [Set 10],,,hospital,station,library,farm,0,Doctors work at hospitals.
+vocabulary,Choose the best answer.,This question is not easy. It is (    ). [Set 10],,,difficult,small,early,quiet,0,Not easy means difficult.
+vocabulary,Choose the best answer.,I (    ) my teeth after breakfast. [Set 10],,,brush,ride,draw,close,0,The phrase is brush my teeth.
+vocabulary,Choose the best answer.,A (    ) has a long neck. [Set 10],,,giraffe,rabbit,fish,bird,0,A giraffe has a long neck.
+vocabulary,Choose the best answer.,Spring comes after (    ). [Set 10],,,winter,summer,Sunday,breakfast,0,Spring comes after winter.
+vocabulary,Choose the best answer.,There are twelve (    ) in a year. [Set 10],,,months,hours,days,minutes,0,A year has twelve months.
+vocabulary,Choose the best answer.,She (    ) her room every Sunday. [Set 10],,,cleans,drinks,wears,runs,0,Clean a room is natural.
+vocabulary,Choose the best answer.,This cap is (    ) than that one. [Set 10],,,newer,new,newest,newly,0,Than needs a comparative form.
+vocabulary,Choose the best answer.,The train will (    ) at three thirty. [Set 10],,,arrive,wash,invite,climb,0,Trains arrive at a time.
+vocabulary,Choose the best answer.,I have to (    ) for the test tonight. [Set 10],,,study,sleep,dance,snow,0,Study for a test is natural.
+conversation,Choose the best response.,"A: How was your weekend?
+B: (    )
+[Set 10]",,,It was great.,It is on the desk.,At three.,"Yes, I do.",0,Answer with an opinion.
+conversation,Choose the best response.,"A: Whose bag is this?
+B: (    )
+[Set 10]",,,It is Ken's.,It is sunny.,I am twelve.,I like bags.,0,Whose asks the owner.
+conversation,Choose the best response.,"A: May I use your pen?
+B: (    )
+[Set 10]",,,Sure. Here you are.,I am fine.,It is Monday.,"No, I don't.",0,This accepts a request.
+conversation,Choose the best response.,"A: What time do you get up?
+B: (    )
+[Set 10]",,,At six thirty.,In the kitchen.,With my brother.,Because I like it.,0,What time asks for a time.
+conversation,Choose the best response.,"A: Would you like some tea?
+B: (    )
+[Set 10]",,,"Yes, please.",It is blue.,I am reading.,On foot.,0,"Use Yes, please for an offer."
+ordering,Choose the best word order.,I went to the library yesterday. Choose the best order: I (    ) yesterday. [Set 10],,,went to the library,to the library went,library to went,went the library to,0,The order is went to the library.
+ordering,Choose the best word order.,She studies English every morning. Choose the best order: She (    ) every morning. [Set 10],,,studies English,English studies,study English,studies the English,0,She takes studies.
+ordering,Choose the best word order.,What time do you get up? Choose the best order: (    ) get up? [Set 10],,,What time do you,Do what time you,What you do time,You what time do,0,Use What time do you.
+ordering,Choose the best word order.,I want that red bag. Choose the best order: I (    ). [Set 10],,,want that red bag,that red bag want,want red that bag,that want red bag,0,Use want that red bag.
+ordering,Choose the best word order.,Ken plays soccer after school. Choose the best order: Ken (    ) after school. [Set 10],,,plays soccer,soccer plays,play soccer,plays the soccer,0,Ken takes plays.
+reading,Read the passage and answer.,What does Emma do every Saturday morning? [Set 10],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,She goes to the park.,She studies math.,She cleans her room.,She visits her grandmother.,0,The passage says she goes to the park.
+reading,Read the passage and answer.,What do they buy after the park? [Set 10],"Emma likes animals. Every Saturday morning, she goes to the park with her father. They feed birds and buy bread near the park.",,Bread,Milk,A dog,A book,0,They buy bread.
+reading,Read the passage and answer.,What will Yuta's class make? [Set 10],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,Curry and rice,Sandwiches,Cake,Soup,0,They will make curry and rice.
+reading,Read the passage and answer.,When will Yuta buy vegetables? [Set 10],Yuta has a school festival next week. His class will make curry and rice. He will buy carrots after school today.,,After school today,Next Sunday,Tomorrow morning,During lunch,0,The passage says after school today.
+reading,Read the passage and answer.,Where does Lisa live? [Set 10],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,Australia,Japan,Canada,India,0,Lisa lives in Australia.
+reading,Read the passage and answer.,What does Miki want to send? [Set 10],Miki got an email from Lisa in Australia. Lisa says it is summer there now. Miki wants to send a picture of snow.,,A picture of snow,A summer hat,An email from Canada,A Japanese book,0,She wants to send a picture of snow.
+reading,Read the passage and answer.,Where does Ben work on Sundays? [Set 10],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,At a bakery,At a hospital,At a station,At a school,0,He works at a bakery.
+reading,Read the passage and answer.,What is Ben's favorite bread? [Set 10],Ben works at a small bakery on Sundays. He starts at eight. His favorite bread is melon bread.,,Melon bread,French bread,Rice bread,Banana bread,0,His favorite is melon bread.
+reading,Read the passage and answer.,How many fish did they catch? [Set 10],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,Three,Two,Four,Five,0,They caught three fish.
+reading,Read the passage and answer.,What did they do at night? [Set 10],"Saki's family went camping by a lake. She and her brother caught three fish. At night, they looked at the stars.",,They looked at the stars.,They swam.,They played soccer.,They cooked breakfast.,0,They looked at the stars.
+listening1,Choose the best response.,What is the best response? [Set 10],,Boy: I lost my pencil. Girl: (    ),You can use mine.,It is sunny today.,I like soccer.,I do not know.,0,This is a helpful response.
+listening1,Choose the best response.,What is the best response? [Set 10],,Girl: Thank you for helping me. Boy: (    ),You're welcome.,I am ten.,At school.,I do not know.,0,Reply to thanks with You are welcome.
+listening1,Choose the best response.,What is the best response? [Set 10],,Mother: Please clean your room. Boy: (    ),"OK, Mom.",I like rooms.,It is blue.,I do not know.,0,OK accepts the request.
+listening1,Choose the best response.,What is the best response? [Set 10],,Man: Where is the post office? Woman: (    ),It is next to the bank.,I bought stamps.,It is delicious.,I do not know.,0,Answer with a place.
+listening1,Choose the best response.,What is the best response? [Set 10],,Girl: Can you come to my party? Boy: (    ),"Yes, I'd love to.",It is my party.,I can swim.,I do not know.,0,This accepts the invitation.
+listening1,Choose the best response.,What is the best response? [Set 10],,Teacher: Open your books to page ten. Student: (    ),All right.,I am hungry.,It is mine.,I do not know.,0,All right follows the instruction.
+listening1,Choose the best response.,What is the best response? [Set 10],,Boy: Happy New Year! Girl: (    ),Happy New Year!,Nice to meet you.,I'm sorry.,I do not know.,0,Return the same greeting.
+listening1,Choose the best response.,What is the best response? [Set 10],,Woman: Would you like some cake? Boy: (    ),"Yes, please.",It is on Sunday.,I am cake.,I do not know.,0,Use Yes please for an offer.
+listening1,Choose the best response.,What is the best response? [Set 10],,Girl: I have a test tomorrow. Boy: (    ),Good luck.,It is a test.,I watched TV.,I do not know.,0,Say Good luck before a test.
+listening1,Choose the best response.,What is the best response? [Set 10],,Father: Don't run in the kitchen. Girl: (    ),"Sorry, I won't.","Yes, I run.",In the kitchen.,I do not know.,0,Apologize after a warning.
+listening2,Listen and choose the best answer.,What is true? [Set 10],,"Girl: I have two tickets for the soccer game. Can you come with me on Sunday? Boy: Sorry, I have to visit my aunt.",The girl has soccer tickets.,The boy will go on Sunday.,The boy has two tickets.,They will visit the aunt together.,0,The girl has two tickets.
+listening2,Listen and choose the best answer.,What does Mike need? [Set 10],,"Mother: It is raining now. Take your umbrella, Mike. Mike: OK, Mom.",An umbrella,A notebook,A ticket,A camera,0,He needs an umbrella.
+listening2,Listen and choose the best answer.,What should the student bring? [Set 10],,"Teacher: Please bring your science book tomorrow. Student: Do we need a notebook too? Teacher: No, just the book.",A science book,A notebook,A lunch box,A dictionary,0,Only the science book is needed.
+listening2,Listen and choose the best answer.,When will they meet? [Set 10],,"Boy: What time does the movie start? Girl: It starts at four, but let us meet at three thirty.",At three thirty,At four,At two thirty,At five,0,They will meet at three thirty.
+listening2,Listen and choose the best answer.,Which bus should the man take? [Set 10],,Man: Is this bus going to the museum? Woman: No. Please take bus number eight.,Bus number eight,This bus,Bus number five,A train,0,He should take bus number eight.
+listening2,Listen and choose the best answer.,Where is the notebook? [Set 10],,"Girl: I cannot find my math notebook. Boy: Is it in your desk? Girl: Oh, yes.",In her desk,In her bag,On the chair,At home,0,It is in her desk.
+listening2,Listen and choose the best answer.,What will they make? [Set 10],,Father: What do you want for dinner? Boy: I want spaghetti.,Spaghetti,Curry,Salad,Sandwiches,0,The boy wants spaghetti.
+listening2,Listen and choose the best answer.,When will they go to the museum? [Set 10],,Woman: The museum is closed on Mondays. Boy: Then let us go there on Tuesday.,Tuesday,Monday,Friday,Sunday,0,They will go on Tuesday.
+listening2,Listen and choose the best answer.,How old is Max? [Set 10],,Girl: Your dog is cute. What is his name? Boy: His name is Max. He is five years old.,Five,Four,Six,Ten,0,Max is five.
+listening2,Listen and choose the best answer.,What will the students do after lunch? [Set 10],,Teacher: We will clean the classroom after lunch. Please do not go home early.,Clean the classroom,Go home,Eat breakfast,Play in the park,0,They will clean the classroom.
+listening3,Listen and choose the best answer.,What did Meg give her cat today? [Set 10],,"Meg gets up at six every morning. Today, she gave her cat fish.",Fish,Milk,Bread,Chicken,0,She gave the cat fish.
+listening3,Listen and choose the best answer.,What can children do in May? [Set 10],,The new sports center opens next Saturday. Children can use it for free in May.,Use the center for free,Buy tennis rackets,Open a pool,Play only soccer,0,They can use it for free.
+listening3,Listen and choose the best answer.,Where does Jun cousin live? [Set 10],,Jun will visit his cousin near the mountains this weekend.,Near the mountains,Near the sea,In a big city,Next to a library,0,The cousin lives near the mountains.
+listening3,Listen and choose the best answer.,What time does the festival end? [Set 10],,There is a music festival at the park today. It starts at two and ends at five.,At five,At two,At four,At seven,0,It ends at five.
+listening3,Listen and choose the best answer.,How many cookies will Lisa take to school? [Set 10],,Lisa made thirty cookies and ate two at home. She will take twenty-eight cookies to school.,Twenty-eight,Thirty,Two,Twenty,0,She will take twenty-eight.
+listening3,Listen and choose the best answer.,What animals did Tom like best? [Set 10],,Tom's family went to the zoo on Sunday. Tom liked the monkeys best because they were funny.,Monkeys,Lions,Birds,Elephants,0,He liked monkeys best.
+listening3,Listen and choose the best answer.,Why was the bus late? [Set 10],,The school bus was late this morning because of snow.,Because of snow,Because of rain,Because of traffic lights,Because of a game,0,It was late because of snow.
+listening3,Listen and choose the best answer.,What does Anna need? [Set 10],,Anna needs a blue notebook for science class.,A blue notebook,A red pen,A science book,A lunch box,0,She needs a blue notebook.
+listening3,Listen and choose the best answer.,What does Mr. Green do on weekends? [Set 10],,"Mr. Green teaches English. On weekends, he plays the guitar.",He plays the guitar.,He teaches math.,He reads newspapers.,He goes fishing.,0,He plays the guitar.
+listening3,Listen and choose the best answer.,When will the pool open again? [Set 10],,The city pool is closed today. It will open again tomorrow morning at ten.,Tomorrow morning,This afternoon,Next week,Tonight,0,It opens tomorrow morning.

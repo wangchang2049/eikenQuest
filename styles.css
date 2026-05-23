@@ -244,6 +244,13 @@ p {
   letter-spacing: 0;
 }
 
+.loading-text {
+  margin: 0;
+  color: var(--muted);
+  font-weight: 800;
+  line-height: 1.7;
+}
+
 .section-row {
   min-height: 44px;
   display: grid;
