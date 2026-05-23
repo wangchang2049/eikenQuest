@@ -16,7 +16,8 @@ const state = {
   answers: [],
   submitted: false,
   started: false,
-  remainingSeconds: TEST_SECONDS
+  remainingSeconds: TEST_SECONDS,
+  previousScreen: "start"
 };
 
 const timerEl = document.getElementById("timer");
@@ -31,8 +32,8 @@ const audioControlsEl = document.getElementById("audioControls");
 const audioStatusEl = document.getElementById("audioStatus");
 const passageEl = document.getElementById("passage");
 const choicesEl = document.getElementById("choices");
-const resultPanelEl = document.getElementById("resultPanel");
 const resultSummaryEl = document.getElementById("resultSummary");
+const resultSaveStatusEl = document.getElementById("resultSaveStatus");
 const resultStatsEl = document.getElementById("resultStats");
 const reviewListEl = document.getElementById("reviewList");
 const resultQuestionNavEl = document.getElementById("resultQuestionNav");
@@ -41,18 +42,21 @@ const resultTotalCountEl = document.getElementById("resultTotalCount");
 const startScreenEl = document.getElementById("startScreen");
 const appRootEl = document.getElementById("appRoot");
 const resultScreenEl = document.getElementById("resultScreen");
+const wrongBookScreenEl = document.getElementById("wrongBookScreen");
 const sectionStatsEl = document.getElementById("sectionStats");
+const wrongBookSummaryEl = document.getElementById("wrongBookSummary");
+const wrongBookListEl = document.getElementById("wrongBookList");
 
 document.getElementById("startBtn").addEventListener("click", () => {
-  if (!state.questions.length) {
-    return;
-  }
+  if (!state.questions.length) return;
   state.started = true;
-  startScreenEl.hidden = true;
-  appRootEl.hidden = false;
+  showOnly(appRootEl);
   render();
-  updateTimer();
-  window.scrollTo({ top: 0, behavior: "auto" });
+});
+document.getElementById("wrongBookBtn").addEventListener("click", () => openWrongBook("start"));
+document.getElementById("resultWrongBookBtn").addEventListener("click", () => openWrongBook("result"));
+document.getElementById("wrongBookBackBtn").addEventListener("click", () => {
+  showOnly(state.previousScreen === "result" ? resultScreenEl : startScreenEl);
 });
 document.getElementById("prevBtn").addEventListener("click", () => moveQuestion(-1));
 document.getElementById("nextBtn").addEventListener("click", () => moveQuestion(1));
@@ -60,20 +64,24 @@ document.getElementById("submitBtn").addEventListener("click", submitTest);
 document.getElementById("resetBtn").addEventListener("click", resetTest);
 document.getElementById("playAudioBtn").addEventListener("click", playCurrentAudio);
 document.getElementById("backToTestBtn").addEventListener("click", () => {
-  resultScreenEl.hidden = true;
-  appRootEl.hidden = false;
+  showOnly(appRootEl);
   render();
-  window.scrollTo({ top: 0, behavior: "auto" });
 });
+
+function showOnly(screen) {
+  startScreenEl.hidden = screen !== startScreenEl;
+  appRootEl.hidden = screen !== appRootEl;
+  resultScreenEl.hidden = screen !== resultScreenEl;
+  wrongBookScreenEl.hidden = screen !== wrongBookScreenEl;
+  window.scrollTo({ top: 0, behavior: "auto" });
+}
 
 async function prepareNewTest() {
   stopAudio();
   sectionStatsEl.innerHTML = '<p class="loading-text">問題を読み込み中...</p>';
 
   const response = await fetch(`/api/test?size=${TEST_SIZE}`, { cache: "no-store" });
-  if (!response.ok) {
-    throw new Error("問題データを取得できませんでした。");
-  }
+  if (!response.ok) throw new Error("問題データを取得できませんでした。");
   const payload = await response.json();
 
   state.questions = payload.questions;
@@ -83,22 +91,18 @@ async function prepareNewTest() {
   state.started = false;
   state.remainingSeconds = TEST_SECONDS;
   totalCountEl.textContent = state.questions.length;
-  resultScreenEl.hidden = true;
   resultStatsEl.innerHTML = "";
   resultQuestionNavEl.innerHTML = "";
   reviewListEl.innerHTML = "";
+  resultSaveStatusEl.textContent = "";
   renderStartStats();
-  if (!appRootEl.hidden) {
-    render();
-  }
+  if (!appRootEl.hidden) render();
   updateTimer();
 }
 
 function render() {
   const question = state.questions[state.current];
-  if (!question) {
-    return;
-  }
+  if (!question) return;
 
   answeredCountEl.textContent = state.answers.filter((answer) => answer !== null).length;
   sectionLabelEl.textContent = question.section;
@@ -113,14 +117,8 @@ function render() {
     audioControlsEl.hidden = true;
   }
 
-  if (question.passage) {
-    passageEl.hidden = false;
-    passageEl.textContent = question.passage;
-  } else {
-    passageEl.hidden = true;
-    passageEl.textContent = "";
-  }
-
+  passageEl.hidden = !question.passage;
+  passageEl.textContent = question.passage || "";
   questionNavEl.innerHTML = buildQuestionNavButtons({ includeCurrent: true });
   choicesEl.innerHTML = question.choices.map((choice, index) => {
     const selected = state.answers[state.current] === index;
@@ -137,13 +135,11 @@ function render() {
 
   questionNavEl.querySelectorAll("[data-index]").forEach((button) => {
     button.addEventListener("click", () => {
-      const index = Number(button.dataset.index);
       stopAudio();
-      state.current = index;
+      state.current = Number(button.dataset.index);
       render();
     });
   });
-
   choicesEl.querySelectorAll("input").forEach((input) => {
     input.addEventListener("change", () => {
       state.answers[state.current] = Number(input.value);
@@ -161,7 +157,7 @@ function moveQuestion(step) {
   }
 }
 
-function submitTest() {
+async function submitTest() {
   stopAudio();
   state.submitted = true;
   const score = state.questions.reduce((total, question, index) => {
@@ -169,8 +165,7 @@ function submitTest() {
   }, 0);
   const percent = Math.round((score / state.questions.length) * 100);
 
-  appRootEl.hidden = true;
-  resultScreenEl.hidden = false;
+  showOnly(resultScreenEl);
   resultCorrectCountEl.textContent = score;
   resultTotalCountEl.textContent = state.questions.length;
   resultSummaryEl.innerHTML = `
@@ -181,34 +176,98 @@ function submitTest() {
   resultStatsEl.innerHTML = buildResultStats();
   resultQuestionNavEl.innerHTML = buildQuestionNavButtons();
   resultQuestionNavEl.querySelectorAll("[data-index]").forEach((button) => {
-    button.addEventListener("click", () => {
-      scrollToReview(Number(button.dataset.index));
-    });
+    button.addEventListener("click", () => scrollToReview(Number(button.dataset.index)));
   });
-  reviewListEl.innerHTML = state.questions.map((question, index) => {
-    const isCorrect = state.answers[index] === question.answer;
-    const userAnswer = state.answers[index] === null ? "未回答" : question.choices[state.answers[index]];
-    const script = question.audioText ? `<p>音声スクリプト: ${question.audioText}</p>` : "";
-    const sourceText = buildSourceText(question);
-    return `
-      <div class="review-item ${isCorrect ? "correct" : "wrong"}" id="review-${index}">
-        <strong>第${index + 1}問 ${isCorrect ? "正解" : "不正解"}</strong>
-        <p class="source-text">問題: ${sourceText}</p>
-        <p>あなたの答え: ${userAnswer}</p>
-        <p>正解: ${question.choices[question.answer]}</p>
-        ${script}
-        <p>${question.explanation}</p>
-      </div>
-    `;
-  }).join("");
+  reviewListEl.innerHTML = state.questions.map((question, index) => reviewHtml(question, index)).join("");
+  resultSaveStatusEl.textContent = "採点結果を保存中...";
+  await saveResult(score, percent);
   render();
-  window.scrollTo({ top: 0, behavior: "auto" });
+}
+
+async function saveResult(score, percent) {
+  const answers = state.questions.map((question, index) => ({
+    questionId: question.id,
+    section: question.section,
+    title: question.title,
+    prompt: question.prompt,
+    passage: question.passage,
+    audioText: question.audioText,
+    choices: question.choices,
+    selectedIndex: state.answers[index],
+    correctIndex: question.answer,
+    isCorrect: state.answers[index] === question.answer,
+    explanation: question.explanation
+  }));
+
+  try {
+    const response = await fetch("/api/results", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ totalCount: state.questions.length, score, percent, answers })
+    });
+    if (!response.ok) throw new Error();
+    const payload = await response.json();
+    resultSaveStatusEl.textContent = `採点結果を保存しました（ID: ${payload.attemptId}）。`;
+  } catch {
+    resultSaveStatusEl.textContent = "採点結果を保存できませんでした。";
+  }
 }
 
 async function resetTest() {
   await prepareNewTest();
   state.started = true;
+  showOnly(appRootEl);
   render();
+}
+
+async function openWrongBook(previousScreen) {
+  state.previousScreen = previousScreen;
+  showOnly(wrongBookScreenEl);
+  wrongBookSummaryEl.textContent = "不正解問題を読み込み中...";
+  wrongBookListEl.innerHTML = "";
+
+  try {
+    const response = await fetch("/api/wrong-questions", { cache: "no-store" });
+    if (!response.ok) throw new Error();
+    const payload = await response.json();
+    const questions = payload.questions;
+    wrongBookSummaryEl.textContent = questions.length
+      ? `保存済みの不正解問題 ${questions.length}問を表示しています。`
+      : "保存済みの不正解問題はまだありません。";
+    wrongBookListEl.innerHTML = questions.map((question, index) => wrongBookHtml(question, index)).join("");
+  } catch {
+    wrongBookSummaryEl.textContent = "不正解問題集を読み込めませんでした。";
+  }
+}
+
+function reviewHtml(question, index) {
+  const isCorrect = state.answers[index] === question.answer;
+  const userAnswer = state.answers[index] === null ? "未回答" : question.choices[state.answers[index]];
+  const script = question.audioText ? `<p>音声スクリプト: ${question.audioText}</p>` : "";
+  return `
+    <div class="review-item ${isCorrect ? "correct" : "wrong"}" id="review-${index}">
+      <strong>第${index + 1}問 ${isCorrect ? "正解" : "不正解"}</strong>
+      <p class="source-text">問題: ${buildSourceText(question)}</p>
+      <p>あなたの答え: ${userAnswer}</p>
+      <p>正解: ${question.choices[question.answer]}</p>
+      ${script}
+      <p>${question.explanation}</p>
+    </div>
+  `;
+}
+
+function wrongBookHtml(question, index) {
+  const script = question.audioText ? `<p>音声スクリプト: ${question.audioText}</p>` : "";
+  return `
+    <div class="review-item wrong">
+      <strong>不正解問題 ${index + 1}（${question.section}）</strong>
+      <p class="source-text">問題: ${buildSourceText(question)}</p>
+      <p>前回の答え: ${question.selectedAnswer}</p>
+      <p>正解: ${question.correctAnswer}</p>
+      ${script}
+      <p>${question.explanation}</p>
+    </div>
+  `;
 }
 
 function playCurrentAudio() {
@@ -236,15 +295,7 @@ function playCurrentAudio() {
 }
 
 function buildSourceText(question) {
-  const parts = [];
-  if (question.passage) {
-    parts.push(question.passage);
-  }
-  if (question.audioText) {
-    parts.push(question.audioText);
-  }
-  parts.push(question.prompt);
-  return parts.join(" / ");
+  return [question.passage, question.audioText, question.prompt].filter(Boolean).join(" / ");
 }
 
 function buildQuestionNavButtons(options = {}) {
@@ -263,12 +314,8 @@ function buildQuestionNavButtons(options = {}) {
 }
 
 function getResultMessage(percent) {
-  if (percent >= 80) {
-    return "よくできました！";
-  }
-  if (percent >= 60) {
-    return "合格ライン到達です";
-  }
+  if (percent >= 80) return "よくできました！";
+  if (percent >= 60) return "合格ライン到達です";
   return "もう少し頑張りましょう！";
 }
 
@@ -283,19 +330,15 @@ function buildResultStats() {
 
   return groups.map((group) => {
     const correct = state.questions.reduce((total, question, index) => {
-      if (!group.sections.includes(question.section)) {
-        return total;
-      }
+      if (!group.sections.includes(question.section)) return total;
       return total + (state.answers[index] === question.answer ? 1 : 0);
     }, 0);
-    const ratio = group.total === 0 ? 0 : Math.round((correct / group.total) * 100);
+    const ratio = Math.round((correct / group.total) * 100);
     return `
       <article class="result-stat-card ${group.pill}">
         <span>${group.label}</span>
         <strong>${correct}/${group.total}</strong>
-        <div class="stat-bar" aria-hidden="true">
-          <i style="width: ${ratio}%"></i>
-        </div>
+        <div class="stat-bar" aria-hidden="true"><i style="width: ${ratio}%"></i></div>
       </article>
     `;
   }).join("");
@@ -307,29 +350,22 @@ function renderStartStats() {
     return summary;
   }, {});
 
-  sectionStatsEl.innerHTML = EXAM_BLUEPRINT.map((part) => {
-    const count = counts[part.section] || 0;
-    return `
-      <div class="section-row">
-        <span class="pill ${part.pill}">${part.label}</span>
-        <strong>${part.detail}</strong>
-        <small>${count}問</small>
-      </div>
-    `;
-  }).join("");
+  sectionStatsEl.innerHTML = EXAM_BLUEPRINT.map((part) => `
+    <div class="section-row">
+      <span class="pill ${part.pill}">${part.label}</span>
+      <strong>${part.detail}</strong>
+      <small>${counts[part.section] || 0}問</small>
+    </div>
+  `).join("");
 }
 
 function scrollToReview(index) {
   const reviewItem = document.getElementById(`review-${index}`);
-  if (reviewItem) {
-    reviewItem.scrollIntoView({ behavior: "smooth", block: "center" });
-  }
+  if (reviewItem) reviewItem.scrollIntoView({ behavior: "smooth", block: "center" });
 }
 
 function stopAudio() {
-  if ("speechSynthesis" in window) {
-    window.speechSynthesis.cancel();
-  }
+  if ("speechSynthesis" in window) window.speechSynthesis.cancel();
 }
 
 function updateTimer() {
@@ -339,14 +375,10 @@ function updateTimer() {
 }
 
 setInterval(() => {
-  if (!state.started || !state.questions.length || state.submitted || state.remainingSeconds <= 0) {
-    return;
-  }
+  if (!state.started || !state.questions.length || state.submitted || state.remainingSeconds <= 0) return;
   state.remainingSeconds -= 1;
   updateTimer();
-  if (state.remainingSeconds === 0) {
-    submitTest();
-  }
+  if (state.remainingSeconds === 0) submitTest();
 }, 1000);
 
 totalCountEl.textContent = TEST_SIZE;

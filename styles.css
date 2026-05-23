@@ -331,6 +331,10 @@ p {
   transform: translateY(-1px);
 }
 
+.wide-btn {
+  min-width: 260px;
+}
+
 .app-root[hidden],
 .start-screen[hidden],
 .result-screen[hidden] {
@@ -709,6 +713,13 @@ p {
 .result-detail {
   color: #b9bbff;
   font-weight: 800;
+}
+
+.save-status {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-weight: 800;
+  text-align: center;
 }
 
 .result-stats {
