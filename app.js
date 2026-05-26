@@ -108,7 +108,7 @@ function render() {
   sectionLabelEl.textContent = question.section;
   questionNumberEl.textContent = `第${state.current + 1}問`;
   questionTitleEl.textContent = question.title;
-  questionPromptEl.textContent = question.prompt;
+  questionPromptEl.textContent = getDisplayPrompt(question);
 
   if (question.audioText) {
     audioControlsEl.hidden = false;
@@ -292,6 +292,15 @@ function playCurrentAudio() {
     audioStatusEl.textContent = "音声を再生できませんでした。ブラウザの音量や設定を確認してください。";
   };
   window.speechSynthesis.speak(utterance);
+}
+
+function getDisplayPrompt(question) {
+  if (question.section !== "整序") return question.prompt;
+  // "Choose the best order:" 以降のみを表示し、正解文を隠す
+  const marker = "Choose the best order:";
+  const idx = question.prompt.indexOf(marker);
+  if (idx === -1) return question.prompt;
+  return question.prompt.slice(idx).trim();
 }
 
 function buildSourceText(question) {
