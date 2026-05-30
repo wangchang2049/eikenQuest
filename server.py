@@ -6,7 +6,7 @@ import re
 import sqlite3
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import parse_qs, urlparse
 
 
 ROOT = Path(__file__).resolve().parent
@@ -22,6 +22,16 @@ BLUEPRINT = [
     ("listening3", "聴解3", 10),
 ]
 
+GRADES = {
+    "grade4": "4級",
+    "grade3": "3級",
+    "pre2": "準2級",
+    "pre2plus": "準2級プラス",
+    "grade2": "2級",
+    "pre1": "準1級",
+    "grade1": "1級",
+}
+
 SET_MARK_RE = re.compile(r"\s*(?:\n)?\[Set \d+\]\s*$")
 
 
@@ -34,6 +44,7 @@ def ensure_result_schema(conn: sqlite3.Connection) -> None:
         CREATE TABLE IF NOT EXISTS attempts (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+            grade TEXT NOT NULL DEFAULT 'grade4',
             total_count INTEGER NOT NULL,
             score INTEGER NOT NULL,
             percent INTEGER NOT NULL
@@ -44,6 +55,7 @@ def ensure_result_schema(conn: sqlite3.Connection) -> None:
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             attempt_id INTEGER NOT NULL,
             question_id INTEGER NOT NULL,
+            grade TEXT NOT NULL DEFAULT 'grade4',
             section TEXT NOT NULL,
             title TEXT NOT NULL,
             prompt TEXT NOT NULL,
@@ -57,6 +69,26 @@ def ensure_result_schema(conn: sqlite3.Connection) -> None:
             FOREIGN KEY (attempt_id) REFERENCES attempts(id)
         )
     """)
+    ensure_column(conn, "attempts", "grade", "TEXT NOT NULL DEFAULT 'grade4'")
+    ensure_column(conn, "attempt_answers", "grade", "TEXT NOT NULL DEFAULT 'grade4'")
+
+
+def ensure_column(conn: sqlite3.Connection, table: str, column: str, definition: str) -> None:
+    columns = {row[1] for row in conn.execute(f"PRAGMA table_info({table})")}
+    if column not in columns:
+        conn.execute(f"ALTER TABLE {table} ADD COLUMN {column} {definition}")
+
+
+def ensure_question_schema(conn: sqlite3.Connection) -> None:
+    ensure_column(conn, "questions", "grade", "TEXT NOT NULL DEFAULT 'grade4'")
+    conn.execute("CREATE INDEX IF NOT EXISTS idx_questions_grade_section ON questions(grade, section)")
+
+
+def parse_grade(query: str) -> str:
+    grade = parse_qs(query).get("grade", ["grade4"])[0]
+    if grade not in GRADES:
+        raise RuntimeError(f"対応していない級です: {grade}")
+    return grade
 
 
 def shuffled_question(row: sqlite3.Row, display_section: str) -> dict:
@@ -82,11 +114,12 @@ def shuffled_question(row: sqlite3.Row, display_section: str) -> dict:
     }
 
 
-def load_test() -> list[dict]:
+def load_test(grade: str) -> list[dict]:
     questions: list[dict] = []
     with sqlite3.connect(DB_PATH) as conn:
         conn.row_factory = sqlite3.Row
         ensure_result_schema(conn)
+        ensure_question_schema(conn)
 
         for section_key, display_section, count in BLUEPRINT:
             rows = conn.execute(
@@ -94,9 +127,9 @@ def load_test() -> list[dict]:
                 SELECT id, section, title, prompt, passage, audio_text,
                        choices_json, answer_index, explanation
                 FROM questions
-                WHERE section = ?
+                WHERE grade = ? AND section = ?
                 """,
-                (section_key,),
+                (grade, section_key),
             ).fetchall()
 
             groups: dict[str, list[sqlite3.Row]] = {}
@@ -123,14 +156,17 @@ def load_test() -> list[dict]:
 
 def save_result(payload: dict) -> dict:
     answers = payload.get("answers", [])
+    grade = payload.get("grade", "grade4")
+    if grade not in GRADES:
+        raise RuntimeError(f"対応していない級です: {grade}")
     with sqlite3.connect(DB_PATH) as conn:
         ensure_result_schema(conn)
         score = int(payload.get("score", 0))
         total = int(payload.get("totalCount", len(answers)))
         percent = int(payload.get("percent", 0))
         cursor = conn.execute(
-            "INSERT INTO attempts (total_count, score, percent) VALUES (?, ?, ?)",
-            (total, score, percent),
+            "INSERT INTO attempts (grade, total_count, score, percent) VALUES (?, ?, ?, ?)",
+            (grade, total, score, percent),
         )
         attempt_id = cursor.lastrowid
 
@@ -139,6 +175,7 @@ def save_result(payload: dict) -> dict:
             rows.append({
                 "attempt_id": attempt_id,
                 "question_id": int(item["questionId"]),
+                "grade": grade,
                 "section": item["section"],
                 "title": item["title"],
                 "prompt": item["prompt"],
@@ -154,10 +191,10 @@ def save_result(payload: dict) -> dict:
         conn.executemany(
             """
             INSERT INTO attempt_answers
-                (attempt_id, question_id, section, title, prompt, passage, audio_text,
+                (attempt_id, question_id, grade, section, title, prompt, passage, audio_text,
                  choices_json, selected_index, correct_index, is_correct, explanation)
             VALUES
-                (:attempt_id, :question_id, :section, :title, :prompt, :passage, :audio_text,
+                (:attempt_id, :question_id, :grade, :section, :title, :prompt, :passage, :audio_text,
                  :choices_json, :selected_index, :correct_index, :is_correct, :explanation)
             """,
             rows,
@@ -166,7 +203,7 @@ def save_result(payload: dict) -> dict:
     return {"attemptId": attempt_id}
 
 
-def load_wrong_questions() -> list[dict]:
+def load_wrong_questions(grade: str) -> list[dict]:
     with sqlite3.connect(DB_PATH) as conn:
         conn.row_factory = sqlite3.Row
         ensure_result_schema(conn)
@@ -175,9 +212,10 @@ def load_wrong_questions() -> list[dict]:
             SELECT aa.*, a.created_at
             FROM attempt_answers aa
             JOIN attempts a ON a.id = aa.attempt_id
-            WHERE aa.is_correct = 0
+            WHERE aa.grade = ? AND aa.is_correct = 0
             ORDER BY a.created_at DESC, aa.id DESC
-            """
+            """,
+            (grade,),
         ).fetchall()
 
     seen: set[str] = set()
@@ -220,10 +258,12 @@ class Handler(SimpleHTTPRequestHandler):
     def do_GET(self) -> None:
         parsed = urlparse(self.path)
         if parsed.path == "/api/test":
-            self.send_json({"questions": load_test()})
+            grade = parse_grade(parsed.query)
+            self.send_json({"grade": grade, "gradeLabel": GRADES[grade], "questions": load_test(grade)})
             return
         if parsed.path == "/api/wrong-questions":
-            self.send_json({"questions": load_wrong_questions()})
+            grade = parse_grade(parsed.query)
+            self.send_json({"grade": grade, "gradeLabel": GRADES[grade], "questions": load_wrong_questions(grade)})
             return
         super().do_GET()
 

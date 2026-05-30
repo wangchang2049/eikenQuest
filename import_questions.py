@@ -12,8 +12,8 @@ DEFAULT_CSV = ROOT / "seed_questions.csv"
 DEFAULT_DB = ROOT / "questions.sqlite"
 
 REQUIRED_COLUMNS = [
-    "section",
     "title",
+    "section",
     "prompt",
     "passage",
     "audio_text",
@@ -31,6 +31,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
     conn.execute("""
         CREATE TABLE questions (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
+            grade TEXT NOT NULL DEFAULT 'grade4',
             section TEXT NOT NULL,
             title TEXT NOT NULL,
             prompt TEXT NOT NULL,
@@ -41,7 +42,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
             explanation TEXT NOT NULL
         )
     """)
-    conn.execute("CREATE INDEX idx_questions_section ON questions(section)")
+    conn.execute("CREATE INDEX idx_questions_grade_section ON questions(grade, section)")
 
 
 def read_rows(csv_path: Path) -> list[dict]:
@@ -53,6 +54,7 @@ def read_rows(csv_path: Path) -> list[dict]:
 
         rows = []
         for line_number, row in enumerate(reader, start=2):
+            grade = (row.get("grade") or "grade4").strip()
             choices = [
                 row["choice_1"].strip(),
                 row["choice_2"].strip(),
@@ -62,10 +64,11 @@ def read_rows(csv_path: Path) -> list[dict]:
             answer_index = int(row["answer_index"])
             if answer_index < 0 or answer_index > 3:
                 raise ValueError(f"{line_number}行目: answer_index は0-3で指定してください。")
-            if not row["section"].strip() or not row["prompt"].strip():
-                raise ValueError(f"{line_number}行目: section と prompt は必須です。")
+            if not grade or not row["section"].strip() or not row["prompt"].strip():
+                raise ValueError(f"{line_number}行目: grade、section、prompt は必須です。")
 
             rows.append({
+                "grade": grade,
                 "section": row["section"].strip(),
                 "title": row["title"].strip(),
                 "prompt": row["prompt"].strip(),
@@ -85,9 +88,9 @@ def import_questions(csv_path: Path, db_path: Path) -> int:
         conn.executemany(
             """
             INSERT INTO questions
-                (section, title, prompt, passage, audio_text, choices_json, answer_index, explanation)
+                (grade, section, title, prompt, passage, audio_text, choices_json, answer_index, explanation)
             VALUES
-                (:section, :title, :prompt, :passage, :audio_text, :choices_json, :answer_index, :explanation)
+                (:grade, :section, :title, :prompt, :passage, :audio_text, :choices_json, :answer_index, :explanation)
             """,
             rows,
         )

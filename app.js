@@ -1,5 +1,14 @@
 const TEST_SIZE = 65;
 const TEST_SECONDS = 65 * 60;
+const GRADES = {
+  grade4: { label: "4級", english: "EIKEN GRADE 4 PRACTICE TEST", header: "Grade 4 Mock Test" },
+  grade3: { label: "3級", english: "EIKEN GRADE 3 PRACTICE TEST", header: "Grade 3 Mock Test" },
+  pre2: { label: "準2級", english: "EIKEN GRADE PRE-2 PRACTICE TEST", header: "Grade Pre-2 Mock Test" },
+  pre2plus: { label: "準2級プラス", english: "EIKEN GRADE PRE-2 PLUS PRACTICE TEST", header: "Grade Pre-2 Plus Mock Test" },
+  grade2: { label: "2級", english: "EIKEN GRADE 2 PRACTICE TEST", header: "Grade 2 Mock Test" },
+  pre1: { label: "準1級", english: "EIKEN GRADE PRE-1 PRACTICE TEST", header: "Grade Pre-1 Mock Test" },
+  grade1: { label: "1級", english: "EIKEN GRADE 1 PRACTICE TEST", header: "Grade 1 Mock Test" }
+};
 const EXAM_BLUEPRINT = [
   { section: "語彙", label: "語彙", detail: "短文の語句空所補充", count: 15, pill: "purple" },
   { section: "会話", label: "会話", detail: "会話文の文空所補充", count: 5, pill: "cyan" },
@@ -16,10 +25,15 @@ const state = {
   answers: [],
   submitted: false,
   started: false,
+  grade: "grade4",
   remainingSeconds: TEST_SECONDS,
   previousScreen: "start"
 };
 
+const gradeSelectEl = document.getElementById("gradeSelect");
+const heroGradeEl = document.getElementById("heroGrade");
+const heroGradeEnEl = document.getElementById("heroGradeEn");
+const appGradeLabelEl = document.getElementById("appGradeLabel");
 const timerEl = document.getElementById("timer");
 const answeredCountEl = document.getElementById("answeredCount");
 const totalCountEl = document.getElementById("totalCount");
@@ -53,6 +67,13 @@ document.getElementById("startBtn").addEventListener("click", () => {
   showOnly(appRootEl);
   render();
 });
+gradeSelectEl.addEventListener("change", () => {
+  state.grade = gradeSelectEl.value;
+  updateGradeLabels();
+  prepareNewTest().catch((error) => {
+    sectionStatsEl.innerHTML = `<p class="loading-text">${error.message}</p>`;
+  });
+});
 document.getElementById("wrongBookBtn").addEventListener("click", () => openWrongBook("start"));
 document.getElementById("resultWrongBookBtn").addEventListener("click", () => openWrongBook("result"));
 document.getElementById("wrongBookBackBtn").addEventListener("click", () => {
@@ -80,9 +101,10 @@ async function prepareNewTest() {
   stopAudio();
   sectionStatsEl.innerHTML = '<p class="loading-text">問題を読み込み中...</p>';
 
-  const response = await fetch(`/api/test?size=${TEST_SIZE}`, { cache: "no-store" });
+  const response = await fetch(`/api/test?grade=${encodeURIComponent(state.grade)}&size=${TEST_SIZE}`, { cache: "no-store" });
   if (!response.ok) throw new Error("問題データを取得できませんでした。");
   const payload = await response.json();
+  if (payload.error) throw new Error(payload.error);
 
   state.questions = payload.questions;
   state.current = 0;
@@ -95,6 +117,7 @@ async function prepareNewTest() {
   resultQuestionNavEl.innerHTML = "";
   reviewListEl.innerHTML = "";
   resultSaveStatusEl.textContent = "";
+  updateGradeLabels();
   renderStartStats();
   if (!appRootEl.hidden) render();
   updateTimer();
@@ -203,7 +226,7 @@ async function saveResult(score, percent) {
     const response = await fetch("/api/results", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ totalCount: state.questions.length, score, percent, answers })
+      body: JSON.stringify({ grade: state.grade, totalCount: state.questions.length, score, percent, answers })
     });
     if (!response.ok) throw new Error();
     const payload = await response.json();
@@ -227,13 +250,13 @@ async function openWrongBook(previousScreen) {
   wrongBookListEl.innerHTML = "";
 
   try {
-    const response = await fetch("/api/wrong-questions", { cache: "no-store" });
+    const response = await fetch(`/api/wrong-questions?grade=${encodeURIComponent(state.grade)}`, { cache: "no-store" });
     if (!response.ok) throw new Error();
     const payload = await response.json();
     const questions = payload.questions;
     wrongBookSummaryEl.textContent = questions.length
-      ? `保存済みの不正解問題 ${questions.length}問を表示しています。`
-      : "保存済みの不正解問題はまだありません。";
+      ? `${getGradeLabel()}の保存済み不正解問題 ${questions.length}問を表示しています。`
+      : `${getGradeLabel()}の保存済み不正解問題はまだありません。`;
     wrongBookListEl.innerHTML = questions.map((question, index) => wrongBookHtml(question, index)).join("");
   } catch {
     wrongBookSummaryEl.textContent = "不正解問題集を読み込めませんでした。";
@@ -328,6 +351,18 @@ function getResultMessage(percent) {
   return "もう少し頑張りましょう！";
 }
 
+function getGradeLabel() {
+  return GRADES[state.grade]?.label || "4級";
+}
+
+function updateGradeLabels() {
+  const grade = GRADES[state.grade] || GRADES.grade4;
+  heroGradeEl.textContent = `英検${grade.label}`;
+  heroGradeEnEl.textContent = grade.english;
+  appGradeLabelEl.textContent = grade.header;
+  document.title = `eiken_codex | 英検${grade.label}模擬テスト`;
+}
+
 function buildResultStats() {
   const groups = [
     { label: "語彙・文法", sections: ["語彙"], total: 15, pill: "purple" },
@@ -392,6 +427,7 @@ setInterval(() => {
 
 totalCountEl.textContent = TEST_SIZE;
 updateTimer();
+updateGradeLabels();
 prepareNewTest().catch((error) => {
   sectionStatsEl.innerHTML = `<p class="loading-text">${error.message}</p>`;
 });

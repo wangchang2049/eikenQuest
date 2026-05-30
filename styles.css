@@ -244,6 +244,37 @@ p {
   letter-spacing: 0;
 }
 
+.grade-card {
+  padding: 18px;
+}
+
+.grade-card h2 {
+  margin-bottom: 12px;
+}
+
+.grade-select-label {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-size: 0.86rem;
+  font-weight: 900;
+}
+
+.grade-select {
+  width: 100%;
+  min-height: 48px;
+  padding: 0 14px;
+  border: 1px solid rgba(139, 92, 246, 0.44);
+  border-radius: 13px;
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  font-weight: 900;
+}
+
+.grade-select option {
+  color: #111827;
+}
+
 .loading-text {
   margin: 0;
   color: var(--muted);

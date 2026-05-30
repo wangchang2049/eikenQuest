@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>eiken_codex | 英検4級模擬テスト</title>
+    <title>eiken_codex | 英検模擬テスト</title>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
@@ -15,10 +15,24 @@
       </div>
 
       <div class="hero-title">
-        <h1>英検4級</h1>
+        <h1 id="heroGrade">英検4級</h1>
         <p>模擬テスト</p>
-        <span>EIKEN GRADE 4 PRACTICE TEST</span>
+        <span id="heroGradeEn">EIKEN GRADE 4 PRACTICE TEST</span>
       </div>
+
+      <section class="section-card grade-card" aria-label="級の選択">
+        <h2>受験する級</h2>
+        <label class="grade-select-label" for="gradeSelect">級を選択</label>
+        <select id="gradeSelect" class="grade-select">
+          <option value="grade4">4級</option>
+          <option value="grade3">3級</option>
+          <option value="pre2">準2級</option>
+          <option value="pre2plus">準2級プラス</option>
+          <option value="grade2">2級</option>
+          <option value="pre1">準1級</option>
+          <option value="grade1">1級</option>
+        </select>
+      </section>
 
       <div class="stat-grid" aria-label="テスト概要">
         <div class="stat-card">
@@ -53,7 +67,7 @@
     <div id="appRoot" class="app-root" hidden>
       <header class="app-header">
         <div>
-          <p class="eyebrow">Grade 4 Mock Test</p>
+          <p id="appGradeLabel" class="eyebrow">Grade 4 Mock Test</p>
           <h1>eiken_codex</h1>
         </div>
         <div class="timer" aria-live="polite">
