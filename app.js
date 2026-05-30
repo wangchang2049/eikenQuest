@@ -1,37 +1,28 @@
-const TEST_SIZE = 65;
-const TEST_SECONDS = 65 * 60;
-const GRADES = {
-  grade4: { label: "4級", english: "EIKEN GRADE 4 PRACTICE TEST", header: "Grade 4 Mock Test" },
-  grade3: { label: "3級", english: "EIKEN GRADE 3 PRACTICE TEST", header: "Grade 3 Mock Test" },
-  pre2: { label: "準2級", english: "EIKEN GRADE PRE-2 PRACTICE TEST", header: "Grade Pre-2 Mock Test" },
-  pre2plus: { label: "準2級プラス", english: "EIKEN GRADE PRE-2 PLUS PRACTICE TEST", header: "Grade Pre-2 Plus Mock Test" },
-  grade2: { label: "2級", english: "EIKEN GRADE 2 PRACTICE TEST", header: "Grade 2 Mock Test" },
-  pre1: { label: "準1級", english: "EIKEN GRADE PRE-1 PRACTICE TEST", header: "Grade Pre-1 Mock Test" },
-  grade1: { label: "1級", english: "EIKEN GRADE 1 PRACTICE TEST", header: "Grade 1 Mock Test" }
-};
-const EXAM_BLUEPRINT = [
-  { section: "語彙", label: "語彙", detail: "短文の語句空所補充", count: 15, pill: "purple" },
-  { section: "会話", label: "会話", detail: "会話文の文空所補充", count: 5, pill: "cyan" },
-  { section: "整序", label: "整序", detail: "日本文付き短文の語句整序", count: 5, pill: "amber" },
-  { section: "読解", label: "読解", detail: "長文の内容一致選択", count: 10, pill: "green" },
-  { section: "聴解1", label: "聴解1", detail: "会話の応答文選択", count: 10, pill: "pink" },
-  { section: "聴解2", label: "聴解2", detail: "会話の内容一致選択", count: 10, pill: "pink" },
-  { section: "聴解3", label: "聴解3", detail: "文の内容一致選択", count: 10, pill: "pink" }
-];
+const TEST_NUMBERS = Array.from({ length: 10 }, (_, index) => index + 1);
 
 const state = {
+  grades: [],
+  grade: "grade4",
+  gradeInfo: null,
+  exams: [],
+  testNumber: 1,
   questions: [],
   current: 0,
   answers: [],
   submitted: false,
   started: false,
-  grade: "grade4",
-  remainingSeconds: TEST_SECONDS,
-  previousScreen: "start"
+  remainingSeconds: 0,
+  previousScreen: "dashboard"
 };
 
+const dashboardScreenEl = document.getElementById("dashboardScreen");
 const gradeSelectEl = document.getElementById("gradeSelect");
+const selectedGradeEnglishEl = document.getElementById("selectedGradeEnglish");
+const selectedGradeTitleEl = document.getElementById("selectedGradeTitle");
+const selectedGradeMetaEl = document.getElementById("selectedGradeMeta");
+const examListEl = document.getElementById("examList");
 const heroGradeEl = document.getElementById("heroGrade");
+const heroTestNameEl = document.getElementById("heroTestName");
 const heroGradeEnEl = document.getElementById("heroGradeEn");
 const appGradeLabelEl = document.getElementById("appGradeLabel");
 const timerEl = document.getElementById("timer");
@@ -60,6 +51,9 @@ const wrongBookScreenEl = document.getElementById("wrongBookScreen");
 const sectionStatsEl = document.getElementById("sectionStats");
 const wrongBookSummaryEl = document.getElementById("wrongBookSummary");
 const wrongBookListEl = document.getElementById("wrongBookList");
+const startTotalCountEl = document.getElementById("startTotalCount");
+const startMinutesEl = document.getElementById("startMinutes");
+const startTestNumberEl = document.getElementById("startTestNumber");
 
 document.getElementById("startBtn").addEventListener("click", () => {
   if (!state.questions.length) return;
@@ -67,29 +61,25 @@ document.getElementById("startBtn").addEventListener("click", () => {
   showOnly(appRootEl);
   render();
 });
+document.getElementById("backToDashboardBtn").addEventListener("click", openDashboard);
+document.getElementById("backToDashboardFromResultBtn").addEventListener("click", openDashboard);
+document.getElementById("dashboardWrongBookBtn").addEventListener("click", () => openWrongBook("dashboard"));
 gradeSelectEl.addEventListener("change", () => {
   state.grade = gradeSelectEl.value;
-  updateGradeLabels();
-  prepareNewTest().catch((error) => {
-    sectionStatsEl.innerHTML = `<p class="loading-text">${error.message}</p>`;
-  });
+  loadDashboard().catch(showDashboardError);
 });
-document.getElementById("wrongBookBtn").addEventListener("click", () => openWrongBook("start"));
 document.getElementById("resultWrongBookBtn").addEventListener("click", () => openWrongBook("result"));
 document.getElementById("wrongBookBackBtn").addEventListener("click", () => {
-  showOnly(state.previousScreen === "result" ? resultScreenEl : startScreenEl);
+  showOnly(state.previousScreen === "result" ? resultScreenEl : dashboardScreenEl);
 });
 document.getElementById("prevBtn").addEventListener("click", () => moveQuestion(-1));
 document.getElementById("nextBtn").addEventListener("click", () => moveQuestion(1));
 document.getElementById("submitBtn").addEventListener("click", submitTest);
-document.getElementById("resetBtn").addEventListener("click", resetTest);
+document.getElementById("resetBtn").addEventListener("click", () => openTestIntro(state.testNumber));
 document.getElementById("playAudioBtn").addEventListener("click", playCurrentAudio);
-document.getElementById("backToTestBtn").addEventListener("click", () => {
-  showOnly(appRootEl);
-  render();
-});
 
 function showOnly(screen) {
+  dashboardScreenEl.hidden = screen !== dashboardScreenEl;
   startScreenEl.hidden = screen !== startScreenEl;
   appRootEl.hidden = screen !== appRootEl;
   resultScreenEl.hidden = screen !== resultScreenEl;
@@ -97,21 +87,89 @@ function showOnly(screen) {
   window.scrollTo({ top: 0, behavior: "auto" });
 }
 
-async function prepareNewTest() {
+async function loadDashboard() {
   stopAudio();
-  sectionStatsEl.innerHTML = '<p class="loading-text">問題を読み込み中...</p>';
+  examListEl.innerHTML = '<p class="loading-text">模擬テストを読み込み中...</p>';
+  const response = await fetch(`/api/exams?grade=${encodeURIComponent(state.grade)}`, { cache: "no-store" });
+  if (!response.ok) throw new Error("模擬テスト一覧を取得できませんでした。");
+  const payload = await response.json();
+  if (payload.error) throw new Error(payload.error);
 
-  const response = await fetch(`/api/test?grade=${encodeURIComponent(state.grade)}&size=${TEST_SIZE}`, { cache: "no-store" });
+  state.grades = payload.grades;
+  state.gradeInfo = payload.grade;
+  state.exams = payload.exams;
+  renderGradeSelect();
+  renderDashboard();
+}
+
+function renderGradeSelect() {
+  if (gradeSelectEl.options.length) return;
+  gradeSelectEl.innerHTML = state.grades.map((grade) => (
+    `<option value="${grade.key}">${grade.label}</option>`
+  )).join("");
+  gradeSelectEl.value = state.grade;
+}
+
+function renderDashboard() {
+  const grade = state.gradeInfo;
+  selectedGradeEnglishEl.textContent = grade.english;
+  selectedGradeTitleEl.textContent = `${grade.label} 模擬テスト`;
+  selectedGradeMetaEl.textContent = `${grade.totalCount}問 / ${grade.minutes}分`;
+  examListEl.innerHTML = state.exams.map(examCardHtml).join("");
+  examListEl.querySelectorAll("[data-test-number]").forEach((button) => {
+    button.addEventListener("click", () => openTestIntro(Number(button.dataset.testNumber)));
+  });
+}
+
+function examCardHtml(exam) {
+  const completed = exam.completed;
+  const action = completed ? "再テスト" : "テスト開始";
+  const score = completed
+    ? `<strong>${exam.score}/${exam.totalCount}点</strong><span>${exam.percent}%</span>`
+    : `<strong>未実施</strong><span>${state.gradeInfo.totalCount}問</span>`;
+  const sections = completed
+    ? Object.entries(exam.sectionScores).map(([section, item]) => (
+        `<small>${section}: ${item.correct}/${item.total}</small>`
+      )).join("")
+    : `<small>実施後にカテゴリー別得点を表示します。</small>`;
+
+  return `
+    <article class="exam-card">
+      <div>
+        <p class="eyebrow">Mock Test ${exam.testNumber}</p>
+        <h3>模擬テスト${exam.testNumber}</h3>
+      </div>
+      <div class="exam-score">${score}</div>
+      <div class="exam-section-scores">${sections}</div>
+      <button class="primary-btn" type="button" data-test-number="${exam.testNumber}">${action}</button>
+    </article>
+  `;
+}
+
+async function openTestIntro(testNumber) {
+  state.testNumber = testNumber;
+  showOnly(startScreenEl);
+  sectionStatsEl.innerHTML = '<p class="loading-text">問題を読み込み中...</p>';
+  await prepareTest();
+}
+
+async function prepareTest() {
+  stopAudio();
+  const response = await fetch(
+    `/api/test?grade=${encodeURIComponent(state.grade)}&test=${encodeURIComponent(state.testNumber)}`,
+    { cache: "no-store" }
+  );
   if (!response.ok) throw new Error("問題データを取得できませんでした。");
   const payload = await response.json();
   if (payload.error) throw new Error(payload.error);
 
+  state.gradeInfo = payload.grade;
   state.questions = payload.questions;
   state.current = 0;
   state.answers = Array(state.questions.length).fill(null);
   state.submitted = false;
   state.started = false;
-  state.remainingSeconds = TEST_SECONDS;
+  state.remainingSeconds = state.gradeInfo.minutes * 60;
   totalCountEl.textContent = state.questions.length;
   resultStatsEl.innerHTML = "";
   resultQuestionNavEl.innerHTML = "";
@@ -119,8 +177,20 @@ async function prepareNewTest() {
   resultSaveStatusEl.textContent = "";
   updateGradeLabels();
   renderStartStats();
-  if (!appRootEl.hidden) render();
   updateTimer();
+}
+
+function renderStartStats() {
+  startTotalCountEl.textContent = `${state.gradeInfo.totalCount}問`;
+  startMinutesEl.textContent = `${state.gradeInfo.minutes}分`;
+  startTestNumberEl.textContent = String(state.testNumber);
+  sectionStatsEl.innerHTML = state.gradeInfo.blueprint.map((part) => `
+    <div class="section-row">
+      <span class="pill ${part.pill}">${part.skill}</span>
+      <strong>${part.label}</strong>
+      <small>${part.count}問</small>
+    </div>
+  `).join("");
 }
 
 function render() {
@@ -131,11 +201,11 @@ function render() {
   sectionLabelEl.textContent = question.section;
   questionNumberEl.textContent = `第${state.current + 1}問`;
   questionTitleEl.textContent = question.title;
-  questionPromptEl.textContent = getDisplayPrompt(question);
+  questionPromptEl.textContent = question.prompt;
 
   if (question.audioText) {
     audioControlsEl.hidden = false;
-    audioStatusEl.textContent = "speechSynthesis" in window ? "音声を聞いてから答えてください。" : "このブラウザは音声再生に対応していません。";
+    audioStatusEl.textContent = "音声を聞いてから答えてください。";
   } else {
     audioControlsEl.hidden = true;
   }
@@ -226,7 +296,14 @@ async function saveResult(score, percent) {
     const response = await fetch("/api/results", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ grade: state.grade, totalCount: state.questions.length, score, percent, answers })
+      body: JSON.stringify({
+        grade: state.grade,
+        testNumber: state.testNumber,
+        totalCount: state.questions.length,
+        score,
+        percent,
+        answers
+      })
     });
     if (!response.ok) throw new Error();
     const payload = await response.json();
@@ -234,13 +311,6 @@ async function saveResult(score, percent) {
   } catch {
     resultSaveStatusEl.textContent = "採点結果を保存できませんでした。";
   }
-}
-
-async function resetTest() {
-  await prepareNewTest();
-  state.started = true;
-  showOnly(appRootEl);
-  render();
 }
 
 async function openWrongBook(previousScreen) {
@@ -255,11 +325,11 @@ async function openWrongBook(previousScreen) {
     const payload = await response.json();
     const questions = payload.questions;
     wrongBookSummaryEl.textContent = questions.length
-      ? `${getGradeLabel()}の保存済み不正解問題 ${questions.length}問を表示しています。`
-      : `${getGradeLabel()}の保存済み不正解問題はまだありません。`;
+      ? `${state.gradeInfo?.label || ""}の保存済み不正解問題 ${questions.length}問を表示しています。`
+      : `${state.gradeInfo?.label || ""}の保存済み不正解問題はまだありません。`;
     wrongBookListEl.innerHTML = questions.map((question, index) => wrongBookHtml(question, index)).join("");
   } catch {
-    wrongBookSummaryEl.textContent = "不正解問題集を読み込めませんでした。";
+    wrongBookSummaryEl.textContent = "不正解問題を読み込めませんでした。";
   }
 }
 
@@ -283,7 +353,7 @@ function wrongBookHtml(question, index) {
   const script = question.audioText ? `<p>音声スクリプト: ${question.audioText}</p>` : "";
   return `
     <div class="review-item wrong">
-      <strong>不正解問題 ${index + 1}（${question.section}）</strong>
+      <strong>不正解問題${index + 1}（模擬テスト${question.testNumber} / ${question.section}）</strong>
       <p class="source-text">問題: ${buildSourceText(question)}</p>
       <p>前回の答え: ${question.selectedAnswer}</p>
       <p>正解: ${question.correctAnswer}</p>
@@ -309,21 +379,12 @@ function playCurrentAudio() {
     audioStatusEl.textContent = "再生中...";
   };
   utterance.onend = () => {
-    audioStatusEl.textContent = "再生が終わりました。もう一度聞くこともできます。";
+    audioStatusEl.textContent = "再生が終わりました。";
   };
   utterance.onerror = () => {
-    audioStatusEl.textContent = "音声を再生できませんでした。ブラウザの音量や設定を確認してください。";
+    audioStatusEl.textContent = "音声を再生できませんでした。";
   };
   window.speechSynthesis.speak(utterance);
-}
-
-function getDisplayPrompt(question) {
-  if (question.section !== "整序") return question.prompt;
-  // "Choose the best order:" 以降のみを表示し、正解文を隠す
-  const marker = "Choose the best order:";
-  const idx = question.prompt.indexOf(marker);
-  if (idx === -1) return question.prompt;
-  return question.prompt.slice(idx).trim();
 }
 
 function buildSourceText(question) {
@@ -346,61 +407,35 @@ function buildQuestionNavButtons(options = {}) {
 }
 
 function getResultMessage(percent) {
-  if (percent >= 80) return "よくできました！";
-  if (percent >= 60) return "合格ライン到達です";
-  return "もう少し頑張りましょう！";
-}
-
-function getGradeLabel() {
-  return GRADES[state.grade]?.label || "4級";
+  if (percent >= 80) return "よくできました。";
+  if (percent >= 60) return "合格ラインを意識できる結果です。";
+  return "復習してもう一度挑戦しましょう。";
 }
 
 function updateGradeLabels() {
-  const grade = GRADES[state.grade] || GRADES.grade4;
+  const grade = state.gradeInfo;
   heroGradeEl.textContent = `英検${grade.label}`;
-  heroGradeEnEl.textContent = grade.english;
-  appGradeLabelEl.textContent = grade.header;
-  document.title = `eiken_codex | 英検${grade.label}模擬テスト`;
+  heroTestNameEl.textContent = `模擬テスト${state.testNumber}`;
+  heroGradeEnEl.textContent = `${grade.english} MOCK TEST ${state.testNumber}`;
+  appGradeLabelEl.textContent = `${grade.label} Mock Test ${state.testNumber}`;
+  document.title = `eiken_codex | 英検${grade.label} 模擬テスト${state.testNumber}`;
 }
 
 function buildResultStats() {
-  const groups = [
-    { label: "語彙・文法", sections: ["語彙"], total: 15, pill: "purple" },
-    { label: "会話", sections: ["会話"], total: 5, pill: "cyan" },
-    { label: "語句整序", sections: ["整序"], total: 5, pill: "amber" },
-    { label: "読解", sections: ["読解"], total: 10, pill: "green" },
-    { label: "リスニング", sections: ["聴解1", "聴解2", "聴解3"], total: 30, pill: "pink" }
-  ];
-
-  return groups.map((group) => {
+  return state.gradeInfo.blueprint.map((part) => {
     const correct = state.questions.reduce((total, question, index) => {
-      if (!group.sections.includes(question.section)) return total;
+      if (question.section !== part.label) return total;
       return total + (state.answers[index] === question.answer ? 1 : 0);
     }, 0);
-    const ratio = Math.round((correct / group.total) * 100);
+    const ratio = Math.round((correct / part.count) * 100);
     return `
-      <article class="result-stat-card ${group.pill}">
-        <span>${group.label}</span>
-        <strong>${correct}/${group.total}</strong>
+      <article class="result-stat-card ${part.pill}">
+        <span>${part.label}</span>
+        <strong>${correct}/${part.count}</strong>
         <div class="stat-bar" aria-hidden="true"><i style="width: ${ratio}%"></i></div>
       </article>
     `;
   }).join("");
-}
-
-function renderStartStats() {
-  const counts = state.questions.reduce((summary, question) => {
-    summary[question.section] = (summary[question.section] || 0) + 1;
-    return summary;
-  }, {});
-
-  sectionStatsEl.innerHTML = EXAM_BLUEPRINT.map((part) => `
-    <div class="section-row">
-      <span class="pill ${part.pill}">${part.label}</span>
-      <strong>${part.detail}</strong>
-      <small>${counts[part.section] || 0}問</small>
-    </div>
-  `).join("");
 }
 
 function scrollToReview(index) {
@@ -418,6 +453,15 @@ function updateTimer() {
   timerEl.textContent = `${minutes}:${seconds}`;
 }
 
+async function openDashboard() {
+  showOnly(dashboardScreenEl);
+  await loadDashboard().catch(showDashboardError);
+}
+
+function showDashboardError(error) {
+  examListEl.innerHTML = `<p class="loading-text">${error.message}</p>`;
+}
+
 setInterval(() => {
   if (!state.started || !state.questions.length || state.submitted || state.remainingSeconds <= 0) return;
   state.remainingSeconds -= 1;
@@ -425,9 +469,5 @@ setInterval(() => {
   if (state.remainingSeconds === 0) submitTest();
 }, 1000);
 
-totalCountEl.textContent = TEST_SIZE;
 updateTimer();
-updateGradeLabels();
-prepareNewTest().catch((error) => {
-  sectionStatsEl.innerHTML = `<p class="loading-text">${error.message}</p>`;
-});
+openDashboard();

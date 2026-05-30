@@ -12,6 +12,8 @@ DEFAULT_CSV = ROOT / "seed_questions.csv"
 DEFAULT_DB = ROOT / "questions.sqlite"
 
 REQUIRED_COLUMNS = [
+    "grade",
+    "test_number",
     "title",
     "section",
     "prompt",
@@ -32,6 +34,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
         CREATE TABLE questions (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             grade TEXT NOT NULL DEFAULT 'grade4',
+            test_number INTEGER NOT NULL DEFAULT 1,
             section TEXT NOT NULL,
             title TEXT NOT NULL,
             prompt TEXT NOT NULL,
@@ -42,7 +45,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
             explanation TEXT NOT NULL
         )
     """)
-    conn.execute("CREATE INDEX idx_questions_grade_section ON questions(grade, section)")
+    conn.execute("CREATE INDEX idx_questions_grade_test_section ON questions(grade, test_number, section)")
 
 
 def read_rows(csv_path: Path) -> list[dict]:
@@ -54,7 +57,8 @@ def read_rows(csv_path: Path) -> list[dict]:
 
         rows = []
         for line_number, row in enumerate(reader, start=2):
-            grade = (row.get("grade") or "grade4").strip()
+            grade = row["grade"].strip()
+            test_number = int(row["test_number"])
             choices = [
                 row["choice_1"].strip(),
                 row["choice_2"].strip(),
@@ -62,6 +66,8 @@ def read_rows(csv_path: Path) -> list[dict]:
                 row["choice_4"].strip(),
             ]
             answer_index = int(row["answer_index"])
+            if test_number < 1 or test_number > 10:
+                raise ValueError(f"{line_number}行目: test_number は1-10で指定してください。")
             if answer_index < 0 or answer_index > 3:
                 raise ValueError(f"{line_number}行目: answer_index は0-3で指定してください。")
             if not grade or not row["section"].strip() or not row["prompt"].strip():
@@ -69,6 +75,7 @@ def read_rows(csv_path: Path) -> list[dict]:
 
             rows.append({
                 "grade": grade,
+                "test_number": test_number,
                 "section": row["section"].strip(),
                 "title": row["title"].strip(),
                 "prompt": row["prompt"].strip(),
@@ -88,9 +95,11 @@ def import_questions(csv_path: Path, db_path: Path) -> int:
         conn.executemany(
             """
             INSERT INTO questions
-                (grade, section, title, prompt, passage, audio_text, choices_json, answer_index, explanation)
+                (grade, test_number, section, title, prompt, passage, audio_text,
+                 choices_json, answer_index, explanation)
             VALUES
-                (:grade, :section, :title, :prompt, :passage, :audio_text, :choices_json, :answer_index, :explanation)
+                (:grade, :test_number, :section, :title, :prompt, :passage, :audio_text,
+                 :choices_json, :answer_index, :explanation)
             """,
             rows,
         )

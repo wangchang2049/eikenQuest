@@ -4,10 +4,37 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>eiken_codex | 英検模擬テスト</title>
-    <link rel="stylesheet" href="styles.css?v=grade-select">
+    <link rel="stylesheet" href="styles.css?v=exam-dashboard">
   </head>
   <body>
-    <section id="startScreen" class="start-screen" aria-label="開始画面">
+    <section id="dashboardScreen" class="dashboard-screen" aria-label="模擬テスト選択">
+      <header class="dashboard-header">
+        <div>
+          <p class="eyebrow">EIKEN PRACTICE</p>
+          <h1>受験する英検の級を選択してください</h1>
+        </div>
+        <button id="dashboardWrongBookBtn" class="secondary-btn" type="button">不正解問題を見る</button>
+      </header>
+
+      <section class="section-card grade-card" aria-label="級の選択">
+        <label class="grade-select-label" for="gradeSelect">級</label>
+        <select id="gradeSelect" class="grade-select"></select>
+      </section>
+
+      <section class="exam-list-panel" aria-label="模擬テスト一覧">
+        <div class="panel-title">
+          <div>
+            <p id="selectedGradeEnglish" class="eyebrow"></p>
+            <h2 id="selectedGradeTitle"></h2>
+          </div>
+          <span id="selectedGradeMeta"></span>
+        </div>
+        <div id="examList" class="exam-list"></div>
+      </section>
+    </section>
+
+    <section id="startScreen" class="start-screen" hidden aria-label="テスト概要">
+      <button id="backToDashboardBtn" class="secondary-btn wide-btn" type="button">一覧へ戻る</button>
       <div class="brand-mark" aria-hidden="true">
         <span></span>
         <span></span>
@@ -16,39 +43,25 @@
 
       <div class="hero-title">
         <h1 id="heroGrade">英検4級</h1>
-        <p>模擬テスト</p>
+        <p id="heroTestName">模擬テスト1</p>
         <span id="heroGradeEn">EIKEN GRADE 4 PRACTICE TEST</span>
       </div>
-
-      <section class="section-card grade-card" aria-label="級の選択">
-        <h2>受験する級</h2>
-        <label class="grade-select-label" for="gradeSelect">級を選択</label>
-        <select id="gradeSelect" class="grade-select">
-          <option value="grade4">4級</option>
-          <option value="grade3">3級</option>
-          <option value="pre2">準2級</option>
-          <option value="pre2plus">準2級プラス</option>
-          <option value="grade2">2級</option>
-          <option value="pre1">準1級</option>
-          <option value="grade1">1級</option>
-        </select>
-      </section>
 
       <div class="stat-grid" aria-label="テスト概要">
         <div class="stat-card">
           <div class="stat-icon document-icon"></div>
           <span>出題数</span>
-          <strong>全65問</strong>
+          <strong id="startTotalCount">0問</strong>
         </div>
         <div class="stat-card">
           <div class="stat-icon timer-icon"></div>
-          <span>制限時間</span>
-          <strong>65分</strong>
+          <span>目安時間</span>
+          <strong id="startMinutes">0分</strong>
         </div>
         <div class="stat-card">
           <div class="stat-icon chart-icon"></div>
-          <span>合格目安</span>
-          <strong>目安60%</strong>
+          <span>模擬テスト</span>
+          <strong id="startTestNumber">1</strong>
         </div>
       </div>
 
@@ -58,10 +71,9 @@
       </section>
 
       <button id="startBtn" class="start-btn" type="button">
-        テストを始める
+        Go
         <span aria-hidden="true">→</span>
       </button>
-      <button id="wrongBookBtn" class="secondary-btn wide-btn" type="button">不正解問題集を見る</button>
     </section>
 
     <div id="appRoot" class="app-root" hidden>
@@ -84,7 +96,7 @@
           </div>
           <nav id="questionNav" class="question-nav" aria-label="問題一覧"></nav>
           <button id="submitBtn" class="primary-btn" type="button">採点する</button>
-          <button id="resetBtn" class="secondary-btn" type="button">新しいテスト</button>
+          <button id="resetBtn" class="secondary-btn" type="button">再テスト</button>
         </aside>
 
         <section class="test-panel" aria-live="polite">
@@ -118,8 +130,8 @@
             <small>/ <span id="resultTotalCount">0</span> 問正解</small>
           </div>
           <nav id="resultQuestionNav" class="question-nav" aria-label="採点結果の問題番号"></nav>
-          <button id="resultWrongBookBtn" class="secondary-btn" type="button">不正解問題集</button>
-          <button id="backToTestBtn" class="secondary-btn" type="button">問題に戻る</button>
+          <button id="resultWrongBookBtn" class="secondary-btn" type="button">不正解問題</button>
+          <button id="backToDashboardFromResultBtn" class="secondary-btn" type="button">一覧へ戻る</button>
         </aside>
 
         <div class="result-shell">
@@ -143,7 +155,7 @@
         <section class="result-panel">
           <div>
             <p class="eyebrow">Wrong Answers</p>
-            <h2>不正解問題集</h2>
+            <h2>不正解問題</h2>
           </div>
           <p id="wrongBookSummary"></p>
           <div id="wrongBookList" class="review-list"></div>
@@ -151,6 +163,6 @@
       </div>
     </section>
 
-    <script src="app.js?v=grade-select"></script>
+    <script src="app.js?v=exam-dashboard"></script>
   </body>
 </html>
