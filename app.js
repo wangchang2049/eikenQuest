@@ -1,4 +1,5 @@
 const TEST_NUMBERS = Array.from({ length: 10 }, (_, index) => index + 1);
+const API_BASE = window.location.port === "5500" ? "http://127.0.0.1:8001" : "";
 
 const state = {
   grades: [],
@@ -90,7 +91,7 @@ function showOnly(screen) {
 async function loadDashboard() {
   stopAudio();
   examListEl.innerHTML = '<p class="loading-text">模擬テストを読み込み中...</p>';
-  const response = await fetch(`/api/exams?grade=${encodeURIComponent(state.grade)}`, { cache: "no-store" });
+  const response = await fetch(`${API_BASE}/api/exams?grade=${encodeURIComponent(state.grade)}`, { cache: "no-store" });
   if (!response.ok) throw new Error("模擬テスト一覧を取得できませんでした。");
   const payload = await response.json();
   if (payload.error) throw new Error(payload.error);
@@ -156,7 +157,7 @@ async function openTestIntro(testNumber) {
 async function prepareTest() {
   stopAudio();
   const response = await fetch(
-    `/api/test?grade=${encodeURIComponent(state.grade)}&test=${encodeURIComponent(state.testNumber)}`,
+    `${API_BASE}/api/test?grade=${encodeURIComponent(state.grade)}&test=${encodeURIComponent(state.testNumber)}`,
     { cache: "no-store" }
   );
   if (!response.ok) throw new Error("問題データを取得できませんでした。");
@@ -293,7 +294,7 @@ async function saveResult(score, percent) {
   }));
 
   try {
-    const response = await fetch("/api/results", {
+    const response = await fetch(`${API_BASE}/api/results`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
@@ -320,7 +321,7 @@ async function openWrongBook(previousScreen) {
   wrongBookListEl.innerHTML = "";
 
   try {
-    const response = await fetch(`/api/wrong-questions?grade=${encodeURIComponent(state.grade)}`, { cache: "no-store" });
+    const response = await fetch(`${API_BASE}/api/wrong-questions?grade=${encodeURIComponent(state.grade)}`, { cache: "no-store" });
     if (!response.ok) throw new Error();
     const payload = await response.json();
     const questions = payload.questions;
