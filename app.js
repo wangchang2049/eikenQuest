@@ -1,8 +1,105 @@
 const TEST_NUMBERS = Array.from({ length: 10 }, (_, index) => index + 1);
-const API_BASE = window.location.port === "5500" ? "http://127.0.0.1:8001" : "";
+
+// Static data for grades and blueprints (previously from server.py)
+const GRADES_INFO = {
+  "grade4": { "label": "4級", "english": "EIKEN GRADE 4", "minutes": 65 },
+  "grade3": { "label": "3級", "english": "EIKEN GRADE 3", "minutes": 90 },
+  "pre2": { "label": "準2級", "english": "EIKEN GRADE PRE-2", "minutes": 105 },
+  "pre2plus": { "label": "準2級プラス", "english": "EIKEN GRADE PRE-2 PLUS", "minutes": 110 },
+  "grade2": { "label": "2級", "english": "EIKEN GRADE 2", "minutes": 110 },
+  "pre1": { "label": "準1級", "english": "EIKEN GRADE PRE-1", "minutes": 120 },
+  "grade1": { "label": "1級", "english": "EIKEN GRADE 1", "minutes": 135 },
+};
+
+const BLUEPRINTS = {
+  "grade4": [
+    ["vocabulary", "短文の語句空所補充", "リーディング", 15, "purple"],
+    ["conversation", "会話文の文空所補充", "リーディング", 5, "cyan"],
+    ["ordering", "日本文付き短文の語句整序", "リーディング", 5, "amber"],
+    ["reading", "長文の内容一致選択", "リーディング", 10, "green"],
+    ["listening1", "会話の応答文選択", "リスニング", 10, "pink"],
+    ["listening2", "会話の内容一致選択", "リスニング", 10, "pink"],
+    ["listening3", "文の内容一致選択", "リスニング", 10, "pink"],
+  ],
+  "grade3": [
+    ["vocabulary", "短文の語句空所補充", "リーディング", 15, "purple"],
+    ["conversation", "会話文の空所補充", "リーディング", 5, "cyan"],
+    ["reading", "長文の内容一致選択", "リーディング", 10, "green"],
+    ["writing_email", "Eメール", "ライティング", 1, "amber"],
+    ["writing_essay", "英作文", "ライティング", 1, "amber"],
+    ["listening1", "会話の応答文選択", "リスニング", 10, "pink"],
+    ["listening2", "会話の内容一致選択", "リスニング", 10, "pink"],
+    ["listening3", "文の内容一致選択", "リスニング", 10, "pink"],
+  ],
+  "pre2": [
+    ["vocabulary", "短文の語句空所補充", "リーディング", 15, "purple"],
+    ["conversation", "会話文の空所補充", "リーディング", 5, "cyan"],
+    ["reading_cloze", "長文の語句空所補充", "リーディング", 2, "green"],
+    ["reading", "長文の内容一致選択", "リーディング", 7, "green"],
+    ["writing_email", "Eメール", "ライティング", 1, "amber"],
+    ["writing_essay", "英作文", "ライティング", 1, "amber"],
+    ["listening1", "会話の応答文選択", "リスニング", 10, "pink"],
+    ["listening2", "会話の内容一致選択", "リスニング", 10, "pink"],
+    ["listening3", "文の内容一致選択", "リスニング", 10, "pink"],
+  ],
+  "pre2plus": [
+    ["vocabulary", "短文の語句空所補充", "リーディング", 17, "purple"],
+    ["reading_cloze", "長文の語句空所補充", "リーディング", 6, "green"],
+    ["reading", "長文の内容一致選択", "リーディング", 8, "green"],
+    ["writing_summary", "英文要約", "ライティング", 1, "amber"],
+    ["writing_essay", "英作文", "ライティング", 1, "amber"],
+    ["listening1", "会話の内容一致選択", "リスニング", 15, "pink"],
+    ["listening2", "文の内容一致選択", "リスニング", 15, "pink"],
+  ],
+  "grade2": [
+    ["vocabulary", "短文の語句空所補充", "リーディング", 17, "purple"],
+    ["reading_cloze", "長文の語句空所補充", "リーディング", 6, "green"],
+    ["reading", "長文の内容一致選択", "リーディング", 8, "green"],
+    ["writing_summary", "英文要約", "ライティング", 1, "amber"],
+    ["writing_essay", "英作文", "ライティング", 1, "amber"],
+    ["listening1", "会話の内容一致選択", "リスニング", 15, "pink"],
+    ["listening2", "文の内容一致選択", "リスニング", 15, "pink"],
+  ],
+  "pre1": [
+    ["vocabulary", "短文の語句空所補充", "リーディング", 18, "purple"],
+    ["reading_cloze", "長文の語句空所補充", "リーディング", 6, "green"],
+    ["reading", "長文の内容一致選択", "リーディング", 7, "green"],
+    ["writing_summary", "英文要約", "ライティング", 1, "amber"],
+    ["writing_essay", "英作文", "ライティング", 1, "amber"],
+    ["listening1", "会話の内容一致選択", "リスニング", 12, "pink"],
+    ["listening2", "文の内容一致選択", "リスニング", 12, "pink"],
+    ["listening3", "Real-Life形式の内容一致選択", "リスニング", 5, "pink"],
+  ],
+  "grade1": [
+    ["vocabulary", "短文の語句空所補充", "リーディング", 22, "purple"],
+    ["reading_cloze", "長文の語句空所補充", "リーディング", 6, "green"],
+    ["reading", "長文の内容一致選択", "リーディング", 7, "green"],
+    ["writing_summary", "英文要約", "ライティング", 1, "amber"],
+    ["writing_essay", "英作文", "ライティング", 1, "amber"],
+    ["listening1", "会話の内容一致選択", "リスニング", 10, "pink"],
+    ["listening2", "文の内容一致選択", "リスニング", 10, "pink"],
+    ["listening3", "Real-Life形式の内容一致選択", "リスニング", 5, "pink"],
+    ["listening4", "インタビューの内容一致選択", "リスニング", 2, "pink"],
+  ],
+};
+
+function getGradeSummary(gradeKey) {
+  const info = GRADES_INFO[gradeKey];
+  const blueprint = BLUEPRINTS[gradeKey].map(([key, label, skill, count, pill]) => ({
+    key, label, skill, count, pill
+  }));
+  return {
+    key: gradeKey,
+    label: info.label,
+    english: info.english,
+    minutes: info.minutes,
+    totalCount: blueprint.reduce((sum, p) => sum + p.count, 0),
+    blueprint
+  };
+}
 
 const state = {
-  grades: [],
+  grades: Object.keys(GRADES_INFO).map(getGradeSummary),
   grade: "grade4",
   gradeInfo: null,
   exams: [],
@@ -67,7 +164,7 @@ document.getElementById("backToDashboardFromResultBtn").addEventListener("click"
 document.getElementById("dashboardWrongBookBtn").addEventListener("click", () => openWrongBook("dashboard"));
 gradeSelectEl.addEventListener("change", () => {
   state.grade = gradeSelectEl.value;
-  loadDashboard().catch(showDashboardError);
+  loadDashboard();
 });
 document.getElementById("resultWrongBookBtn").addEventListener("click", () => openWrongBook("result"));
 document.getElementById("wrongBookBackBtn").addEventListener("click", () => {
@@ -88,17 +185,51 @@ function showOnly(screen) {
   window.scrollTo({ top: 0, behavior: "auto" });
 }
 
+// LocalStorage helpers
+function getStorageKey(grade, testNumber) {
+  return `eikenQuest_result_${grade}_${testNumber}`;
+}
+
+function getWrongQuestionsKey(grade) {
+  return `eikenQuest_wrong_${grade}`;
+}
+
+function loadLocalExamList(gradeKey) {
+  const exams = [];
+  const gradeInfo = getGradeSummary(gradeKey);
+  for (let i = 1; i <= 10; i++) {
+    const saved = localStorage.getItem(getStorageKey(gradeKey, i));
+    if (saved) {
+      const data = JSON.parse(saved);
+      exams.push({
+        testNumber: i,
+        completed: true,
+        score: data.score,
+        totalCount: data.totalCount,
+        percent: data.percent,
+        sectionScores: data.sectionScores
+      });
+    } else {
+      exams.push({
+        testNumber: i,
+        completed: false,
+        score: null,
+        totalCount: gradeInfo.totalCount,
+        percent: null,
+        sectionScores: {}
+      });
+    }
+  }
+  return exams;
+}
+
 async function loadDashboard() {
   stopAudio();
   examListEl.innerHTML = '<p class="loading-text">模擬テストを読み込み中...</p>';
-  const response = await fetch(`${API_BASE}/api/exams?grade=${encodeURIComponent(state.grade)}`, { cache: "no-store" });
-  if (!response.ok) throw new Error("模擬テスト一覧を取得できませんでした。");
-  const payload = await response.json();
-  if (payload.error) throw new Error(payload.error);
-
-  state.grades = payload.grades;
-  state.gradeInfo = payload.grade;
-  state.exams = payload.exams;
+  
+  state.gradeInfo = getGradeSummary(state.grade);
+  state.exams = loadLocalExamList(state.grade);
+  
   renderGradeSelect();
   renderDashboard();
 }
@@ -154,31 +285,60 @@ async function openTestIntro(testNumber) {
   await prepareTest();
 }
 
+// Fisher-Yates shuffle
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
 async function prepareTest() {
   stopAudio();
-  const response = await fetch(
-    `${API_BASE}/api/test?grade=${encodeURIComponent(state.grade)}&test=${encodeURIComponent(state.testNumber)}`,
-    { cache: "no-store" }
-  );
-  if (!response.ok) throw new Error("問題データを取得できませんでした。");
-  const payload = await response.json();
-  if (payload.error) throw new Error(payload.error);
+  try {
+    const response = await fetch(`data/${state.grade}/test_${state.testNumber}.json`);
+    if (!response.ok) throw new Error("問題データを取得できませんでした。");
+    const questions = await response.json();
 
-  state.gradeInfo = payload.grade;
-  state.questions = payload.questions;
-  state.current = 0;
-  state.answers = Array(state.questions.length).fill(null);
-  state.submitted = false;
-  state.started = false;
-  state.remainingSeconds = state.gradeInfo.minutes * 60;
-  totalCountEl.textContent = state.questions.length;
-  resultStatsEl.innerHTML = "";
-  resultQuestionNavEl.innerHTML = "";
-  reviewListEl.innerHTML = "";
-  resultSaveStatusEl.textContent = "";
-  updateGradeLabels();
-  renderStartStats();
-  updateTimer();
+    // Process questions: shuffle choices
+    const processedQuestions = questions.map(q => {
+      const choicesWithOriginal = q.choices.map((text, index) => ({ text, original: index }));
+      shuffle(choicesWithOriginal);
+      const newAnswer = choicesWithOriginal.findIndex(c => c.original === q.answer);
+      return {
+        ...q,
+        choices: choicesWithOriginal.map(c => c.text),
+        answer: newAnswer,
+        originalAnswer: q.answer
+      };
+    });
+
+    state.gradeInfo = getGradeSummary(state.grade);
+    
+    // Select questions based on blueprint
+    const selectedQuestions = [];
+    state.gradeInfo.blueprint.forEach(part => {
+      const pool = processedQuestions.filter(q => q.section === part.label);
+      selectedQuestions.push(...pool.slice(0, part.count));
+    });
+
+    state.questions = selectedQuestions;
+    state.current = 0;
+    state.answers = Array(state.questions.length).fill(null);
+    state.submitted = false;
+    state.started = false;
+    state.remainingSeconds = state.gradeInfo.minutes * 60;
+    totalCountEl.textContent = state.questions.length;
+    resultStatsEl.innerHTML = "";
+    resultQuestionNavEl.innerHTML = "";
+    reviewListEl.innerHTML = "";
+    resultSaveStatusEl.textContent = "";
+    updateGradeLabels();
+    renderStartStats();
+    updateTimer();
+  } catch (error) {
+    sectionStatsEl.innerHTML = `<p class="loading-text">${error.message}</p>`;
+  }
 }
 
 function renderStartStats() {
@@ -273,45 +433,52 @@ async function submitTest() {
     button.addEventListener("click", () => scrollToReview(Number(button.dataset.index)));
   });
   reviewListEl.innerHTML = state.questions.map((question, index) => reviewHtml(question, index)).join("");
-  resultSaveStatusEl.textContent = "採点結果を保存中...";
-  await saveResult(score, percent);
+  resultSaveStatusEl.textContent = "結果を保存中...";
+  saveResult(score, percent);
   render();
 }
 
-async function saveResult(score, percent) {
-  const answers = state.questions.map((question, index) => ({
-    questionId: question.id,
-    section: question.section,
-    title: question.title,
-    prompt: question.prompt,
-    passage: question.passage,
-    audioText: question.audioText,
-    choices: question.choices,
-    selectedIndex: state.answers[index],
-    correctIndex: question.answer,
-    isCorrect: state.answers[index] === question.answer,
-    explanation: question.explanation
-  }));
+function saveResult(score, percent) {
+  const sectionScores = {};
+  state.gradeInfo.blueprint.forEach(part => {
+    const correct = state.questions.reduce((total, q, idx) => {
+      if (q.section !== part.label) return total;
+      return total + (state.answers[idx] === q.answer ? 1 : 0);
+    }, 0);
+    sectionScores[part.label] = { correct, total: part.count };
+  });
 
-  try {
-    const response = await fetch(`${API_BASE}/api/results`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        grade: state.grade,
-        testNumber: state.testNumber,
-        totalCount: state.questions.length,
-        score,
-        percent,
-        answers
-      })
-    });
-    if (!response.ok) throw new Error();
-    const payload = await response.json();
-    resultSaveStatusEl.textContent = `採点結果を保存しました（ID: ${payload.attemptId}）。`;
-  } catch {
-    resultSaveStatusEl.textContent = "採点結果を保存できませんでした。";
-  }
+  const resultData = {
+    score,
+    percent,
+    totalCount: state.questions.length,
+    sectionScores,
+    timestamp: new Date().toISOString()
+  };
+
+  localStorage.setItem(getStorageKey(state.grade, state.testNumber), JSON.stringify(resultData));
+
+  // Save wrong questions to LocalStorage
+  const wrongQuestions = state.questions
+    .filter((q, idx) => state.answers[idx] !== q.answer)
+    .map((q, idx) => ({
+      ...q,
+      testNumber: state.testNumber,
+      selectedAnswer: state.answers[idx] === null ? "未回答" : q.choices[state.answers[idx]],
+      correctAnswer: q.choices[q.answer]
+    }));
+
+  const existingWrong = JSON.parse(localStorage.getItem(getWrongQuestionsKey(state.grade)) || "[]");
+  // Basic de-duplication
+  const newWrong = [...existingWrong];
+  wrongQuestions.forEach(wq => {
+    if (!newWrong.some(e => e.title === wq.title && e.prompt === wq.prompt)) {
+      newWrong.unshift(wq);
+    }
+  });
+  localStorage.setItem(getWrongQuestionsKey(state.grade), JSON.stringify(newWrong.slice(0, 100)));
+
+  resultSaveStatusEl.textContent = "結果をブラウザに保存しました。";
 }
 
 async function openWrongBook(previousScreen) {
@@ -320,18 +487,11 @@ async function openWrongBook(previousScreen) {
   wrongBookSummaryEl.textContent = "不正解問題を読み込み中...";
   wrongBookListEl.innerHTML = "";
 
-  try {
-    const response = await fetch(`${API_BASE}/api/wrong-questions?grade=${encodeURIComponent(state.grade)}`, { cache: "no-store" });
-    if (!response.ok) throw new Error();
-    const payload = await response.json();
-    const questions = payload.questions;
-    wrongBookSummaryEl.textContent = questions.length
-      ? `${state.gradeInfo?.label || ""}の保存済み不正解問題 ${questions.length}問を表示しています。`
-      : `${state.gradeInfo?.label || ""}の保存済み不正解問題はまだありません。`;
-    wrongBookListEl.innerHTML = questions.map((question, index) => wrongBookHtml(question, index)).join("");
-  } catch {
-    wrongBookSummaryEl.textContent = "不正解問題を読み込めませんでした。";
-  }
+  const questions = JSON.parse(localStorage.getItem(getWrongQuestionsKey(state.grade)) || "[]");
+  wrongBookSummaryEl.textContent = questions.length
+    ? `${state.gradeInfo?.label || ""}の保存済み不正解問題 ${questions.length}問を表示しています。`
+    : `${state.gradeInfo?.label || ""}の保存済み不正解問題はまだありません。`;
+  wrongBookListEl.innerHTML = questions.map((question, index) => wrongBookHtml(question, index)).join("");
 }
 
 function reviewHtml(question, index) {
@@ -456,7 +616,7 @@ function updateTimer() {
 
 async function openDashboard() {
   showOnly(dashboardScreenEl);
-  await loadDashboard().catch(showDashboardError);
+  loadDashboard();
 }
 
 function showDashboardError(error) {
