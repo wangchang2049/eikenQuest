@@ -12,3 +12,10 @@ $RECYCLE.BIN/
 *.lnk
 
 **/__pycache__/**
+
+# Local runtime files
+server.log
+server.pid
+
+# SQLite databases
+*.sqlite
