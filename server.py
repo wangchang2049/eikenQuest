@@ -492,5 +492,5 @@ class Handler(SimpleHTTPRequestHandler):
 
 if __name__ == "__main__":
     server = ThreadingHTTPServer(("127.0.0.1", 8001), Handler)
-    print(f"Serving eiken_codex on http://127.0.0.1:8001/ with {DB_PATH.name}")
+    print(f"Serving eikenQuest on http://127.0.0.1:8001/ with {DB_PATH.name}")
     server.serve_forever()

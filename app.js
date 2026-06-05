@@ -418,7 +418,7 @@ function updateGradeLabels() {
   heroTestNameEl.textContent = `模擬テスト${state.testNumber}`;
   heroGradeEnEl.textContent = `${grade.english} MOCK TEST ${state.testNumber}`;
   appGradeLabelEl.textContent = `${grade.label} Mock Test ${state.testNumber}`;
-  document.title = `eiken_codex | 英検${grade.label} 模擬テスト${state.testNumber}`;
+  document.title = `eikenQuest | 英検${grade.label} 模擬テスト${state.testNumber}`;
 }
 
 function buildResultStats() {
