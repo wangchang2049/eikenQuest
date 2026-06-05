@@ -296,8 +296,17 @@ function shuffle(array) {
 async function prepareTest() {
   stopAudio();
   try {
-    const response = await fetch(`data/${state.grade}/test_${state.testNumber}.json`);
-    if (!response.ok) throw new Error("問題データを取得できませんでした。");
+    // パス候補を順番に試す（Live Server起動ディレクトリの違いに対応）
+    const pathCandidates = [
+      `data/${state.grade}/test_${state.testNumber}.json`,
+      `src/data/${state.grade}/test_${state.testNumber}.json`,
+    ];
+    let response = null;
+    for (const path of pathCandidates) {
+      const res = await fetch(path);
+      if (res.ok) { response = res; break; }
+    }
+    if (!response) throw new Error(`問題データを取得できませんでした。\n（パス: data/${state.grade}/test_${state.testNumber}.json）`);
     const questions = await response.json();
 
     // Process questions: shuffle choices
@@ -318,7 +327,9 @@ async function prepareTest() {
     // Select questions based on blueprint
     const selectedQuestions = [];
     state.gradeInfo.blueprint.forEach(part => {
-      const pool = processedQuestions.filter(q => q.section === part.label);
+      const pool = processedQuestions.filter(q => q.section === part.key);
+      // section を日本語ラベルに変換して表示に使う
+      pool.forEach(q => { q.sectionLabel = part.label; });
       selectedQuestions.push(...pool.slice(0, part.count));
     });
 
@@ -359,7 +370,7 @@ function render() {
   if (!question) return;
 
   answeredCountEl.textContent = state.answers.filter((answer) => answer !== null).length;
-  sectionLabelEl.textContent = question.section;
+  sectionLabelEl.textContent = question.sectionLabel || question.section;
   questionNumberEl.textContent = `第${state.current + 1}問`;
   questionTitleEl.textContent = question.title;
   questionPromptEl.textContent = question.prompt;
