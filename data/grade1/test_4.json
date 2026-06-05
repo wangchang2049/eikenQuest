@@ -1,59 +1,59 @@
 [
   {
     "section": "listening1",
-    "title": "1級 模擬テスト4 リスニング第1部 1",
-    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 4-1]",
+    "title": "1級 模擬テスト4 リスニング第1部 (Kyoto) 1",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
     "passage": "",
-    "audioText": "A: Did you enjoy the part-time jobs in London, Nancy?\nB: Yes, but it was a bit crowded. Over 317 people were there.\nA: I see. Would you go there again?",
+    "audioText": "A: Have you had the chance to visit the part-time jobs in Kyoto, Grace?\nB: Yes, although there were many people there.\nA: I see. Would you recommend it to others?",
     "choices": [
-      "I went there.",
       "Probably yes.",
       "No, I didn't.",
-      "It was crowded."
+      "It was crowded.",
+      "I went there."
     ],
     "answer": 1,
     "explanation": "grade1-04-listening1-01: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening1",
-    "title": "1級 模擬テスト4 リスニング第1部 2",
-    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 4-2]",
+    "title": "1級 模擬テスト4 リスニング第1部 (New York) 2",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
     "passage": "",
-    "audioText": "A: Did you enjoy the science museums in Kyoto, Grace?\nB: Yes, but it was a bit crowded. Over 324 people were there.\nA: I see. Would you go there again?",
+    "audioText": "A: How did you like the science museums in New York, Tom?\nB: Yes, but it felt quite crowded.\nA: I see. Would you go back?",
     "choices": [
-      "It was crowded.",
-      "I went there.",
-      "Probably yes.",
-      "No, I didn't."
+      "I think so.",
+      "No, I didn't.",
+      "There were too many people.",
+      "I have been there."
     ],
     "answer": 2,
     "explanation": "grade1-04-listening1-02: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening1",
-    "title": "1級 模擬テスト4 リスニング第1部 3",
-    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 4-3]",
+    "title": "1級 模擬テスト4 リスニング第1部 (Seoul) 3",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
     "passage": "",
-    "audioText": "A: Did you enjoy the travel planning in New York, Tom?\nB: Yes, but it was a bit crowded. Over 331 people were there.\nA: I see. Would you go there again?",
+    "audioText": "A: Did you like the travel planning in Seoul, Mike?\nB: Yes, but it was pretty packed.\nA: I see. Would you consider returning?",
     "choices": [
-      "I went there.",
-      "Probably yes.",
-      "No, I didn't.",
-      "It was crowded."
+      "It felt crowded.",
+      "Yes, I went.",
+      "Yes, probably.",
+      "No, I didn't."
     ],
     "answer": 1,
     "explanation": "grade1-04-listening1-03: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening1",
-    "title": "1級 模擬テスト4 リスニング第1部 4",
-    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 4-4]",
+    "title": "1級 模擬テスト4 リスニング第1部 (Tokyo) 4",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
     "passage": "",
-    "audioText": "A: Did you enjoy the healthy meals in Seoul, Mike?\nB: Yes, but it was a bit crowded. Over 338 people were there.\nA: I see. Would you go there again?",
+    "audioText": "A: What did you think of the healthy meals in Tokyo, Frank?\nB: Yes, although it was overcrowded.\nA: I see. Would you go there again?",
     "choices": [
-      "I went there.",
-      "It was crowded.",
-      "Probably yes.",
+      "I visited.",
+      "It was packed.",
+      "That seems likely.",
       "No, I didn't."
     ],
     "answer": 2,
@@ -61,55 +61,55 @@
   },
   {
     "section": "listening1",
-    "title": "1級 模擬テスト4 リスニング第1部 5",
-    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 4-5]",
+    "title": "1級 模擬テスト4 リスニング第1部 (Rome) 5",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
     "passage": "",
-    "audioText": "A: Did you enjoy the new technology in Tokyo, Frank?\nB: Yes, but it was a bit crowded. Over 345 people were there.\nA: I see. Would you go there again?",
+    "audioText": "A: Did you enjoy the new technology in Rome, Sam?\nB: Yes, but it was a bit crowded.\nA: I see. Would you visit again?",
     "choices": [
-      "Probably yes.",
-      "I went there.",
+      "I did go there.",
       "No, I didn't.",
-      "It was crowded."
+      "It was pretty crowded.",
+      "I suppose so."
     ],
     "answer": 0,
     "explanation": "grade1-04-listening1-05: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening1",
-    "title": "1級 模擬テスト4 リスニング第1部 6",
-    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 4-6]",
+    "title": "1級 模擬テスト4 リスニング第1部 (Miami) 6",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
     "passage": "",
-    "audioText": "A: Did you enjoy the public transportation in Rome, Sam?\nB: Yes, but it was a bit crowded. Over 352 people were there.\nA: I see. Would you go there again?",
+    "audioText": "A: Have you had the chance to visit the public transportation in Miami, Lisa?\nB: Yes, although there were many people there.\nA: I see. Would you recommend it to others?",
     "choices": [
-      "Probably yes.",
-      "No, I didn't.",
       "I went there.",
-      "It was crowded."
+      "It was crowded.",
+      "Probably yes.",
+      "No, I didn't."
     ],
     "answer": 0,
     "explanation": "grade1-04-listening1-06: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening1",
-    "title": "1級 模擬テスト4 リスニング第1部 7",
-    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 4-7]",
+    "title": "1級 模擬テスト4 リスニング第1部 (Toronto) 7",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
     "passage": "",
-    "audioText": "A: Did you enjoy the space exploration in Miami, Lisa?\nB: Yes, but it was a bit crowded. Over 359 people were there.\nA: I see. Would you go there again?",
+    "audioText": "A: How did you like the space exploration in Toronto, Eve?\nB: Yes, but it felt quite crowded.\nA: I see. Would you go back?",
     "choices": [
+      "Probably yes.",
       "It was crowded.",
       "I went there.",
-      "No, I didn't.",
-      "Probably yes."
+      "No, I didn't."
     ],
     "answer": 3,
     "explanation": "grade1-04-listening1-07: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening1",
-    "title": "1級 模擬テスト4 リスニング第1部 8",
-    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 4-8]",
+    "title": "1級 模擬テスト4 リスニング第1部 (Chicago) 8",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
     "passage": "",
-    "audioText": "A: Did you enjoy the historical monuments in Toronto, Eve?\nB: Yes, but it was a bit crowded. Over 366 people were there.\nA: I see. Would you go there again?",
+    "audioText": "A: Did you like the historical monuments in Chicago, Rachel?\nB: Yes, but it was pretty packed.\nA: I see. Would you consider returning?",
     "choices": [
       "It was crowded.",
       "No, I didn't.",
@@ -121,115 +121,115 @@
   },
   {
     "section": "listening1",
-    "title": "1級 模擬テスト4 リスニング第1部 9",
-    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 4-9]",
+    "title": "1級 模擬テスト4 リスニング第1部 (Sydney) 9",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
     "passage": "",
-    "audioText": "A: Did you enjoy the wildlife conservation in Chicago, Rachel?\nB: Yes, but it was a bit crowded. Over 373 people were there.\nA: I see. Would you go there again?",
+    "audioText": "A: What did you think of the wildlife conservation in Sydney, Ken?\nB: Yes, although it was overcrowded.\nA: I see. Would you go there again?",
     "choices": [
-      "No, I didn't.",
       "I went there.",
       "It was crowded.",
-      "Probably yes."
+      "Probably yes.",
+      "No, I didn't."
     ],
     "answer": 3,
     "explanation": "grade1-04-listening1-09: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening1",
-    "title": "1級 模擬テスト4 リスニング第1部 10",
-    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 4-10]",
+    "title": "1級 模擬テスト4 リスニング第1部 (Berlin) 10",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
     "passage": "",
-    "audioText": "A: Did you enjoy the smartphone apps in Sydney, Ken?\nB: Yes, but it was a bit crowded. Over 380 people were there.\nA: I see. Would you go there again?",
+    "audioText": "A: Did you enjoy the smartphone apps in Berlin, Oliver?\nB: Yes, but it was a bit crowded.\nA: I see. Would you visit again?",
     "choices": [
-      "I went there.",
-      "It was crowded.",
       "No, I didn't.",
-      "Probably yes."
+      "Probably yes.",
+      "I went there.",
+      "It was crowded."
     ],
     "answer": 3,
     "explanation": "grade1-04-listening1-10: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening2",
-    "title": "1級 模擬テスト4 リスニング第2部 1",
-    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-1]",
+    "title": "1級 模擬テスト4 リスニング第2部 (Osaka) 1",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
     "passage": "",
-    "audioText": "A: I'm thinking of joining the part-time jobs, Rachel.\nB: That's a good idea! It starts next Monday in London.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "audioText": "A: I'm thinking of joining the part-time jobs, Rachel.\nB: That's a good idea! It starts next Monday in Osaka.\nA: Oh, Laura? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
+      "Sign up for the activity.",
       "Ask the woman.",
       "Go to the activity.",
-      "Wait until Monday.",
-      "Sign up for the activity."
+      "Wait until Monday."
     ],
     "answer": 3,
     "explanation": "grade1-04-listening2-01: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening2",
-    "title": "1級 模擬テスト4 リスニング第2部 2",
-    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-2]",
+    "title": "1級 模擬テスト4 リスニング第2部 (Beijing) 2",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
     "passage": "",
-    "audioText": "A: I'm thinking of joining the science museums, Oliver.\nB: That's a good idea! It starts next Monday in Kyoto.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "audioText": "A: I'm thinking of joining the science museums, Oliver.\nB: That's a good idea! It starts next Monday in Beijing.\nA: Oh, John? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "Wait until Monday.",
-      "Go to the activity.",
-      "Ask the woman.",
-      "Sign up for the activity."
+      "Wait until then.",
+      "Attend the activity.",
+      "Ask her.",
+      "Register for it."
     ],
     "answer": 3,
     "explanation": "grade1-04-listening2-02: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening2",
-    "title": "1級 模擬テスト4 リスニング第2部 3",
-    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-3]",
+    "title": "1級 模擬テスト4 リスニング第2部 (Bangkok) 3",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
     "passage": "",
-    "audioText": "A: I'm thinking of joining the travel planning, Lisa.\nB: That's a good idea! It starts next Monday in New York.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "audioText": "A: I'm thinking of joining the travel planning, Lisa.\nB: That's a good idea! It starts next Monday in Bangkok York.\nA: Oh, Anna? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "Go to the activity.",
-      "Sign up for the activity.",
-      "Wait until Monday.",
-      "Ask the woman."
+      "Enroll in the activity.",
+      "Hold off until Monday.",
+      "Question the woman.",
+      "Go to the event."
     ],
     "answer": 1,
     "explanation": "grade1-04-listening2-03: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening2",
-    "title": "1級 模擬テスト4 リスニング第2部 4",
-    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-4]",
+    "title": "1級 模擬テスト4 リスニング第2部 (Barcelona) 4",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
     "passage": "",
-    "audioText": "A: I'm thinking of joining the healthy meals, Ivan.\nB: That's a good idea! It starts next Monday in Seoul.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "audioText": "A: I'm thinking of joining the healthy meals, Ivan.\nB: That's a good idea! It starts next Monday in Barcelona.\nA: Oh, David? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "Go to the activity.",
-      "Ask the woman.",
-      "Wait until Monday.",
-      "Sign up for the activity."
+      "Wait until next Monday.",
+      "Sign up today.",
+      "Head to the activity.",
+      "Ask the person."
     ],
     "answer": 3,
     "explanation": "grade1-04-listening2-04: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening2",
-    "title": "1級 模擬テスト4 リスニング第2部 5",
-    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-5]",
+    "title": "1級 模擬テスト4 リスニング第2部 (Delhi) 5",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
     "passage": "",
-    "audioText": "A: I'm thinking of joining the new technology, Frank.\nB: That's a good idea! It starts next Monday in Tokyo.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "audioText": "A: I'm thinking of joining the new technology, Frank.\nB: That's a good idea! It starts next Monday in Delhi.\nA: Oh, Emily? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
+      "Ask the woman.",
       "Go to the activity.",
       "Wait until Monday.",
-      "Sign up for the activity.",
-      "Ask the woman."
+      "Sign up for the activity."
     ],
     "answer": 2,
     "explanation": "grade1-04-listening2-05: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening2",
-    "title": "1級 模擬テスト4 リスニング第2部 6",
-    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-6]",
+    "title": "1級 模擬テスト4 リスニング第2部 (Istanbul) 6",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
     "passage": "",
-    "audioText": "A: I'm thinking of joining the public transportation, Charlie.\nB: That's a good idea! It starts next Monday in Rome.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "audioText": "A: I'm thinking of joining the public transportation, Charlie.\nB: That's a good idea! It starts next Monday in Istanbul.\nA: Oh, Robert? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
       "Ask the woman.",
       "Wait until Monday.",
@@ -241,55 +241,55 @@
   },
   {
     "section": "listening2",
-    "title": "1級 模擬テスト4 リスニング第2部 7",
-    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-7]",
+    "title": "1級 模擬テスト4 リスニング第2部 (Moscow) 7",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
     "passage": "",
-    "audioText": "A: I'm thinking of joining the space exploration, Tom.\nB: That's a good idea! It starts next Monday in Miami.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "audioText": "A: I'm thinking of joining the space exploration, Tom.\nB: That's a good idea! It starts next Monday in Moscow.\nA: Oh, Sophia? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "Ask the woman.",
       "Wait until Monday.",
       "Go to the activity.",
-      "Sign up for the activity."
+      "Sign up for the activity.",
+      "Ask the woman."
     ],
     "answer": 3,
     "explanation": "grade1-04-listening2-07: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening2",
-    "title": "1級 模擬テスト4 リスニング第2部 8",
-    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-8]",
+    "title": "1級 模擬テスト4 リスニング第2部 (Dubai) 8",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
     "passage": "",
-    "audioText": "A: I'm thinking of joining the historical monuments, Quincy.\nB: That's a good idea! It starts next Monday in Toronto.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "audioText": "A: I'm thinking of joining the historical monuments, Quincy.\nB: That's a good idea! It starts next Monday in Dubai.\nA: Oh, Chris? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "Go to the activity.",
-      "Ask the woman.",
       "Wait until Monday.",
-      "Sign up for the activity."
+      "Sign up for the activity.",
+      "Go to the activity.",
+      "Ask the woman."
     ],
     "answer": 3,
     "explanation": "grade1-04-listening2-08: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening2",
-    "title": "1級 模擬テスト4 リスニング第2部 9",
-    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-9]",
+    "title": "1級 模擬テスト4 リスニング第2部 (Madrid) 9",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
     "passage": "",
-    "audioText": "A: I'm thinking of joining the wildlife conservation, Nancy.\nB: That's a good idea! It starts next Monday in Chicago.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "audioText": "A: I'm thinking of joining the wildlife conservation, Nancy.\nB: That's a good idea! It starts next Monday in Madrid.\nA: Oh, Mia? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
+      "Sign up for the activity.",
       "Ask the woman.",
       "Wait until Monday.",
-      "Go to the activity.",
-      "Sign up for the activity."
+      "Go to the activity."
     ],
     "answer": 3,
     "explanation": "grade1-04-listening2-09: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening2",
-    "title": "1級 模擬テスト4 リスニング第2部 10",
-    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-10]",
+    "title": "1級 模擬テスト4 リスニング第2部 (London) 10",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
     "passage": "",
-    "audioText": "A: I'm thinking of joining the smartphone apps, Ken.\nB: That's a good idea! It starts next Monday in Sydney.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "audioText": "A: I'm thinking of joining the smartphone apps, Ken.\nB: That's a good idea! It starts next Monday in London.\nA: Oh, Nancy? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
       "Wait until Monday.",
       "Go to the activity.",
@@ -301,55 +301,55 @@
   },
   {
     "section": "listening3",
-    "title": "1級 模擬テスト4 リスニング第3部 1",
-    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-1]",
+    "title": "1級 模擬テスト4 リスニング第3部 (Kyoto) 1",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
     "passage": "",
-    "audioText": "Welcome to the part-time jobs in London. We are very happy to see 317 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "audioText": "Welcome to the part-time jobs in Kyoto. We are very happy to see 317 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "At 10 AM.",
       "At 9 AM.",
       "In the afternoon.",
-      "At 11 AM."
+      "At 11 AM.",
+      "At 10 AM."
     ],
     "answer": 0,
     "explanation": "grade1-04-listening3-01: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening3",
-    "title": "1級 模擬テスト4 リスニング第3部 2",
-    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-2]",
+    "title": "1級 模擬テスト4 リスニング第3部 (New York) 2",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
     "passage": "",
-    "audioText": "Welcome to the science museums in Kyoto. We are very happy to see 324 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "audioText": "Welcome to the science museums in New York. We are very happy to see 324 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "At 11 AM.",
-      "In the afternoon.",
       "At 9 AM.",
-      "At 10 AM."
+      "At 10 AM.",
+      "At 11 AM.",
+      "In the afternoon."
     ],
     "answer": 3,
     "explanation": "grade1-04-listening3-02: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening3",
-    "title": "1級 模擬テスト4 リスニング第3部 3",
-    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-3]",
+    "title": "1級 模擬テスト4 リスニング第3部 (Seoul) 3",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
     "passage": "",
-    "audioText": "Welcome to the travel planning in New York. We are very happy to see 331 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "audioText": "Welcome to the travel planning in Seoul York. We are very happy to see 331 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
+      "At 9 AM.",
       "In the afternoon.",
       "At 11 AM.",
-      "At 10 AM.",
-      "At 9 AM."
+      "At 10 AM."
     ],
     "answer": 2,
     "explanation": "grade1-04-listening3-03: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening3",
-    "title": "1級 模擬テスト4 リスニング第3部 4",
-    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-4]",
+    "title": "1級 模擬テスト4 リスニング第3部 (Tokyo) 4",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
     "passage": "",
-    "audioText": "Welcome to the healthy meals in Seoul. We are very happy to see 338 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "audioText": "Welcome to the healthy meals in Tokyo. We are very happy to see 338 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
       "At 10 AM.",
       "At 11 AM.",
@@ -361,45 +361,45 @@
   },
   {
     "section": "listening3",
-    "title": "1級 模擬テスト4 リスニング第3部 5",
-    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-5]",
+    "title": "1級 模擬テスト4 リスニング第3部 (Rome) 5",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
     "passage": "",
-    "audioText": "Welcome to the new technology in Tokyo. We are very happy to see 345 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "audioText": "Welcome to the new technology in Rome. We are very happy to see 345 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "In the afternoon.",
       "At 10 AM.",
       "At 9 AM.",
-      "At 11 AM."
+      "At 11 AM.",
+      "In the afternoon."
     ],
     "answer": 1,
     "explanation": "grade1-04-listening3-05: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening4",
-    "title": "1級 模擬テスト4 リスニング第4部 1",
-    "prompt": "インタビューを聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-1]",
+    "title": "1級 模擬テスト4 リスニング第4部 (Miami) 1",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
     "passage": "",
-    "audioText": "Interviewer: Why did you start the part-time jobs project in 2016?\nNancy: Well, I wanted to help the community in London.\nInterviewer: That's wonderful.\n\nQuestion: Why did Nancy start the project?",
+    "audioText": "Interviewer: Why did you start the part-time jobs project in 2016?\nNancy: Well, I wanted to help the community in Miami.\nInterviewer: That's wonderful.\n\nQuestion: Why did Nancy start the project?",
     "choices": [
-      "To become famous.",
-      "To make money.",
       "To meet new people.",
-      "To help the community."
+      "To help the community.",
+      "To become famous.",
+      "To make money."
     ],
     "answer": 3,
     "explanation": "grade1-04-listening4-01: リスニング第4部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
     "section": "listening4",
-    "title": "1級 模擬テスト4 リスニング第4部 2",
-    "prompt": "インタビューを聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 4-2]",
+    "title": "1級 模擬テスト4 リスニング第4部 (Toronto) 2",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
     "passage": "",
-    "audioText": "Interviewer: Why did you start the science museums project in 2017?\nGrace: Well, I wanted to help the community in Kyoto.\nInterviewer: That's wonderful.\n\nQuestion: Why did Grace start the project?",
+    "audioText": "Interviewer: Why did you start the science museums project in 2017?\nGrace: Well, I wanted to help the community in Toronto.\nInterviewer: That's wonderful.\n\nQuestion: Why did Grace start the project?",
     "choices": [
+      "To help the community.",
       "To make money.",
       "To become famous.",
-      "To meet new people.",
-      "To help the community."
+      "To meet new people."
     ],
     "answer": 3,
     "explanation": "grade1-04-listening4-02: リスニング第4部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -407,7 +407,7 @@
   {
     "section": "reading",
     "title": "1級 模擬テスト4 読解 1",
-    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: When do residents in London gather to enjoy the part-time jobs?\n[Mock 4-1]",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
     "passage": "Recently, part-time jobs has become very popular in London. Since 2016, many residents gather on weekends. Nancy, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 317 more events related to part-time jobs.",
     "audioText": "",
     "choices": [
@@ -422,14 +422,14 @@
   {
     "section": "reading",
     "title": "1級 模擬テスト4 読解 2",
-    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: When do residents in Kyoto gather to enjoy the science museums?\n[Mock 4-2]",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
     "passage": "Recently, science museums has become very popular in Kyoto. Since 2017, many residents gather on weekends. Grace, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 324 more events related to science museums.",
     "audioText": "",
     "choices": [
-      "On weekdays.",
       "Only in summer.",
       "On weekends.",
-      "Every day."
+      "Every day.",
+      "On weekdays."
     ],
     "answer": 2,
     "explanation": "grade1-04-reading-02: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -437,14 +437,14 @@
   {
     "section": "reading",
     "title": "1級 模擬テスト4 読解 3",
-    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: Why is New York planning to organize more events?\n[Mock 4-3]",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
     "passage": "Recently, travel planning has become very popular in New York. Since 2018, many residents gather on weekends. Tom, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 331 more events related to travel planning.",
     "audioText": "",
     "choices": [
-      "Because it helps build a strong community.",
-      "Because no one joined the events.",
       "Because the mayor hates it.",
-      "Because they want to make money."
+      "Because they want to make money.",
+      "Because it helps build a strong community.",
+      "Because no one joined the events."
     ],
     "answer": 0,
     "explanation": "grade1-04-reading-03: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -452,14 +452,14 @@
   {
     "section": "reading",
     "title": "1級 模擬テスト4 読解 4",
-    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: When do residents in Seoul gather to enjoy the healthy meals?\n[Mock 4-4]",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
     "passage": "Recently, healthy meals has become very popular in Seoul. Since 2019, many residents gather on weekends. Mike, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 338 more events related to healthy meals.",
     "audioText": "",
     "choices": [
+      "Every day.",
       "On weekdays.",
       "On weekends.",
-      "Only in summer.",
-      "Every day."
+      "Only in summer."
     ],
     "answer": 1,
     "explanation": "grade1-04-reading-04: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -467,7 +467,7 @@
   {
     "section": "reading",
     "title": "1級 模擬テスト4 読解 5",
-    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: When do residents in Tokyo gather to enjoy the new technology?\n[Mock 4-5]",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
     "passage": "Recently, new technology has become very popular in Tokyo. Since 2020, many residents gather on weekends. Frank, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 345 more events related to new technology.",
     "audioText": "",
     "choices": [
@@ -482,14 +482,14 @@
   {
     "section": "reading",
     "title": "1級 模擬テスト4 読解 6",
-    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: When do residents in Rome gather to enjoy the public transportation?\n[Mock 4-6]",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
     "passage": "Recently, public transportation has become very popular in Rome. Since 2021, many residents gather on weekends. Sam, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 352 more events related to public transportation.",
     "audioText": "",
     "choices": [
-      "Only in summer.",
       "Every day.",
       "On weekdays.",
-      "On weekends."
+      "On weekends.",
+      "Only in summer."
     ],
     "answer": 3,
     "explanation": "grade1-04-reading-06: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -497,14 +497,14 @@
   {
     "section": "reading",
     "title": "1級 模擬テスト4 読解 7",
-    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: When do residents in Miami gather to enjoy the space exploration?\n[Mock 4-7]",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
     "passage": "Recently, space exploration has become very popular in Miami. Since 2022, many residents gather on weekends. Lisa, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 359 more events related to space exploration.",
     "audioText": "",
     "choices": [
-      "On weekends.",
-      "On weekdays.",
       "Only in summer.",
-      "Every day."
+      "Every day.",
+      "On weekends.",
+      "On weekdays."
     ],
     "answer": 0,
     "explanation": "grade1-04-reading-07: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -516,10 +516,10 @@
     "passage": "In 2016, I participated in a part-time jobs in London. It was a great experience. I met about 317 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
+      "idea.",
       "problem",
       "success",
-      "story",
-      "idea"
+      "story"
     ],
     "answer": 0,
     "explanation": "grade1-04-reading_cloze-01: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -531,7 +531,7 @@
     "passage": "In 2017, I participated in a science museums in Kyoto. It was a great experience. I met about 324 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
-      "problem",
+      "problem.",
       "idea",
       "success",
       "story"
@@ -546,10 +546,10 @@
     "passage": "In 2018, I participated in a travel planning in New York. It was a great experience. I met about 331 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
-      "story",
-      "idea",
+      "idea.",
       "success",
-      "problem"
+      "problem",
+      "story"
     ],
     "answer": 3,
     "explanation": "grade1-04-reading_cloze-03: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -561,10 +561,10 @@
     "passage": "In 2019, I participated in a healthy meals in Seoul. It was a great experience. I met about 338 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
+      "problem.",
+      "story",
       "idea",
-      "success",
-      "problem",
-      "story"
+      "success"
     ],
     "answer": 2,
     "explanation": "grade1-04-reading_cloze-04: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -576,10 +576,10 @@
     "passage": "In 2020, I participated in a new technology in Tokyo. It was a great experience. I met about 345 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
+      "idea.",
       "success",
       "problem",
-      "story",
-      "idea"
+      "story"
     ],
     "answer": 1,
     "explanation": "grade1-04-reading_cloze-05: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -591,7 +591,7 @@
     "passage": "In 2021, I participated in a public transportation in Rome. It was a great experience. I met about 352 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
-      "success",
+      "success.",
       "problem",
       "idea",
       "story"
@@ -606,10 +606,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "excite",
-      "excitement",
+      "excitement.",
       "exciting",
-      "excited"
+      "excited",
+      "excite"
     ],
     "answer": 3,
     "explanation": "grade1-04-vocabulary-01: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -621,10 +621,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "joined.",
+      "join",
       "joining",
-      "joins",
-      "joined",
-      "join"
+      "joins"
     ],
     "answer": 0,
     "explanation": "grade1-04-vocabulary-02: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -636,10 +636,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "tell.",
       "talk",
       "say",
-      "speak",
-      "tell"
+      "speak"
     ],
     "answer": 3,
     "explanation": "grade1-04-vocabulary-03: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -651,7 +651,7 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "started",
+      "started.",
       "starting",
       "start",
       "starts"
@@ -666,10 +666,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "join",
-      "joined",
+      "joined.",
       "joins",
-      "joining"
+      "joining",
+      "join"
     ],
     "answer": 3,
     "explanation": "grade1-04-vocabulary-05: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -681,10 +681,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "excite.",
+      "excitement",
       "exciting",
-      "excited",
-      "excite",
-      "excitement"
+      "excited"
     ],
     "answer": 1,
     "explanation": "grade1-04-vocabulary-06: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -696,10 +696,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "exciting.",
       "excited",
       "excite",
-      "excitement",
-      "exciting"
+      "excitement"
     ],
     "answer": 0,
     "explanation": "grade1-04-vocabulary-07: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -711,7 +711,7 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "seen",
+      "seen.",
       "see",
       "saw",
       "seeing"
@@ -726,10 +726,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "started",
-      "starts",
+      "starts.",
       "starting",
-      "start"
+      "start",
+      "started"
     ],
     "answer": 3,
     "explanation": "grade1-04-vocabulary-09: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -741,10 +741,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "started.",
+      "starts",
       "start",
-      "starting",
-      "started",
-      "starts"
+      "starting"
     ],
     "answer": 0,
     "explanation": "grade1-04-vocabulary-10: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -756,10 +756,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "start.",
       "starting",
       "started",
-      "starts",
-      "start"
+      "starts"
     ],
     "answer": 3,
     "explanation": "grade1-04-vocabulary-11: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -771,7 +771,7 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "join",
+      "join.",
       "joins",
       "joining",
       "joined"
@@ -786,10 +786,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "exciting",
-      "excite",
+      "excite.",
       "excited",
-      "excitement"
+      "excitement",
+      "exciting"
     ],
     "answer": 2,
     "explanation": "grade1-04-vocabulary-13: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -801,10 +801,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "exciting.",
+      "excitement",
       "excited",
-      "excite",
-      "exciting",
-      "excitement"
+      "excite"
     ],
     "answer": 0,
     "explanation": "grade1-04-vocabulary-14: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -816,10 +816,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "talk.",
       "tell",
       "say",
-      "speak",
-      "talk"
+      "speak"
     ],
     "answer": 0,
     "explanation": "grade1-04-vocabulary-15: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -831,7 +831,7 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "excite",
+      "excite.",
       "excitement",
       "exciting",
       "excited"
@@ -846,10 +846,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "joined",
-      "joining",
+      "joining.",
       "join",
-      "joins"
+      "joins",
+      "joined"
     ],
     "answer": 1,
     "explanation": "grade1-04-vocabulary-17: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -861,10 +861,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "joining.",
+      "joins",
       "join",
-      "joined",
-      "joining",
-      "joins"
+      "joined"
     ],
     "answer": 2,
     "explanation": "grade1-04-vocabulary-18: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -876,10 +876,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "excitement.",
       "exciting",
       "excite",
-      "excited",
-      "excitement"
+      "excited"
     ],
     "answer": 2,
     "explanation": "grade1-04-vocabulary-19: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -891,7 +891,7 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "started",
+      "started.",
       "start",
       "starts",
       "starting"
@@ -906,10 +906,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "starting",
-      "start",
+      "start.",
       "starts",
-      "started"
+      "started",
+      "starting"
     ],
     "answer": 1,
     "explanation": "grade1-04-vocabulary-21: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -921,10 +921,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "seeing.",
+      "saw",
       "see",
-      "seen",
-      "seeing",
-      "saw"
+      "seen"
     ],
     "answer": 1,
     "explanation": "grade1-04-vocabulary-22: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -936,10 +936,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "単語数が不足している不十分な解答.",
       "与えられたテーマに沿った、適切な構成と内容の解答",
       "文法やスペルミスが多数ある解答",
-      "テーマから外れた無関係な解答",
-      "単語数が不足している不十分な解答"
+      "テーマから外れた無関係な解答"
     ],
     "answer": 0,
     "explanation": "grade1-04-writing_essay-01: 英作文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -951,7 +951,7 @@
     "passage": "Some people in London believe that part-time jobs should be a priority. They argue that it provides long-term benefits for 317 residents. On the other hand, Rachel thinks that it costs too much money. Ultimately, finding a balance is crucial.",
     "audioText": "",
     "choices": [
-      "テーマから外れた無関係な解答",
+      "テーマから外れた無関係な解答.",
       "文法やスペルミスが多数ある解答",
       "与えられたテーマに沿った、適切な構成と内容の解答",
       "単語数が不足している不十分な解答"
