@@ -16,6 +16,3 @@ $RECYCLE.BIN/
 # Local runtime files
 server.log
 server.pid
-
-# SQLite databases
-*.sqlite
