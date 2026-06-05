@@ -1,0 +1,917 @@
+[
+  {
+    "section": "conversation",
+    "title": "準2級 模擬テスト6 会話文 1",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "It's mine.",
+      "I think it's great",
+      "Yes, I do",
+      "I went there."
+    ],
+    "answer": 2,
+    "explanation": "pre2-06-conversation-01: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "conversation",
+    "title": "準2級 模擬テスト6 会話文 2",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "I am a student.",
+      "You're welcome",
+      "No, thanks",
+      "That sounds fun"
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-conversation-02: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "conversation",
+    "title": "準2級 模擬テスト6 会話文 3",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "Yes, I do.",
+      "I think it's great",
+      "I have been there.",
+      "It's mine"
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-conversation-03: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "conversation",
+    "title": "準2級 模擬テスト6 会話文 4",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "Yes, I went.",
+      "Yes, I do",
+      "It's mine",
+      "I think it's great"
+    ],
+    "answer": 3,
+    "explanation": "pre2-06-conversation-04: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "conversation",
+    "title": "準2級 模擬テスト6 会話文 5",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "No, thanks.",
+      "That sounds fun",
+      "I am a student",
+      "You're welcome"
+    ],
+    "answer": 2,
+    "explanation": "pre2-06-conversation-05: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "準2級 模擬テスト6 リスニング第1部 (Miami) 1",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "",
+    "audioText": "A: Have you had the chance to visit the travel planning in Miami, Lisa?\nB: Yes, although there were numerous people there.\nA: I see. Would you recommend it to others?",
+    "choices": [
+      "I visited.",
+      "Probably yes.",
+      "No, I didn't.",
+      "It was crowded."
+    ],
+    "answer": 3,
+    "explanation": "pre2-06-listening1-01: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "準2級 模擬テスト6 リスニング第1部 (Toronto) 2",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "",
+    "audioText": "A: How did you like the healthy meals in Toronto, Eve?\nB: Yes, but it felt quite crowded.\nA: I see. Would you go back?",
+    "choices": [
+      "No, I didn't.",
+      "I think so.",
+      "I did go there.",
+      "There were numerous people."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening1-02: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "準2級 模擬テスト6 リスニング第1部 (Chicago) 3",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "",
+    "audioText": "A: Did you like the new technology in Chicago, Rachel?\nB: Yes, but it was pretty packed.\nA: I see. Would you consider returning?",
+    "choices": [
+      "Yes, probably.",
+      "No, I didn't.",
+      "It felt crowded.",
+      "I went there."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening1-03: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "準2級 模擬テスト6 リスニング第1部 (Sydney) 4",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "",
+    "audioText": "A: What did you think of the public transportation in Sydney, Ken?\nB: Yes, although it was overcrowded.\nA: I see. Would you go there again?",
+    "choices": [
+      "That seems likely.",
+      "It was packed.",
+      "I went there.",
+      "No, I didn't."
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-listening1-04: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "準2級 模擬テスト6 リスニング第1部 (Berlin) 5",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "",
+    "audioText": "A: Did you enjoy the space exploration in Berlin, Oliver?\nB: Yes, but it was a bit crowded.\nA: I see. Would you visit again?",
+    "choices": [
+      "I went there.",
+      "No, I didn't.",
+      "I suppose so.",
+      "It was pretty crowded."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening1-05: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "準2級 模擬テスト6 リスニング第1部 (Osaka) 6",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "",
+    "audioText": "A: Have you had the chance to visit the historical monuments in Osaka, Laura?\nB: Yes, although there were numerous people there.\nA: I see. Would you recommend it to others?\nNote: (variant 10)",
+    "choices": [
+      "It was crowded.",
+      "I went there.",
+      "No, I didn't.",
+      "Probably yes."
+    ],
+    "answer": 2,
+    "explanation": "pre2-06-listening1-06: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "準2級 模擬テスト6 リスニング第1部 (Beijing) 7",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "",
+    "audioText": "A: How did you like the wildlife conservation in Beijing, John?\nB: Yes, but it felt quite crowded.\nA: I see. Would you go back?\nNote: (variant 11)",
+    "choices": [
+      "Probably yes.",
+      "It was crowded.",
+      "No, I didn't.",
+      "I went there."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening1-07: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "準2級 模擬テスト6 リスニング第1部 (Bangkok) 8",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "",
+    "audioText": "A: Did you like the smartphone apps in Bangkok, Anna?\nB: Yes, but it was pretty packed.\nA: I see. Would you consider returning?\nNote: (variant 12)",
+    "choices": [
+      "Probably yes.",
+      "It was crowded.",
+      "No, I didn't.",
+      "I went there."
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-listening1-08: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "準2級 模擬テスト6 リスニング第1部 (Barcelona) 9",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "",
+    "audioText": "A: What did you think of the volunteer work in Barcelona, David?\nB: Yes, although it was overcrowded.\nA: I see. Would you go there again?\nNote: (variant 13)",
+    "choices": [
+      "No, I didn't.",
+      "It was crowded.",
+      "Probably yes.",
+      "I went there."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening1-09: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "準2級 模擬テスト6 リスニング第1部 (Delhi) 10",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "",
+    "audioText": "A: Did you enjoy the school club activities in Delhi, Emily?\nB: Yes, but it was a bit crowded.\nA: I see. Would you visit again?\nNote: (variant 14)",
+    "choices": [
+      "No, I didn't.",
+      "It was crowded.",
+      "I went there.",
+      "Probably yes."
+    ],
+    "answer": 2,
+    "explanation": "pre2-06-listening1-10: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "準2級 模擬テスト6 リスニング第2部 (Istanbul) 1",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the travel planning, Rachel.\nB: That's a good idea! It starts next Monday in Istanbul.\nA: Oh, Robert? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "choices": [
+      "Sign up for the activity.",
+      "Wait until Monday.",
+      "Ask the woman.",
+      "Go to the activity."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening2-01: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "準2級 模擬テスト6 リスニング第2部 (Moscow) 2",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the healthy meals, Oliver.\nB: That's a good idea! It starts next Monday in Moscow.\nA: Oh, Sophia? I should sign up today.\n\nQuestion: What will the man probably do today?\nNote: (variant 16)",
+    "choices": [
+      "Ask her.",
+      "Wait until then.",
+      "Attend the activity.",
+      "Register for it."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening2-02: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "準2級 模擬テスト6 リスニング第2部 (Dubai) 3",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the new technology, Lisa.\nB: That's a good idea! It starts next Monday in Dubai.\nA: Oh, Chris? I should sign up today.\n\nQuestion: What will the man probably do today?\nNote: (variant 17)\nNote: (variant 17)",
+    "choices": [
+      "Go to the event.",
+      "Enroll in the activity.",
+      "Question the woman.",
+      "Hold off until Monday."
+    ],
+    "answer": 3,
+    "explanation": "pre2-06-listening2-03: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "準2級 模擬テスト6 リスニング第2部 (Madrid) 4",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the public transportation, Ivan.\nB: That's a good idea! It starts next Monday in Madrid.\nA: Oh, Mia? I should sign up today.\n\nQuestion: What will the man probably do today?\nNote: (variant 18)\nNote: (variant 18)\nNote: (variant 18)",
+    "choices": [
+      "Sign up today.",
+      "Ask the person.",
+      "Wait until next Monday.",
+      "Head to the activity."
+    ],
+    "answer": 3,
+    "explanation": "pre2-06-listening2-04: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "準2級 模擬テスト6 リスニング第2部 (London) 5",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the space exploration, Frank.\nB: That's a good idea! It starts next Monday in London.\nA: Oh, Nancy? I should sign up today.\n\nQuestion: What will the man probably do today?\nNote: (variant 19)\nNote: (variant 19)\nNote: (variant 19)\nNote: (variant 19)",
+    "choices": [
+      "Wait until Monday.",
+      "Ask the woman.",
+      "Go to the activity.",
+      "Sign up for the activity."
+    ],
+    "answer": 3,
+    "explanation": "pre2-06-listening2-05: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "準2級 模擬テスト6 リスニング第2部 (Kyoto) 6",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the historical monuments, Charlie.\nB: That's a good idea! It starts next Monday in Kyoto.\nA: Oh, Grace? I should sign up today.\n\nQuestion: What will the man probably do today?\nNote: (variant 20)\nNote: (variant 20)\nNote: (variant 20)\nNote: (variant 20)\nNote: (variant 20)",
+    "choices": [
+      "Ask the woman.",
+      "Wait until Monday.",
+      "Go to the activity.",
+      "Sign up for the activity."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening2-06: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "準2級 模擬テスト6 リスニング第2部 (New York) 7",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the wildlife conservation, Tom.\nB: That's a good idea! It starts next Monday in New York.\nA: Oh, Tom? I should sign up today.\n\nQuestion: What will the man probably do today?\nNote: (variant 21)\nNote: (variant 21)\nNote: (variant 21)\nNote: (variant 21)\nNote: (variant 21)\nNote: (variant 21)",
+    "choices": [
+      "Wait until Monday.",
+      "Go to the activity.",
+      "Sign up for the activity.",
+      "Ask the woman."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening2-07: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "準2級 模擬テスト6 リスニング第2部 (Seoul) 8",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the smartphone apps, Quincy.\nB: That's a good idea! It starts next Monday in Seoul York.\nA: Oh, Mike? I should sign up today.\n\nQuestion: What will the man probably do today?\nNote: (variant 22)\nNote: (variant 22)\nNote: (variant 22)\nNote: (variant 22)\nNote: (variant 22)\nNote: (variant 22)\nNote: (variant 22)",
+    "choices": [
+      "Go to the activity.",
+      "Sign up for the activity.",
+      "Ask the woman.",
+      "Wait until Monday."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening2-08: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "準2級 模擬テスト6 リスニング第2部 (Tokyo) 9",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the volunteer work, Nancy.\nB: That's a good idea! It starts next Monday in Tokyo.\nA: Oh, Frank? I should sign up today.\n\nQuestion: What will the man probably do today?\nNote: (variant 23)\nNote: (variant 23)\nNote: (variant 23)\nNote: (variant 23)\nNote: (variant 23)\nNote: (variant 23)\nNote: (variant 23)\nNote: (variant 23)",
+    "choices": [
+      "Sign up for the activity.",
+      "Go to the activity.",
+      "Ask the woman.",
+      "Wait until Monday."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening2-09: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "準2級 模擬テスト6 リスニング第2部 (Rome) 10",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the school club activities, Ken.\nB: That's a good idea! It starts next Monday in Rome.\nA: Oh, Sam? I should sign up today.\n\nQuestion: What will the man probably do today?\nNote: (variant 24)\nNote: (variant 24)\nNote: (variant 24)\nNote: (variant 24)\nNote: (variant 24)\nNote: (variant 24)\nNote: (variant 24)\nNote: (variant 24)\nNote: (variant 24)",
+    "choices": [
+      "Sign up for the activity.",
+      "Go to the activity.",
+      "Ask the woman.",
+      "Wait until Monday."
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-listening2-10: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "準2級 模擬テスト6 リスニング第3部 (Miami) 1",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "",
+    "audioText": "Welcome to the travel planning in Miami. We are very happy to see 217 people here today. The main event will commence at 10 AM. Please make sure to obtain your tickets before then.\n\nQuestion: When will the main event commence?",
+    "choices": [
+      "At 9 AM.",
+      "In the afternoon.",
+      "At 10 AM.",
+      "At 11 AM."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening3-01: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "準2級 模擬テスト6 リスニング第3部 (Toronto) 2",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "",
+    "audioText": "Welcome to the healthy meals in Toronto. We are very happy to see 224 people here today. The main event will commence at 10 AM. Please make sure to obtain your tickets before then.\n\nQuestion: When will the main event commence?\nNote: (variant 26)",
+    "choices": [
+      "At 11 AM.",
+      "At 9 AM.",
+      "At 10 AM.",
+      "In the afternoon."
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-listening3-02: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "準2級 模擬テスト6 リスニング第3部 (Chicago) 3",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "",
+    "audioText": "Welcome to the new technology in Chicago. We are very happy to see 231 people here today. The main event will commence at 10 AM. Please make sure to obtain your tickets before then.\n\nQuestion: When will the main event commence?\nNote: (variant 27)\nNote: (variant 27)",
+    "choices": [
+      "In the afternoon.",
+      "At 9 AM.",
+      "At 11 AM.",
+      "At 10 AM."
+    ],
+    "answer": 3,
+    "explanation": "pre2-06-listening3-03: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "準2級 模擬テスト6 リスニング第3部 (Sydney) 4",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "",
+    "audioText": "Welcome to the public transportation in Sydney. We are very happy to see 238 people here today. The main event will commence at 10 AM. Please make sure to obtain your tickets before then.\n\nQuestion: When will the main event commence?\nNote: (variant 28)\nNote: (variant 28)\nNote: (variant 28)",
+    "choices": [
+      "In the afternoon.",
+      "At 10 AM.",
+      "At 11 AM.",
+      "At 9 AM."
+    ],
+    "answer": 2,
+    "explanation": "pre2-06-listening3-04: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "準2級 模擬テスト6 リスニング第3部 (Berlin) 5",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "",
+    "audioText": "Welcome to the space exploration in Berlin. We are very happy to see 245 people here today. The main event will commence at 10 AM. Please make sure to obtain your tickets before then.\n\nQuestion: When will the main event commence?\nNote: (variant 29)\nNote: (variant 29)\nNote: (variant 29)\nNote: (variant 29)",
+    "choices": [
+      "In the afternoon.",
+      "At 9 AM.",
+      "At 11 AM.",
+      "At 10 AM."
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-listening3-05: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "準2級 模擬テスト6 リスニング第3部 (Osaka) 6",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "",
+    "audioText": "Welcome to the historical monuments in Osaka. We are very happy to see 252 people here today. The main event will commence at 10 AM. Please make sure to obtain your tickets before then.\n\nQuestion: When will the main event commence?\nNote: (variant 30)\nNote: (variant 30)\nNote: (variant 30)\nNote: (variant 30)\nNote: (variant 30)",
+    "choices": [
+      "At 10 AM.",
+      "At 9 AM.",
+      "At 11 AM.",
+      "In the afternoon."
+    ],
+    "answer": 3,
+    "explanation": "pre2-06-listening3-06: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "準2級 模擬テスト6 リスニング第3部 (Beijing) 7",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "",
+    "audioText": "Welcome to the wildlife conservation in Beijing. We are very happy to see 259 people here today. The main event will commence at 10 AM. Please make sure to obtain your tickets before then.\n\nQuestion: When will the main event commence?\nNote: (variant 31)\nNote: (variant 31)\nNote: (variant 31)\nNote: (variant 31)\nNote: (variant 31)\nNote: (variant 31)",
+    "choices": [
+      "At 10 AM.",
+      "At 11 AM.",
+      "In the afternoon.",
+      "At 9 AM."
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-listening3-07: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "準2級 模擬テスト6 リスニング第3部 (Bangkok) 8",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "",
+    "audioText": "Welcome to the smartphone apps in Bangkok York. We are very happy to see 266 people here today. The main event will commence at 10 AM. Please make sure to obtain your tickets before then.\n\nQuestion: When will the main event commence?\nNote: (variant 32)\nNote: (variant 32)\nNote: (variant 32)\nNote: (variant 32)\nNote: (variant 32)\nNote: (variant 32)\nNote: (variant 32)",
+    "choices": [
+      "In the afternoon.",
+      "At 10 AM.",
+      "At 9 AM.",
+      "At 11 AM."
+    ],
+    "answer": 2,
+    "explanation": "pre2-06-listening3-08: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "準2級 模擬テスト6 リスニング第3部 (Barcelona) 9",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "",
+    "audioText": "Welcome to the volunteer work in Barcelona. We are very happy to see 273 people here today. The main event will commence at 10 AM. Please make sure to obtain your tickets before then.\n\nQuestion: When will the main event commence?\nNote: (variant 33)\nNote: (variant 33)\nNote: (variant 33)\nNote: (variant 33)\nNote: (variant 33)\nNote: (variant 33)\nNote: (variant 33)\nNote: (variant 33)",
+    "choices": [
+      "At 11 AM.",
+      "At 9 AM.",
+      "In the afternoon.",
+      "At 10 AM."
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-listening3-09: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "準2級 模擬テスト6 リスニング第3部 (Delhi) 10",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "",
+    "audioText": "Welcome to the school club activities in Delhi. We are very happy to see 280 people here today. The main event will commence at 10 AM. Please make sure to obtain your tickets before then.\n\nQuestion: When will the main event commence?\nNote: (variant 34)\nNote: (variant 34)\nNote: (variant 34)\nNote: (variant 34)\nNote: (variant 34)\nNote: (variant 34)\nNote: (variant 34)\nNote: (variant 34)\nNote: (variant 34)",
+    "choices": [
+      "In the afternoon.",
+      "At 9 AM.",
+      "At 10 AM.",
+      "At 11 AM."
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-listening3-10: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "準2級 模擬テスト6 読解 1",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "Recently, travel planning has become very popular in Seattle. Since 2011, numerous residents gather on weekends. Nancy, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 217 more events related to travel planning.",
+    "audioText": "",
+    "choices": [
+      "Only in summer.",
+      "On weekdays.",
+      "On weekends.",
+      "Every day."
+    ],
+    "answer": 2,
+    "explanation": "pre2-06-reading-01: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "準2級 模擬テスト6 読解 2",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "Recently, healthy meals has become very popular in Berlin. Since 2012, numerous residents gather on weekends. Grace, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 224 more events related to healthy meals.",
+    "audioText": "\nNote: (variant 36)",
+    "choices": [
+      "Every day.",
+      "Only in summer.",
+      "On weekends.",
+      "On weekdays."
+    ],
+    "answer": 3,
+    "explanation": "pre2-06-reading-02: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "準2級 模擬テスト6 読解 3",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "Recently, new technology has become very popular in Boston. Since 2013, numerous residents gather on weekends. Tom, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 231 more events related to new technology.",
+    "audioText": "\nNote: (variant 37)",
+    "choices": [
+      "On weekends.",
+      "Every day.",
+      "On weekdays.",
+      "Only in summer."
+    ],
+    "answer": 2,
+    "explanation": "pre2-06-reading-03: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "準2級 模擬テスト6 読解 4",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "Recently, public transportation has become very popular in Paris. Since 2014, many residents gather on weekends. Mike, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 238 more events related to public transportation.",
+    "audioText": "\nNote: (variant 38)",
+    "choices": [
+      "Only in summer.",
+      "On weekdays.",
+      "On weekends.",
+      "Every day."
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-reading-04: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "準2級 模擬テスト6 読解 5",
+    "prompt": "対話を聞いて、最後の発言に最も合う応答を一つ選んでください。",
+    "passage": "Recently, space exploration has become very popular in Osaka. Since 2015, many residents gather on weekends. Frank, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 245 more events related to space exploration.",
+    "audioText": "\nNote: (variant 39)",
+    "choices": [
+      "On weekdays.",
+      "Every day.",
+      "On weekends.",
+      "Only in summer."
+    ],
+    "answer": 2,
+    "explanation": "pre2-06-reading-05: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "準2級 模擬テスト6 読解 6",
+    "prompt": "会話を聞き、最後の発言への適切な応答を選択してください。",
+    "passage": "Recently, historical monuments has become very popular in London. Since 2016, many residents gather on weekends. Sam, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 252 more events related to historical monuments.",
+    "audioText": "\nNote: (variant 40)",
+    "choices": [
+      "On weekends.",
+      "Only in summer.",
+      "Every day.",
+      "On weekdays."
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-reading-06: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "準2級 模擬テスト6 読解 7",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。",
+    "passage": "Recently, wildlife conservation has become very popular in Kyoto. Since 2017, many residents gather on weekends. Lisa, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 259 more events related to wildlife conservation.",
+    "audioText": "\nNote: (variant 41)",
+    "choices": [
+      "Because they want to make money.",
+      "Because it helps build a strong community.",
+      "Because no one joined the events.",
+      "Because the mayor hates it."
+    ],
+    "answer": 3,
+    "explanation": "pre2-06-reading-07: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading_cloze",
+    "title": "準2級 模擬テスト6 長文空所補充 1",
+    "prompt": "次の英文の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n[Mock 6-1]",
+    "passage": "In 2011, I participated in a travel planning in Seattle. It was a great experience. I met approximately 217 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
+    "audioText": "",
+    "choices": [
+      "story.",
+      "success",
+      "problem",
+      "idea"
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-reading_cloze-01: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading_cloze",
+    "title": "準2級 模擬テスト6 長文空所補充 2",
+    "prompt": "次の英文の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n[Mock 6-2]",
+    "passage": "In 2012, I participated in a healthy meals in Berlin. It was a great experience. I met approximately 224 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
+    "audioText": "\nNote: (variant 43)",
+    "choices": [
+      "success.",
+      "problem",
+      "story",
+      "idea"
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-reading_cloze-02: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 1",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nI have never (      ) such a beautiful travel planning before visiting Seattle.\n[Mock 6-1]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "saw.",
+      "see",
+      "seeing",
+      "seen"
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-vocabulary-01: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 2",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Oliver more approximately the healthy meals? It costs $224.\n[Mock 6-2]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "speak.",
+      "say",
+      "tell",
+      "talk"
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-vocabulary-02: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 3",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nThe new new technology project in Boston will (      ) next month, according to Tom.\n[Mock 6-3]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "starting.",
+      "commence",
+      "starts",
+      "started"
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-vocabulary-03: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 4",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ivan more approximately the public transportation? It costs $238.\n[Mock 6-4]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "tell.",
+      "say",
+      "speak",
+      "talk"
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-vocabulary-04: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 5",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nI have never (      ) such a beautiful space exploration before visiting Osaka.\n[Mock 6-5]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "seeing.",
+      "seen",
+      "saw",
+      "see"
+    ],
+    "answer": 2,
+    "explanation": "pre2-06-vocabulary-05: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 6",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 252 students in London are interested in (      ) historical monuments.\n[Mock 6-6]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "joined.",
+      "joins",
+      "participate",
+      "joining"
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-vocabulary-06: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 7",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nThe new wildlife conservation project in Kyoto will (      ) next month, according to Lisa.\n[Mock 6-7]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "started.",
+      "commence",
+      "starts",
+      "starting"
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-vocabulary-07: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 8",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 266 students in New York are interested in (      ) smartphone apps.\n[Mock 6-8]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "joined.",
+      "joining",
+      "joins",
+      "participate"
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-vocabulary-08: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 9",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nRachel was very (      ) approximately the volunteer work presentation held in 2019.\n[Mock 6-9]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "exciting.",
+      "excitement",
+      "excite",
+      "excited"
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-vocabulary-09: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 10",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ken more approximately the school club activities? It costs $280.\n[Mock 6-10]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "tell.",
+      "talk",
+      "speak",
+      "say"
+    ],
+    "answer": 2,
+    "explanation": "pre2-06-vocabulary-10: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 11",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Heidi more approximately the community libraries? It costs $287.\n[Mock 6-11]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "talk.",
+      "tell",
+      "speak",
+      "say"
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-vocabulary-11: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 12",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nI have never (      ) such a beautiful online lessons before visiting Miami.\n[Mock 6-12]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "saw.",
+      "seen",
+      "seeing",
+      "see"
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-vocabulary-12: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 13",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nThe new local festivals project in Toronto will (      ) next month, according to Judy.\n[Mock 6-13]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "commence.",
+      "starts",
+      "started",
+      "starting"
+    ],
+    "answer": 1,
+    "explanation": "pre2-06-vocabulary-13: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 14",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 308 students in Chicago are interested in (      ) environmental projects.\n[Mock 6-14]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "joined.",
+      "joining",
+      "joins",
+      "participate"
+    ],
+    "answer": 3,
+    "explanation": "pre2-06-vocabulary-14: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "準2級 模擬テスト6 語彙・文法 15",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nThe new part-time jobs project in Sydney will (      ) next month, according to Paul.\n[Mock 6-15]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "starts.",
+      "started",
+      "starting",
+      "commence"
+    ],
+    "answer": 2,
+    "explanation": "pre2-06-vocabulary-15: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "writing_email",
+    "title": "準2級 模擬テスト6 Eメール 1",
+    "prompt": "次の条件に従って、解答しなさい。（※模擬テストシステム上、最も適切な選択肢を選んでください）\n\nあなたは外国人の友達 Nancy からEメールを受け取りました。Seattle での travel planning についてあなたの考えを返信しなさい。\n[Mock 6-1]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "与えられたテーマに沿った、適切な構成と内容の解答.",
+      "テーマから外れた無関係な解答",
+      "文法やスペルミスが多数ある解答",
+      "単語数が不足している不十分な解答"
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-writing_email-01: Eメールの問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "writing_essay",
+    "title": "準2級 模擬テスト6 英作文 1",
+    "prompt": "次の条件に従って、解答しなさい。（※模擬テストシステム上、最も適切な選択肢を選んでください）\n\n以下のTOPICについて、あなたの意見とその理由を2つ書きなさい。\nTOPIC: Do you think travel planning will be important in Seattle by 2021?\n[Mock 6-1]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "単語数が不足している不十分な解答.",
+      "テーマから外れた無関係な解答",
+      "文法やスペルミスが多数ある解答",
+      "与えられたテーマに沿った、適切な構成と内容の解答"
+    ],
+    "answer": 0,
+    "explanation": "pre2-06-writing_essay-01: 英作文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  }
+]
