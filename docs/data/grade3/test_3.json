@@ -1,0 +1,932 @@
+[
+  {
+    "section": "conversation",
+    "title": "3級 模擬テスト3 会話文 1",
+    "prompt": "次の対話の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA: I'm planning to join the environmental projects with Nancy.\nB: (      ). It costs $117.\n[Mock 3-1]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "That sounds fun",
+      "You're welcome",
+      "No, thanks",
+      "I am a student"
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-conversation-01: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "conversation",
+    "title": "3級 模擬テスト3 会話文 2",
+    "prompt": "次の対話の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA: I'm planning to join the part-time jobs with Grace.\nB: (      ). It costs $124.\n[Mock 3-2]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "That sounds fun",
+      "You're welcome",
+      "No, thanks",
+      "I am a student"
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-conversation-02: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "conversation",
+    "title": "3級 模擬テスト3 会話文 3",
+    "prompt": "次の対話の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA: What do you think about the science museums in New York?\nB: (      ). It was established in 2003.\n[Mock 3-3]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "I think it's great",
+      "It's mine",
+      "Yes, I do",
+      "I went there"
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-conversation-03: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "conversation",
+    "title": "3級 模擬テスト3 会話文 4",
+    "prompt": "次の対話の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA: What do you think about the travel planning in Seoul?\nB: (      ). It was established in 2004.\n[Mock 3-4]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "Yes, I do",
+      "It's mine",
+      "I think it's great",
+      "I went there"
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-conversation-04: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "conversation",
+    "title": "3級 模擬テスト3 会話文 5",
+    "prompt": "次の対話の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA: What do you think about the healthy meals in Tokyo?\nB: (      ). It was established in 2005.\n[Mock 3-5]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "I went there",
+      "Yes, I do",
+      "It's mine",
+      "I think it's great"
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-conversation-05: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "3級 模擬テスト3 リスニング第1部 1",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 3-1]",
+    "passage": "",
+    "audioText": "A: Did you enjoy the environmental projects in London, Nancy?\nB: Yes, but it was a bit crowded. Over 117 people were there.\nA: I see. Would you go there again?",
+    "choices": [
+      "No, I didn't.",
+      "I went there.",
+      "It was crowded.",
+      "Probably yes."
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-listening1-01: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "3級 模擬テスト3 リスニング第1部 2",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 3-2]",
+    "passage": "",
+    "audioText": "A: Did you enjoy the part-time jobs in Kyoto, Grace?\nB: Yes, but it was a bit crowded. Over 124 people were there.\nA: I see. Would you go there again?",
+    "choices": [
+      "It was crowded.",
+      "No, I didn't.",
+      "I went there.",
+      "Probably yes."
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-listening1-02: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "3級 模擬テスト3 リスニング第1部 3",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 3-3]",
+    "passage": "",
+    "audioText": "A: Did you enjoy the science museums in New York, Tom?\nB: Yes, but it was a bit crowded. Over 131 people were there.\nA: I see. Would you go there again?",
+    "choices": [
+      "No, I didn't.",
+      "Probably yes.",
+      "It was crowded.",
+      "I went there."
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-listening1-03: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "3級 模擬テスト3 リスニング第1部 4",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 3-4]",
+    "passage": "",
+    "audioText": "A: Did you enjoy the travel planning in Seoul, Mike?\nB: Yes, but it was a bit crowded. Over 138 people were there.\nA: I see. Would you go there again?",
+    "choices": [
+      "I went there.",
+      "Probably yes.",
+      "No, I didn't.",
+      "It was crowded."
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-listening1-04: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "3級 模擬テスト3 リスニング第1部 5",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 3-5]",
+    "passage": "",
+    "audioText": "A: Did you enjoy the healthy meals in Tokyo, Frank?\nB: Yes, but it was a bit crowded. Over 145 people were there.\nA: I see. Would you go there again?",
+    "choices": [
+      "I went there.",
+      "No, I didn't.",
+      "It was crowded.",
+      "Probably yes."
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-listening1-05: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "3級 模擬テスト3 リスニング第1部 6",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 3-6]",
+    "passage": "",
+    "audioText": "A: Did you enjoy the new technology in Rome, Sam?\nB: Yes, but it was a bit crowded. Over 152 people were there.\nA: I see. Would you go there again?",
+    "choices": [
+      "No, I didn't.",
+      "It was crowded.",
+      "Probably yes.",
+      "I went there."
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-listening1-06: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "3級 模擬テスト3 リスニング第1部 7",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 3-7]",
+    "passage": "",
+    "audioText": "A: Did you enjoy the public transportation in Miami, Lisa?\nB: Yes, but it was a bit crowded. Over 159 people were there.\nA: I see. Would you go there again?",
+    "choices": [
+      "No, I didn't.",
+      "Probably yes.",
+      "I went there.",
+      "It was crowded."
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-listening1-07: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "3級 模擬テスト3 リスニング第1部 8",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 3-8]",
+    "passage": "",
+    "audioText": "A: Did you enjoy the space exploration in Toronto, Eve?\nB: Yes, but it was a bit crowded. Over 166 people were there.\nA: I see. Would you go there again?",
+    "choices": [
+      "It was crowded.",
+      "No, I didn't.",
+      "I went there.",
+      "Probably yes."
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-listening1-08: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "3級 模擬テスト3 リスニング第1部 9",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 3-9]",
+    "passage": "",
+    "audioText": "A: Did you enjoy the historical monuments in Chicago, Rachel?\nB: Yes, but it was a bit crowded. Over 173 people were there.\nA: I see. Would you go there again?",
+    "choices": [
+      "Probably yes.",
+      "No, I didn't.",
+      "It was crowded.",
+      "I went there."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-listening1-09: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening1",
+    "title": "3級 模擬テスト3 リスニング第1部 10",
+    "prompt": "対話を聞き、その最後の発言に対する応答として最も適切なものを一つ選びなさい。\n[Mock 3-10]",
+    "passage": "",
+    "audioText": "A: Did you enjoy the wildlife conservation in Sydney, Ken?\nB: Yes, but it was a bit crowded. Over 180 people were there.\nA: I see. Would you go there again?",
+    "choices": [
+      "No, I didn't.",
+      "It was crowded.",
+      "Probably yes.",
+      "I went there."
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-listening1-10: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "3級 模擬テスト3 リスニング第2部 1",
+    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-1]",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the environmental projects, Rachel.\nB: That's a good idea! It starts next Monday in London.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "choices": [
+      "Sign up for the activity.",
+      "Go to the activity.",
+      "Wait until Monday.",
+      "Ask the woman."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-listening2-01: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "3級 模擬テスト3 リスニング第2部 2",
+    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-2]",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the part-time jobs, Oliver.\nB: That's a good idea! It starts next Monday in Kyoto.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "choices": [
+      "Wait until Monday.",
+      "Sign up for the activity.",
+      "Ask the woman.",
+      "Go to the activity."
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-listening2-02: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "3級 模擬テスト3 リスニング第2部 3",
+    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-3]",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the science museums, Lisa.\nB: That's a good idea! It starts next Monday in New York.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "choices": [
+      "Sign up for the activity.",
+      "Ask the woman.",
+      "Go to the activity.",
+      "Wait until Monday."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-listening2-03: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "3級 模擬テスト3 リスニング第2部 4",
+    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-4]",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the travel planning, Ivan.\nB: That's a good idea! It starts next Monday in Seoul.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "choices": [
+      "Wait until Monday.",
+      "Ask the woman.",
+      "Go to the activity.",
+      "Sign up for the activity."
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-listening2-04: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "3級 模擬テスト3 リスニング第2部 5",
+    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-5]",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the healthy meals, Frank.\nB: That's a good idea! It starts next Monday in Tokyo.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "choices": [
+      "Wait until Monday.",
+      "Ask the woman.",
+      "Go to the activity.",
+      "Sign up for the activity."
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-listening2-05: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "3級 模擬テスト3 リスニング第2部 6",
+    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-6]",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the new technology, Charlie.\nB: That's a good idea! It starts next Monday in Rome.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "choices": [
+      "Ask the woman.",
+      "Go to the activity.",
+      "Sign up for the activity.",
+      "Wait until Monday."
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-listening2-06: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "3級 模擬テスト3 リスニング第2部 7",
+    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-7]",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the public transportation, Tom.\nB: That's a good idea! It starts next Monday in Miami.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "choices": [
+      "Sign up for the activity.",
+      "Ask the woman.",
+      "Wait until Monday.",
+      "Go to the activity."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-listening2-07: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "3級 模擬テスト3 リスニング第2部 8",
+    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-8]",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the space exploration, Quincy.\nB: That's a good idea! It starts next Monday in Toronto.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "choices": [
+      "Go to the activity.",
+      "Ask the woman.",
+      "Sign up for the activity.",
+      "Wait until Monday."
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-listening2-08: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "3級 模擬テスト3 リスニング第2部 9",
+    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-9]",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the historical monuments, Nancy.\nB: That's a good idea! It starts next Monday in Chicago.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "choices": [
+      "Go to the activity.",
+      "Sign up for the activity.",
+      "Wait until Monday.",
+      "Ask the woman."
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-listening2-09: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening2",
+    "title": "3級 模擬テスト3 リスニング第2部 10",
+    "prompt": "対話を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-10]",
+    "passage": "",
+    "audioText": "A: I'm thinking of joining the wildlife conservation, Ken.\nB: That's a good idea! It starts next Monday in Sydney.\nA: Oh, really? I should sign up today.\n\nQuestion: What will the man probably do today?",
+    "choices": [
+      "Wait until Monday.",
+      "Ask the woman.",
+      "Sign up for the activity.",
+      "Go to the activity."
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-listening2-10: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "3級 模擬テスト3 リスニング第3部 1",
+    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-1]",
+    "passage": "",
+    "audioText": "Welcome to the environmental projects in London. We are very happy to see 117 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "choices": [
+      "At 9 AM.",
+      "At 10 AM.",
+      "In the afternoon.",
+      "At 11 AM."
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-listening3-01: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "3級 模擬テスト3 リスニング第3部 2",
+    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-2]",
+    "passage": "",
+    "audioText": "Welcome to the part-time jobs in Kyoto. We are very happy to see 124 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "choices": [
+      "In the afternoon.",
+      "At 11 AM.",
+      "At 10 AM.",
+      "At 9 AM."
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-listening3-02: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "3級 模擬テスト3 リスニング第3部 3",
+    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-3]",
+    "passage": "",
+    "audioText": "Welcome to the science museums in New York. We are very happy to see 131 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "choices": [
+      "At 10 AM.",
+      "At 11 AM.",
+      "In the afternoon.",
+      "At 9 AM."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-listening3-03: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "3級 模擬テスト3 リスニング第3部 4",
+    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-4]",
+    "passage": "",
+    "audioText": "Welcome to the travel planning in Seoul. We are very happy to see 138 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "choices": [
+      "At 10 AM.",
+      "In the afternoon.",
+      "At 9 AM.",
+      "At 11 AM."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-listening3-04: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "3級 模擬テスト3 リスニング第3部 5",
+    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-5]",
+    "passage": "",
+    "audioText": "Welcome to the healthy meals in Tokyo. We are very happy to see 145 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "choices": [
+      "At 10 AM.",
+      "At 9 AM.",
+      "In the afternoon.",
+      "At 11 AM."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-listening3-05: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "3級 模擬テスト3 リスニング第3部 6",
+    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-6]",
+    "passage": "",
+    "audioText": "Welcome to the new technology in Rome. We are very happy to see 152 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "choices": [
+      "At 10 AM.",
+      "In the afternoon.",
+      "At 11 AM.",
+      "At 9 AM."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-listening3-06: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "3級 模擬テスト3 リスニング第3部 7",
+    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-7]",
+    "passage": "",
+    "audioText": "Welcome to the public transportation in Miami. We are very happy to see 159 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "choices": [
+      "At 9 AM.",
+      "At 11 AM.",
+      "At 10 AM.",
+      "In the afternoon."
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-listening3-07: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "3級 模擬テスト3 リスニング第3部 8",
+    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-8]",
+    "passage": "",
+    "audioText": "Welcome to the space exploration in Toronto. We are very happy to see 166 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "choices": [
+      "At 9 AM.",
+      "At 10 AM.",
+      "At 11 AM.",
+      "In the afternoon."
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-listening3-08: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "3級 模擬テスト3 リスニング第3部 9",
+    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-9]",
+    "passage": "",
+    "audioText": "Welcome to the historical monuments in Chicago. We are very happy to see 173 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "choices": [
+      "At 11 AM.",
+      "At 9 AM.",
+      "In the afternoon.",
+      "At 10 AM."
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-listening3-09: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "listening3",
+    "title": "3級 模擬テスト3 リスニング第3部 10",
+    "prompt": "英文を聞き、その質問に対して最も適切なものを一つ選びなさい。\n[Mock 3-10]",
+    "passage": "",
+    "audioText": "Welcome to the wildlife conservation in Sydney. We are very happy to see 180 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
+    "choices": [
+      "At 11 AM.",
+      "At 10 AM.",
+      "At 9 AM.",
+      "In the afternoon."
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-listening3-10: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "3級 模擬テスト3 読解 1",
+    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: Why is London planning to organize more events?\n[Mock 3-1]",
+    "passage": "Recently, environmental projects has become very popular in London. Since 2001, many residents gather on weekends. Nancy, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 117 more events related to environmental projects.",
+    "audioText": "",
+    "choices": [
+      "Because they want to make money.",
+      "Because it helps build a strong community.",
+      "Because no one joined the events.",
+      "Because the mayor hates it."
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-reading-01: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "3級 模擬テスト3 読解 2",
+    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: When do residents in Kyoto gather to enjoy the part-time jobs?\n[Mock 3-2]",
+    "passage": "Recently, part-time jobs has become very popular in Kyoto. Since 2002, many residents gather on weekends. Grace, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 124 more events related to part-time jobs.",
+    "audioText": "",
+    "choices": [
+      "On weekdays.",
+      "On weekends.",
+      "Only in summer.",
+      "Every day."
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-reading-02: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "3級 模擬テスト3 読解 3",
+    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: When do residents in New York gather to enjoy the science museums?\n[Mock 3-3]",
+    "passage": "Recently, science museums has become very popular in New York. Since 2003, many residents gather on weekends. Tom, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 131 more events related to science museums.",
+    "audioText": "",
+    "choices": [
+      "Every day.",
+      "Only in summer.",
+      "On weekends.",
+      "On weekdays."
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-reading-03: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "3級 模擬テスト3 読解 4",
+    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: When do residents in Seoul gather to enjoy the travel planning?\n[Mock 3-4]",
+    "passage": "Recently, travel planning has become very popular in Seoul. Since 2004, many residents gather on weekends. Mike, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 138 more events related to travel planning.",
+    "audioText": "",
+    "choices": [
+      "Only in summer.",
+      "Every day.",
+      "On weekdays.",
+      "On weekends."
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-reading-04: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "3級 模擬テスト3 読解 5",
+    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: Why is Tokyo planning to organize more events?\n[Mock 3-5]",
+    "passage": "Recently, healthy meals has become very popular in Tokyo. Since 2005, many residents gather on weekends. Frank, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 145 more events related to healthy meals.",
+    "audioText": "",
+    "choices": [
+      "Because it helps build a strong community.",
+      "Because no one joined the events.",
+      "Because the mayor hates it.",
+      "Because they want to make money."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-reading-05: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "3級 模擬テスト3 読解 6",
+    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: Why is Rome planning to organize more events?\n[Mock 3-6]",
+    "passage": "Recently, new technology has become very popular in Rome. Since 2006, many residents gather on weekends. Sam, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 152 more events related to new technology.",
+    "audioText": "",
+    "choices": [
+      "Because it helps build a strong community.",
+      "Because no one joined the events.",
+      "Because the mayor hates it.",
+      "Because they want to make money."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-reading-06: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "3級 模擬テスト3 読解 7",
+    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: When do residents in Miami gather to enjoy the public transportation?\n[Mock 3-7]",
+    "passage": "Recently, public transportation has become very popular in Miami. Since 2007, many residents gather on weekends. Lisa, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 159 more events related to public transportation.",
+    "audioText": "",
+    "choices": [
+      "On weekends.",
+      "On weekdays.",
+      "Only in summer.",
+      "Every day."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-reading-07: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "3級 模擬テスト3 読解 8",
+    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: Why is Toronto planning to organize more events?\n[Mock 3-8]",
+    "passage": "Recently, space exploration has become very popular in Toronto. Since 2008, many residents gather on weekends. Eve, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 166 more events related to space exploration.",
+    "audioText": "",
+    "choices": [
+      "Because it helps build a strong community.",
+      "Because they want to make money.",
+      "Because the mayor hates it.",
+      "Because no one joined the events."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-reading-08: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "3級 模擬テスト3 読解 9",
+    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: Why is Chicago planning to organize more events?\n[Mock 3-9]",
+    "passage": "Recently, historical monuments has become very popular in Chicago. Since 2009, many residents gather on weekends. Rachel, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 173 more events related to historical monuments.",
+    "audioText": "",
+    "choices": [
+      "Because it helps build a strong community.",
+      "Because the mayor hates it.",
+      "Because no one joined the events.",
+      "Because they want to make money."
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-reading-09: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "reading",
+    "title": "3級 模擬テスト3 読解 10",
+    "prompt": "次の英文の内容に関して、質問に対する答えとして最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nQuestion: When do residents in Sydney gather to enjoy the wildlife conservation?\n[Mock 3-10]",
+    "passage": "Recently, wildlife conservation has become very popular in Sydney. Since 2010, many residents gather on weekends. Ken, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 180 more events related to wildlife conservation.",
+    "audioText": "",
+    "choices": [
+      "Only in summer.",
+      "On weekends.",
+      "Every day.",
+      "On weekdays."
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-reading-10: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 1",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nThe new environmental projects project in London will (      ) next month, according to Nancy.\n[Mock 3-1]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "starting",
+      "start",
+      "starts",
+      "started"
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-vocabulary-01: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 2",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Oliver more about the part-time jobs? It costs $124.\n[Mock 3-2]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "talk",
+      "say",
+      "tell",
+      "speak"
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-vocabulary-02: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 3",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nThe new science museums project in New York will (      ) next month, according to Tom.\n[Mock 3-3]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "started",
+      "starts",
+      "start",
+      "starting"
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-vocabulary-03: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 4",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nI have never (      ) such a beautiful travel planning before visiting Seoul.\n[Mock 3-4]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "see",
+      "seen",
+      "saw",
+      "seeing"
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-vocabulary-04: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 5",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 145 students in Tokyo are interested in (      ) healthy meals.\n[Mock 3-5]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "joins",
+      "joined",
+      "join",
+      "joining"
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-vocabulary-05: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 6",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nI have never (      ) such a beautiful new technology before visiting Rome.\n[Mock 3-6]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "seeing",
+      "see",
+      "saw",
+      "seen"
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-vocabulary-06: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 7",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nLisa was very (      ) about the public transportation presentation held in 2007.\n[Mock 3-7]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "excitement",
+      "exciting",
+      "excited",
+      "excite"
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-vocabulary-07: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 8",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nThe new space exploration project in Toronto will (      ) next month, according to Eve.\n[Mock 3-8]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "starts",
+      "starting",
+      "start",
+      "started"
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-vocabulary-08: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 9",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nI have never (      ) such a beautiful historical monuments before visiting Chicago.\n[Mock 3-9]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "see",
+      "saw",
+      "seeing",
+      "seen"
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-vocabulary-09: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 10",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 180 students in Sydney are interested in (      ) wildlife conservation.\n[Mock 3-10]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "joins",
+      "join",
+      "joining",
+      "joined"
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-vocabulary-10: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 11",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nThe new smartphone apps project in Seattle will (      ) next month, according to David.\n[Mock 3-11]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "started",
+      "starts",
+      "start",
+      "starting"
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-vocabulary-11: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 12",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nI have never (      ) such a beautiful volunteer work before visiting Berlin.\n[Mock 3-12]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "seen",
+      "seeing",
+      "saw",
+      "see"
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-vocabulary-12: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 13",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nI have never (      ) such a beautiful school club activities before visiting Boston.\n[Mock 3-13]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "saw",
+      "see",
+      "seen",
+      "seeing"
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-vocabulary-13: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 14",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nI have never (      ) such a beautiful community libraries before visiting Paris.\n[Mock 3-14]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "see",
+      "seeing",
+      "seen",
+      "saw"
+    ],
+    "answer": 2,
+    "explanation": "grade3-03-vocabulary-14: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "vocabulary",
+    "title": "3級 模擬テスト3 語彙・文法 15",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nPaul was very (      ) about the online lessons presentation held in 2015.\n[Mock 3-15]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "exciting",
+      "excited",
+      "excitement",
+      "excite"
+    ],
+    "answer": 1,
+    "explanation": "grade3-03-vocabulary-15: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "writing_email",
+    "title": "3級 模擬テスト3 Eメール 1",
+    "prompt": "次の条件に従って、解答しなさい。（※模擬テストシステム上、最も適切な選択肢を選んでください）\n\nあなたは外国人の友達 Nancy からEメールを受け取りました。London での environmental projects についてあなたの考えを返信しなさい。\n[Mock 3-1]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "与えられたテーマに沿った、適切な構成と内容の解答",
+      "文法やスペルミスが多数ある解答",
+      "単語数が不足している不十分な解答",
+      "テーマから外れた無関係な解答"
+    ],
+    "answer": 0,
+    "explanation": "grade3-03-writing_email-01: Eメールの問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  },
+  {
+    "section": "writing_essay",
+    "title": "3級 模擬テスト3 英作文 1",
+    "prompt": "次の条件に従って、解答しなさい。（※模擬テストシステム上、最も適切な選択肢を選んでください）\n\n以下のTOPICについて、あなたの意見とその理由を2つ書きなさい。\nTOPIC: Do you think environmental projects will be important in London by 2011?\n[Mock 3-1]",
+    "passage": "",
+    "audioText": "",
+    "choices": [
+      "テーマから外れた無関係な解答",
+      "文法やスペルミスが多数ある解答",
+      "単語数が不足している不十分な解答",
+      "与えられたテーマに沿った、適切な構成と内容の解答"
+    ],
+    "answer": 3,
+    "explanation": "grade3-03-writing_essay-01: 英作文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+  }
+]

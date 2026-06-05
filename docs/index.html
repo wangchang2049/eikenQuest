@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>eikenQuest | 英検模擬テスト</title>
+    <link rel="stylesheet" href="styles.css?v=exam-dashboard">
+  </head>
+  <body>
+    <section id="dashboardScreen" class="dashboard-screen" aria-label="模擬テスト選択">
+      <header class="dashboard-header">
+        <div>
+          <p class="eyebrow">EIKEN PRACTICE</p>
+          <h1>受験する英検の級を選択してください</h1>
+        </div>
+        <button id="dashboardWrongBookBtn" class="secondary-btn" type="button">不正解問題を見る</button>
+      </header>
+
+      <section class="section-card grade-card" aria-label="級の選択">
+        <label class="grade-select-label" for="gradeSelect">級</label>
+        <select id="gradeSelect" class="grade-select"></select>
+      </section>
+
+      <section class="exam-list-panel" aria-label="模擬テスト一覧">
+        <div class="panel-title">
+          <div>
+            <p id="selectedGradeEnglish" class="eyebrow"></p>
+            <h2 id="selectedGradeTitle"></h2>
+          </div>
+          <span id="selectedGradeMeta"></span>
+        </div>
+        <div id="examList" class="exam-list"></div>
+      </section>
+    </section>
+
+    <section id="startScreen" class="start-screen" hidden aria-label="テスト概要">
+      <button id="backToDashboardBtn" class="secondary-btn wide-btn" type="button">一覧へ戻る</button>
+      <div class="brand-mark" aria-hidden="true">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+
+      <div class="hero-title">
+        <h1 id="heroGrade">英検4級</h1>
+        <p id="heroTestName">模擬テスト1</p>
+        <span id="heroGradeEn">EIKEN GRADE 4 PRACTICE TEST</span>
+      </div>
+
+      <div class="stat-grid" aria-label="テスト概要">
+        <div class="stat-card">
+          <div class="stat-icon document-icon"></div>
+          <span>出題数</span>
+          <strong id="startTotalCount">0問</strong>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon timer-icon"></div>
+          <span>目安時間</span>
+          <strong id="startMinutes">0分</strong>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon chart-icon"></div>
+          <span>模擬テスト</span>
+          <strong id="startTestNumber">1</strong>
+        </div>
+      </div>
+
+      <section class="section-card" aria-label="出題セクション">
+        <h2>出題セクション</h2>
+        <div id="sectionStats"></div>
+      </section>
+
+      <button id="startBtn" class="start-btn" type="button">
+        Go
+        <span aria-hidden="true">→</span>
+      </button>
+    </section>
+
+    <div id="appRoot" class="app-root" hidden>
+      <header class="app-header">
+        <div>
+          <p id="appGradeLabel" class="eyebrow">Grade 4 Mock Test</p>
+          <h1>eikenQuest</h1>
+        </div>
+        <div class="timer" aria-live="polite">
+          <span>残り時間</span>
+          <strong id="timer">65:00</strong>
+        </div>
+      </header>
+
+      <main class="app-shell">
+        <aside class="progress-panel" aria-label="テスト進行">
+          <div class="score-card">
+            <span id="answeredCount">0</span>
+            <small>/ <span id="totalCount">0</span> 問回答</small>
+          </div>
+          <nav id="questionNav" class="question-nav" aria-label="問題一覧"></nav>
+          <button id="submitBtn" class="primary-btn" type="button">採点する</button>
+          <button id="resetBtn" class="secondary-btn" type="button">再テスト</button>
+        </aside>
+
+        <section class="test-panel" aria-live="polite">
+          <article class="question-card">
+            <div class="question-meta">
+              <span id="sectionLabel"></span>
+              <span id="questionNumber"></span>
+            </div>
+            <h2 id="questionTitle"></h2>
+            <p id="questionPrompt" class="prompt"></p>
+            <div id="audioControls" class="audio-controls" hidden>
+              <button id="playAudioBtn" class="audio-btn" type="button">音声を聞く</button>
+              <span id="audioStatus">リスニング問題はボタンで再生できます。</span>
+            </div>
+            <div id="passage" class="passage" hidden></div>
+            <form id="choices" class="choices"></form>
+            <div class="question-actions">
+              <button id="prevBtn" class="secondary-btn" type="button">前へ</button>
+              <button id="nextBtn" class="primary-btn" type="button">次へ</button>
+            </div>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <section id="resultScreen" class="result-screen" hidden>
+      <div class="result-layout">
+        <aside class="progress-panel result-nav-panel" aria-label="採点結果の問題一覧">
+          <div class="score-card">
+            <span id="resultCorrectCount">0</span>
+            <small>/ <span id="resultTotalCount">0</span> 問正解</small>
+          </div>
+          <nav id="resultQuestionNav" class="question-nav" aria-label="採点結果の問題番号"></nav>
+          <button id="resultWrongBookBtn" class="secondary-btn" type="button">不正解問題</button>
+          <button id="backToDashboardFromResultBtn" class="secondary-btn" type="button">一覧へ戻る</button>
+        </aside>
+
+        <div class="result-shell">
+          <section id="resultPanel" class="result-panel">
+            <div>
+              <p class="eyebrow">Result</p>
+              <h2 id="resultTitle">採点結果</h2>
+            </div>
+            <p id="resultSummary"></p>
+            <div id="resultSaveStatus" class="save-status"></div>
+            <div id="resultStats" class="result-stats"></div>
+            <div id="reviewList" class="review-list"></div>
+          </section>
+        </div>
+      </div>
+    </section>
+
+    <section id="wrongBookScreen" class="result-screen" hidden>
+      <div class="result-shell">
+        <button id="wrongBookBackBtn" class="secondary-btn" type="button">戻る</button>
+        <section class="result-panel">
+          <div>
+            <p class="eyebrow">Wrong Answers</p>
+            <h2>不正解問題</h2>
+          </div>
+          <p id="wrongBookSummary"></p>
+          <div id="wrongBookList" class="review-list"></div>
+        </section>
+      </div>
+    </section>
+
+    <script src="app.js?v=exam-dashboard"></script>
+  </body>
+</html>
