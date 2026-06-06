@@ -12,7 +12,18 @@ async function walk(dir){ let res=[]; try{ const list=await fs.readdir(dir,{with
   for(const f of files){ try{ const raw=await fs.readFile(f,'utf8'); const arr=JSON.parse(raw); if(!Array.isArray(arr)) continue; for(let i=0;i<arr.length;i++){ items.push({file:f,index:i,item:arr[i]}); }}catch(e){} }
   const globalBankSet = new Set();
   for(const it of items){ const ch = it.item.choices; if(Array.isArray(ch)) for(const c of ch) globalBankSet.add(c); }
-  const fallback = ['a museum','a concert','a picnic','a trip','a lecture','a workshop','a party','a movie','a coffee shop','a restaurant','a bookstore','a library','a zoo','a park','a festival','a swimming pool','a train station','a bus stop','a bakery','not really','yes, of course','no, I haven\'t','I\'m not sure','maybe later','I don\'t know','definitely','probably not','sometimes','never'];
+  const fallback = [
+    // Locations and activities
+    'a museum','a concert','a picnic','a trip','a lecture','a workshop','a party','a movie','a coffee shop','a restaurant','a bookstore','a library','a zoo','a park','a festival','a swimming pool','a train station','a bus stop','a bakery','a gym','a hospital','a school','a hotel','a store','a market','a beach','a mountain','a river','a lake',
+    // Affirmatives and negatives
+    'not really','yes, of course','no, I haven\'t','I\'m not sure','maybe later','I don\'t know','definitely','probably not','sometimes','never','sure','OK','alright','I see','got it','understood','really?','seriously?','for sure','absolutely','certainly','not at all','no way','of course not','I don\'t think so',
+    // Time and frequency expressions
+    'yesterday','tomorrow','last week','next week','this week','this weekend','on Monday','on Tuesday','on Wednesday','on Thursday','on Friday','on Saturday','on Sunday','in the morning','in the afternoon','in the evening','at night','early','late','soon','later','eventually',
+    // Actions and responses
+    'thank you','thanks a lot','thank you so much','you\'re welcome','no problem','happy to help','sorry','excuse me','pardon me','I apologize','that\'s right','that\'s wrong','I agree','I disagree','I don\'t agree','sounds good','looks good','smells good','tastes good','feels good',
+    // Personal responses
+    'I like it','I don\'t like it','I love it','I hate it','I enjoy it','I hate it','I prefer it','I\'m interested','I\'m not interested','I\'m tired','I\'m hungry','I\'m thirsty','I\'m cold','I\'m warm','I\'m busy','I\'m free'
+  ];
   const globalBank = Array.from(globalBankSet).concat(fallback);
   function sortedChoicesKey(arr){ return arr.map(c=>normalize(c)).slice().sort().join(' ||| '); }
   const keyMap = new Map();

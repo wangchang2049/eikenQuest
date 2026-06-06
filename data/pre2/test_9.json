@@ -51,10 +51,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "option_75195_754",
-      "option_75195_264",
+      "a museum",
+      "a concert",
       "I think it's great",
-      "option_75195_424"
+      "a picnic"
     ],
     "answer": 2,
     "explanation": "pre2-09-conversation-04: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -81,9 +81,9 @@
     "passage": "",
     "audioText": "A: Have you had the chance to visit the public transportation in Miami, Lisa?\nB: Yes, although there were many people there.\nA: I see. Would you recommend it to others?",
     "choices": [
-      "option_75194_87",
-      "option_75194_182",
-      "option_75194_915",
+      "a trip",
+      "a lecture",
+      "a workshop",
       "No, I didn't."
     ],
     "answer": 3,
@@ -127,9 +127,9 @@
     "audioText": "A: What did you think of the wildlife conservation in Sydney, Ken?\nB: Yes, although it was overcrowded.\nA: I see. Would you go there again?",
     "choices": [
       "I went there.",
-      "option_75162_518",
-      "option_75162_602",
-      "option_75162_919"
+      "a party",
+      "a movie",
+      "a coffee shop"
     ],
     "answer": 0,
     "explanation": "pre2-09-listening1-04: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -141,10 +141,10 @@
     "passage": "",
     "audioText": "A: Did you enjoy the smartphone apps in Berlin, Oliver?\nB: Yes, but it was a bit crowded.\nA: I see. Would you visit again?",
     "choices": [
-      "option_75162_878",
-      "option_75162_588",
+      "a restaurant",
+      "a bookstore",
       "I went there.",
-      "option_75162_691"
+      "a library"
     ],
     "answer": 2,
     "explanation": "pre2-09-listening1-05: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -156,9 +156,9 @@
     "passage": "",
     "audioText": "A: Have you had the chance to visit the volunteer work in Osaka, Laura?\nB: Yes, although there were many people there.\nA: I see. Would you recommend it to others?",
     "choices": [
-      "option_75162_696",
-      "option_75162_967",
-      "option_75162_819",
+      "a zoo",
+      "a park",
+      "a festival",
       "I went there."
     ],
     "answer": 3,
@@ -171,10 +171,10 @@
     "passage": "",
     "audioText": "A: How did you like the school club activities in Beijing, John?\nB: Yes, but it felt quite crowded.\nA: I see. Would you go back?",
     "choices": [
-      "option_75194_717",
+      "a swimming pool",
       "Probably yes.",
-      "option_75194_380",
-      "option_75194_449"
+      "a train station",
+      "a bus stop"
     ],
     "answer": 1,
     "explanation": "pre2-09-listening1-07: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -187,9 +187,9 @@
     "audioText": "A: Did you like the community libraries in Bangkok, Anna?\nB: Yes, but it was pretty packed.\nA: I see. Would you consider returning?",
     "choices": [
       "I went there.",
-      "option_75162_208",
-      "option_75162_262",
-      "option_75162_725"
+      "a bakery",
+      "a gym",
+      "a hospital"
     ],
     "answer": 0,
     "explanation": "pre2-09-listening1-08: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -201,9 +201,9 @@
     "passage": "",
     "audioText": "A: What did you think of the online lessons in Barcelona, David?\nB: Yes, although it was overcrowded.\nA: I see. Would you go there again?",
     "choices": [
-      "option_75013_929",
-      "option_75013_674",
-      "option_75013_674",
+      "a school",
+      "a hotel",
+      "a store",
       "No, I didn't."
     ],
     "answer": 3,
@@ -216,10 +216,10 @@
     "passage": "",
     "audioText": "A: Did you enjoy the local festivals in Delhi, Emily?\nB: Yes, but it was a bit crowded.\nA: I see. Would you visit again?",
     "choices": [
-      "option_75162_576",
-      "option_75162_740",
+      "a market",
+      "a beach",
       "I went there.",
-      "option_75162_941"
+      "a mountain"
     ],
     "answer": 2,
     "explanation": "pre2-09-listening1-10: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -232,9 +232,9 @@
     "audioText": "A: I'm thinking of joining the public transportation, Rachel.\nB: That's a good idea! It starts next Monday in Istanbul.\nA: Oh, Robert? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
       "Sign up for the activity.",
-      "option_75035_879",
-      "option_75035_283",
-      "option_75035_341"
+      "a river",
+      "a lake",
+      "not really"
     ],
     "answer": 0,
     "explanation": "pre2-09-listening2-01: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -247,9 +247,9 @@
     "audioText": "A: I'm thinking of joining the space exploration, Oliver.\nB: That's a good idea! It starts next Monday in Moscow.\nA: Oh, Sophia? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
       "Attend the activity.",
-      "option_75017_463",
-      "option_75017_763",
-      "option_75017_756"
+      "yes, of course",
+      "no, I haven't",
+      "I'm not sure"
     ],
     "answer": 0,
     "explanation": "pre2-09-listening2-02: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -261,10 +261,10 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the historical monuments, Lisa.\nB: That's a good idea! It starts next Monday in Dubai.\nA: Oh, Chris? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "option_75143_419",
-      "option_75143_643",
+      "maybe later",
+      "I don't know",
       "Go to the event.",
-      "option_75143_269"
+      "definitely"
     ],
     "answer": 2,
     "explanation": "pre2-09-listening2-03: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -276,10 +276,10 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the wildlife conservation, Ivan.\nB: That's a good idea! It starts next Monday in Madrid.\nA: Oh, Mia? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "option_75171_49",
+      "probably not",
       "Ask the person.",
-      "option_75171_938",
-      "option_75171_349"
+      "sometimes",
+      "never"
     ],
     "answer": 1,
     "explanation": "pre2-09-listening2-04: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -291,9 +291,9 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the smartphone apps, Frank.\nB: That's a good idea! It starts next Monday in London.\nA: Oh, Nancy? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "option_75035_858",
-      "option_75035_141",
-      "option_75035_565",
+      "sure",
+      "OK",
+      "alright",
       "Sign up for the activity."
     ],
     "answer": 3,
@@ -307,9 +307,9 @@
     "audioText": "A: I'm thinking of joining the volunteer work, Charlie.\nB: That's a good idea! It starts next Monday in Kyoto.\nA: Oh, Grace? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
       "Ask the woman.",
-      "option_75025_275",
-      "option_75025_741",
-      "option_75025_341"
+      "I see",
+      "got it",
+      "understood"
     ],
     "answer": 0,
     "explanation": "pre2-09-listening2-06: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -321,10 +321,10 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the school club activities, Tom.\nB: That's a good idea! It starts next Monday in New York.\nA: Oh, Tom? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "option_75141_371",
-      "option_75141_99",
+      "really?",
+      "seriously?",
       "Wait until Monday.",
-      "option_75141_449"
+      "for sure"
     ],
     "answer": 2,
     "explanation": "pre2-09-listening2-07: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -336,9 +336,9 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the community libraries, Quincy.\nB: That's a good idea! It starts next Monday in Seoul York.\nA: Oh, Mike? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "option_75026_966",
-      "option_75026_143",
-      "option_75026_709",
+      "absolutely",
+      "certainly",
+      "not at all",
       "Ask the woman."
     ],
     "answer": 3,
@@ -352,9 +352,9 @@
     "audioText": "A: I'm thinking of joining the online lessons, Nancy.\nB: That's a good idea! It starts next Monday in Tokyo.\nA: Oh, Frank? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
       "Sign up for the activity.",
-      "option_75035_976",
-      "option_75035_565",
-      "option_75035_875"
+      "no way",
+      "of course not",
+      "I don't think so"
     ],
     "answer": 0,
     "explanation": "pre2-09-listening2-09: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -366,10 +366,10 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the local festivals, Ken.\nB: That's a good idea! It starts next Monday in Rome.\nA: Oh, Sam? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "option_75026_366",
-      "option_75026_102",
+      "yesterday",
+      "tomorrow",
       "Ask the woman.",
-      "option_75026_55"
+      "last week"
     ],
     "answer": 2,
     "explanation": "pre2-09-listening2-10: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -381,10 +381,10 @@
     "passage": "",
     "audioText": "Welcome to the public transportation in Miami. We are very happy to see 317 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "option_75048_926",
+      "next week",
       "In the afternoon.",
-      "option_75048_833",
-      "option_75048_340"
+      "this week",
+      "this weekend"
     ],
     "answer": 1,
     "explanation": "pre2-09-listening3-01: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -397,9 +397,9 @@
     "audioText": "Welcome to the space exploration in Toronto. We are very happy to see 324 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
       "In the afternoon.",
-      "option_75048_229",
-      "option_75048_694",
-      "option_75048_483"
+      "on Monday",
+      "on Tuesday",
+      "on Wednesday"
     ],
     "answer": 0,
     "explanation": "pre2-09-listening3-02: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -412,9 +412,9 @@
     "audioText": "Welcome to the historical monuments in Chicago. We are very happy to see 331 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
       "At 10 AM.",
-      "option_75058_867",
-      "option_75058_509",
-      "option_75058_700"
+      "on Thursday",
+      "on Friday",
+      "on Saturday"
     ],
     "answer": 0,
     "explanation": "pre2-09-listening3-03: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -426,10 +426,10 @@
     "passage": "",
     "audioText": "Welcome to the wildlife conservation in Sydney. We are very happy to see 338 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "option_75054_984",
+      "on Sunday",
       "At 9 AM.",
-      "option_75054_499",
-      "option_75054_671"
+      "in the morning",
+      "in the afternoon"
     ],
     "answer": 1,
     "explanation": "pre2-09-listening3-04: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -441,9 +441,9 @@
     "passage": "",
     "audioText": "Welcome to the smartphone apps in Berlin. We are very happy to see 345 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "option_75149_556",
-      "option_75149_328",
-      "option_75149_824",
+      "in the evening",
+      "at night",
+      "early",
       "At 11 AM."
     ],
     "answer": 3,
@@ -456,10 +456,10 @@
     "passage": "",
     "audioText": "Welcome to the volunteer work in Osaka. We are very happy to see 352 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "option_75149_176",
-      "option_75149_965",
+      "late",
+      "soon",
       "At 11 AM.",
-      "option_75149_326"
+      "later"
     ],
     "answer": 2,
     "explanation": "pre2-09-listening3-06: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -471,10 +471,10 @@
     "passage": "",
     "audioText": "Welcome to the school club activities in Beijing. We are very happy to see 359 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "option_75058_19",
-      "option_75058_479",
+      "eventually",
+      "thank you",
       "At 10 AM.",
-      "option_75058_412"
+      "thanks a lot"
     ],
     "answer": 2,
     "explanation": "pre2-09-listening3-07: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -486,9 +486,9 @@
     "passage": "",
     "audioText": "Welcome to the community libraries in Bangkok York. We are very happy to see 366 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "option_75049_127",
-      "option_75049_590",
-      "option_75049_107",
+      "thank you so much",
+      "you're welcome",
+      "no problem",
       "In the afternoon."
     ],
     "answer": 3,
@@ -502,9 +502,9 @@
     "audioText": "Welcome to the online lessons in Barcelona. We are very happy to see 373 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
       "At 9 AM.",
-      "option_75054_958",
-      "option_75054_634",
-      "option_75054_134"
+      "happy to help",
+      "sorry",
+      "excuse me"
     ],
     "answer": 0,
     "explanation": "pre2-09-listening3-09: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -516,9 +516,9 @@
     "passage": "",
     "audioText": "Welcome to the local festivals in Delhi. We are very happy to see 380 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "option_75049_513",
-      "option_75049_151",
-      "option_75049_303",
+      "pardon me",
+      "I apologize",
+      "that's right",
       "In the afternoon."
     ],
     "answer": 3,
@@ -531,10 +531,10 @@
     "passage": "Recently, public transportation has become very popular in Seattle. Since 1996, many residents gather on weekends. Nancy, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 317 more events related to public transportation.",
     "audioText": "",
     "choices": [
-      "option_75174_490",
+      "that's wrong",
       "Because it helps build a strong community.",
-      "option_75174_586",
-      "option_75174_706"
+      "I agree",
+      "I disagree"
     ],
     "answer": 1,
     "explanation": "pre2-09-reading-01: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -546,10 +546,10 @@
     "passage": "Recently, space exploration has become very popular in Berlin. Since 1997, many residents gather on weekends. Grace, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 324 more events related to space exploration.",
     "audioText": "",
     "choices": [
-      "option_75065_507",
-      "option_75065_898",
+      "I don't agree",
+      "sounds good",
       "Because the mayor hates it.",
-      "option_75065_765"
+      "looks good"
     ],
     "answer": 2,
     "explanation": "pre2-09-reading-02: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -561,10 +561,10 @@
     "passage": "Recently, historical monuments has become very popular in Boston. Since 1998, many residents gather on weekends. Tom, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 331 more events related to historical monuments.",
     "audioText": "",
     "choices": [
-      "option_75178_658",
+      "smells good",
       "Every day.",
-      "option_75178_687",
-      "option_75178_778"
+      "tastes good",
+      "feels good"
     ],
     "answer": 1,
     "explanation": "pre2-09-reading-03: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -576,10 +576,10 @@
     "passage": "Recently, wildlife conservation has become very popular in Paris. Since 1999, many residents gather on weekends. Mike, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 338 more events related to wildlife conservation.",
     "audioText": "",
     "choices": [
-      "option_75075_152",
-      "option_75075_841",
+      "I like it",
+      "I don't like it",
       "Because no one joined the events.",
-      "option_75075_28"
+      "I love it"
     ],
     "answer": 2,
     "explanation": "pre2-09-reading-04: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -591,10 +591,10 @@
     "passage": "Recently, smartphone apps has become very popular in Osaka. Since 2000, many residents gather on weekends. Frank, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 345 more events related to smartphone apps.",
     "audioText": "",
     "choices": [
-      "option_75062_743",
-      "option_75062_257",
+      "I hate it",
+      "I enjoy it",
       "On weekends.",
-      "option_75062_467"
+      "I prefer it"
     ],
     "answer": 2,
     "explanation": "pre2-09-reading-05: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -606,10 +606,10 @@
     "passage": "Recently, volunteer work has become very popular in London. Since 2001, many residents gather on weekends. Sam, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 352 more events related to volunteer work.",
     "audioText": "",
     "choices": [
-      "option_75068_307",
+      "I'm interested",
       "Because they want to make money.",
-      "option_75068_23",
-      "option_75068_665"
+      "I'm not interested",
+      "I'm tired"
     ],
     "answer": 1,
     "explanation": "pre2-09-reading-06: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -621,10 +621,10 @@
     "passage": "Recently, school club activities has become very popular in Kyoto. Since 2002, many residents gather on weekends. Lisa, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 359 more events related to school club activities.",
     "audioText": "",
     "choices": [
-      "option_75152_517",
-      "option_75152_265",
+      "I'm hungry",
+      "I'm thirsty",
       "Only in summer.",
-      "option_75152_558"
+      "I'm cold"
     ],
     "answer": 2,
     "explanation": "pre2-09-reading-07: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -636,10 +636,10 @@
     "passage": "In 1996, I participated in a public transportation in Seattle. It was a great experience. I met about 317 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
-      "option_75084_300",
+      "I'm warm",
       "story.",
-      "option_75084_264",
-      "option_75084_648"
+      "I'm busy",
+      "I'm free"
     ],
     "answer": 1,
     "explanation": "pre2-09-reading_cloze-01: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -651,9 +651,9 @@
     "passage": "In 1997, I participated in a space exploration in Berlin. It was a great experience. I met about 324 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
-      "option_75085_646",
-      "option_75085_774",
-      "option_75085_700",
+      "a museum",
+      "a concert",
+      "a picnic",
       "problem."
     ],
     "answer": 3,
@@ -667,9 +667,9 @@
     "audioText": "",
     "choices": [
       "seeing.",
-      "option_75169_688",
-      "option_75169_699",
-      "option_75169_763"
+      "a trip",
+      "a lecture",
+      "a workshop"
     ],
     "answer": 0,
     "explanation": "pre2-09-vocabulary-01: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -681,10 +681,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "option_75127_452",
-      "option_75127_191",
+      "a party",
+      "a movie",
       "saw",
-      "option_75127_818"
+      "a coffee shop"
     ],
     "answer": 2,
     "explanation": "pre2-09-vocabulary-02: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -696,10 +696,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "option_75111_550",
+      "a restaurant",
       "starts",
-      "option_75111_938",
-      "option_75111_130"
+      "a bookstore",
+      "a library"
     ],
     "answer": 1,
     "explanation": "pre2-09-vocabulary-03: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -712,9 +712,9 @@
     "audioText": "",
     "choices": [
       "seen",
-      "option_75125_571",
-      "option_75125_584",
-      "option_75125_256"
+      "a zoo",
+      "a park",
+      "a festival"
     ],
     "answer": 0,
     "explanation": "pre2-09-vocabulary-04: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -726,9 +726,9 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "option_75104_845",
-      "option_75104_826",
-      "option_75104_667",
+      "a swimming pool",
+      "a train station",
+      "a bus stop",
       "speak"
     ],
     "answer": 3,
@@ -742,9 +742,9 @@
     "audioText": "",
     "choices": [
       "speak",
-      "option_75104_99",
-      "option_75104_95",
-      "option_75104_296"
+      "a bakery",
+      "a gym",
+      "a hospital"
     ],
     "answer": 0,
     "explanation": "pre2-09-vocabulary-06: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -757,9 +757,9 @@
     "audioText": "",
     "choices": [
       "exciting.",
-      "option_75116_399",
-      "option_75116_740",
-      "option_75116_194"
+      "a school",
+      "a hotel",
+      "a store"
     ],
     "answer": 0,
     "explanation": "pre2-09-vocabulary-07: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -771,10 +771,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "option_75108_18",
+      "a market",
       "start.",
-      "option_75108_452",
-      "option_75108_39"
+      "a beach",
+      "a mountain"
     ],
     "answer": 1,
     "explanation": "pre2-09-vocabulary-08: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -787,9 +787,9 @@
     "audioText": "",
     "choices": [
       "excite",
-      "option_75095_48",
-      "option_75095_280",
-      "option_75095_228"
+      "a river",
+      "a lake",
+      "not really"
     ],
     "answer": 0,
     "explanation": "pre2-09-vocabulary-09: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -801,9 +801,9 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "option_75130_240",
-      "option_75130_216",
-      "option_75130_592",
+      "yes, of course",
+      "no, I haven't",
+      "I'm not sure",
       "started"
     ],
     "answer": 3,
@@ -816,9 +816,9 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "option_75119_84",
-      "option_75119_812",
-      "option_75119_950",
+      "maybe later",
+      "I don't know",
+      "definitely",
       "see."
     ],
     "answer": 3,
@@ -831,10 +831,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "option_75155_162",
-      "option_75155_97",
+      "probably not",
+      "sometimes",
       "excited",
-      "option_75155_770"
+      "never"
     ],
     "answer": 2,
     "explanation": "pre2-09-vocabulary-12: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -846,10 +846,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "option_75104_936",
-      "option_75104_943",
+      "sure",
+      "OK",
       "say",
-      "option_75104_701"
+      "alright"
     ],
     "answer": 2,
     "explanation": "pre2-09-vocabulary-13: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -861,10 +861,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "option_75091_32",
+      "I see",
       "join",
-      "option_75091_669",
-      "option_75091_448"
+      "got it",
+      "understood"
     ],
     "answer": 1,
     "explanation": "pre2-09-vocabulary-14: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -877,9 +877,9 @@
     "audioText": "",
     "choices": [
       "talk",
-      "option_75104_576",
-      "option_75104_948",
-      "option_75104_59"
+      "really?",
+      "seriously?",
+      "for sure"
     ],
     "answer": 0,
     "explanation": "pre2-09-vocabulary-15: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -891,10 +891,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "option_75135_203",
+      "absolutely",
       "与えられたテーマに沿った、適切な構成と内容の解答",
-      "option_75135_18",
-      "option_75135_961"
+      "certainly",
+      "not at all"
     ],
     "answer": 1,
     "explanation": "pre2-09-writing_email-01: Eメールの問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -907,9 +907,9 @@
     "audioText": "",
     "choices": [
       "文法やスペルミスが多数ある解答",
-      "option_75135_899",
-      "option_75135_8",
-      "option_75135_163"
+      "no way",
+      "of course not",
+      "I don't think so"
     ],
     "answer": 0,
     "explanation": "pre2-09-writing_essay-01: 英作文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
