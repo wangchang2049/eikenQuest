@@ -12,7 +12,7 @@
       "I visited that place"
     ],
     "answer": 1,
-    "explanation": "grade3-10-conversation-01: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 会話文 1 正解は「I am a student.」。進行形や現在の状態を表す表現が適切です。 他の選択肢は次の通りです：「I went to that place」: 文脈と合わない表現； 「I have been there」: 文脈と合わない表現； 「I visited that place」: 文脈と合わない表現。"
   },
   {
     "section": "conversation",
@@ -27,7 +27,7 @@
       "I visited that place"
     ],
     "answer": 1,
-    "explanation": "grade3-10-conversation-02: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 会話文 2 正解は「I went there.」。設問が過去の出来事を尋ねているため、過去形が適切です。 他の選択肢は次の通りです：「I went to that place」: 文脈と合わない表現； 「I have been there」: 文脈と合わない表現； 「I visited that place」: 文脈と合わない表現。"
   },
   {
     "section": "conversation",
@@ -42,7 +42,7 @@
       "Yes, I do"
     ],
     "answer": 3,
-    "explanation": "grade3-10-conversation-03: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 会話文 3 正解は「Yes, I do」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「I do」: 意味は近いが語法や時制が異なる； 「Yes, definitely」: 文脈と合わない表現； 「I do enjoy it」: 文脈と合わない表現。"
   },
   {
     "section": "conversation",
@@ -57,7 +57,7 @@
       "It was amazing"
     ],
     "answer": 3,
-    "explanation": "grade3-10-conversation-04: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 会話文 4 正解は「It was amazing」。設問が過去の出来事を尋ねているため、過去形が適切です。 他の選択肢は次の通りです：「There were many people」: 文脈と合わない表現； 「It was packed」: 文脈と合わない表現； 「It was too crowded」: 文脈と合わない表現。"
   },
   {
     "section": "conversation",
@@ -72,7 +72,7 @@
       "I do enjoy it"
     ],
     "answer": 1,
-    "explanation": "grade3-10-conversation-05: 会話文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 会話文 5 正解は「Yes, I went.」。設問が過去の出来事を尋ねているため、過去形が適切です。 他の選択肢は次の通りです：「I do」: 文脈と合わない表現； 「Yes, definitely」: 文脈と合わない表現； 「I do enjoy it」: 文脈と合わない表現。"
   },
   {
     "section": "listening1",
@@ -87,7 +87,7 @@
       "It was crowded."
     ],
     "answer": 3,
-    "explanation": "grade3-10-listening1-01: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第1部 (Miami) 1 正解は「It was crowded.」。設問が過去の出来事を尋ねているため、過去形が適切です。 他の選択肢は次の通りです：「There were many people」: 文脈と合わない表現； 「It was packed」: 文脈と合わない表現； 「It was too crowded」: 意味は近いが語法や時制が異なる。"
   },
   {
     "section": "listening1",
@@ -102,7 +102,7 @@
       "I visited that place"
     ],
     "answer": 1,
-    "explanation": "grade3-10-listening1-02: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第1部 (Toronto) 2 正解は「There were too many people.」。設問が過去の出来事を尋ねているため、過去形が適切です。 他の選択肢は次の通りです：「I went to that place」: 文脈と合わない表現； 「I have been there」: 文脈と合わない表現； 「I visited that place」: 文脈と合わない表現。"
   },
   {
     "section": "listening1",
@@ -117,7 +117,7 @@
       "I do enjoy it"
     ],
     "answer": 2,
-    "explanation": "grade3-10-listening1-03: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第1部 (Chicago) 3 正解は「Yes, probably.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「I do」: 文脈と合わない表現； 「Yes, definitely」: 文脈と合わない表現； 「I do enjoy it」: 文脈と合わない表現。"
   },
   {
     "section": "listening1",
@@ -132,7 +132,7 @@
       "No, I didn't"
     ],
     "answer": 0,
-    "explanation": "grade3-10-listening1-04: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第1部 (Sydney) 4 正解は「No, I didn't.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「I haven't」: 文脈と合わない表現； 「I did not」: 文脈と合わない表現； 「No, I didn't」: 表現の差だけで意味はほぼ同じ。"
   },
   {
     "section": "listening1",
@@ -147,7 +147,7 @@
       "I visited that place"
     ],
     "answer": 0,
-    "explanation": "grade3-10-listening1-05: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第1部 (Berlin) 5 正解は「I went there.」。設問が過去の出来事を尋ねているため、過去形が適切です。 他の選択肢は次の通りです：「I went to that place」: 文脈と合わない表現； 「I have been there」: 文脈と合わない表現； 「I visited that place」: 文脈と合わない表現。"
   },
   {
     "section": "listening1",
@@ -162,7 +162,7 @@
       "It was too crowded"
     ],
     "answer": 2,
-    "explanation": "grade3-10-listening1-06: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第1部 (Osaka) 6 正解は「It was crowded.」。設問が過去の出来事を尋ねているため、過去形が適切です。 他の選択肢は次の通りです：「There were many people」: 文脈と合わない表現； 「It was packed」: 文脈と合わない表現； 「It was too crowded」: 意味は近いが語法や時制が異なる。"
   },
   {
     "section": "listening1",
@@ -177,7 +177,7 @@
       "I am not sure"
     ],
     "answer": 1,
-    "explanation": "grade3-10-listening1-07: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第1部 (Beijing) 7 正解は「Probably yes.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "listening1",
@@ -192,7 +192,7 @@
       "I went there."
     ],
     "answer": 3,
-    "explanation": "grade3-10-listening1-08: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第1部 (Bangkok) 8 正解は「I went there.」。設問が過去の出来事を尋ねているため、過去形が適切です。 他の選択肢は次の通りです：「I went to that place」: 文脈と合わない表現； 「I have been there」: 文脈と合わない表現； 「I visited that place」: 文脈と合わない表現。"
   },
   {
     "section": "listening1",
@@ -207,7 +207,7 @@
       "I visited that place"
     ],
     "answer": 1,
-    "explanation": "grade3-10-listening1-09: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第1部 (Barcelona) 9 正解は「I went there.」。設問が過去の出来事を尋ねているため、過去形が適切です。 他の選択肢は次の通りです：「I went to that place」: 文脈と合わない表現； 「I have been there」: 文脈と合わない表現； 「I visited that place」: 文脈と合わない表現。"
   },
   {
     "section": "listening1",
@@ -222,7 +222,7 @@
       "No, I didn't"
     ],
     "answer": 0,
-    "explanation": "grade3-10-listening1-10: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第1部 (Delhi) 10 正解は「No, I didn't.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「I haven't」: 文脈と合わない表現； 「I did not」: 文脈と合わない表現； 「No, I didn't」: 表現の差だけで意味はほぼ同じ。"
   },
   {
     "section": "listening2",
@@ -237,7 +237,7 @@
       "I am not sure"
     ],
     "answer": 2,
-    "explanation": "grade3-10-listening2-01: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第2部 (Istanbul) 1 正解は「Sign up for the activity.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "listening2",
@@ -252,7 +252,7 @@
       "I am not sure"
     ],
     "answer": 1,
-    "explanation": "grade3-10-listening2-02: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第2部 (Moscow) 2 正解は「Ask her.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "listening2",
@@ -267,7 +267,7 @@
       "I plan to go"
     ],
     "answer": 1,
-    "explanation": "grade3-10-listening2-03: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第2部 (Dubai) 3 正解は「Go to the event.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「I might go」: 文脈と合わない表現； 「I am going to go」: 文脈と合わない表現； 「I plan to go」: 文脈と合わない表現。"
   },
   {
     "section": "listening2",
@@ -282,7 +282,7 @@
       "I am not sure"
     ],
     "answer": 2,
-    "explanation": "grade3-10-listening2-04: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第2部 (Madrid) 4 正解は「Ask the person.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "listening2",
@@ -297,7 +297,7 @@
       "I am not sure"
     ],
     "answer": 1,
-    "explanation": "grade3-10-listening2-05: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第2部 (London) 5 正解は「Sign up for the activity.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "listening2",
@@ -312,7 +312,7 @@
       "I am not sure"
     ],
     "answer": 2,
-    "explanation": "grade3-10-listening2-06: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第2部 (Kyoto) 6 正解は「Wait until Monday.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "listening2",
@@ -327,7 +327,7 @@
       "Go to the activity."
     ],
     "answer": 3,
-    "explanation": "grade3-10-listening2-07: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第2部 (New York) 7 正解は「Go to the activity.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「I might go」: 文脈と合わない表現； 「I am going to go」: 文脈と合わない表現； 「I plan to go」: 文脈と合わない表現。"
   },
   {
     "section": "listening2",
@@ -342,7 +342,7 @@
       "Ask the woman."
     ],
     "answer": 3,
-    "explanation": "grade3-10-listening2-08: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第2部 (Seoul) 8 正解は「Ask the woman.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "listening2",
@@ -357,7 +357,7 @@
       "Sign up for the activity."
     ],
     "answer": 3,
-    "explanation": "grade3-10-listening2-09: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第2部 (Tokyo) 9 正解は「Sign up for the activity.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "listening2",
@@ -372,7 +372,7 @@
       "Wait until Monday."
     ],
     "answer": 3,
-    "explanation": "grade3-10-listening2-10: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第2部 (Rome) 10 正解は「Wait until Monday.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "listening3",
@@ -387,7 +387,7 @@
       "At 11 AM."
     ],
     "answer": 3,
-    "explanation": "grade3-10-listening3-01: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第3部 (Miami) 1 正解は「At 11 AM.」。進行形や現在の状態を表す表現が適切です。 他の選択肢は次の通りです：「It seems great to me」: 文脈と合わない表現； 「I believe it is great」: 文脈と合わない表現； 「It appears to be great」: 文脈と合わない表現。"
   },
   {
     "section": "listening3",
@@ -402,7 +402,7 @@
       "At 11 AM."
     ],
     "answer": 3,
-    "explanation": "grade3-10-listening3-02: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第3部 (Toronto) 2 正解は「At 11 AM.」。進行形や現在の状態を表す表現が適切です。 他の選択肢は次の通りです：「It seems great to me」: 文脈と合わない表現； 「I believe it is great」: 文脈と合わない表現； 「It appears to be great」: 文脈と合わない表現。"
   },
   {
     "section": "listening3",
@@ -417,7 +417,7 @@
       "It appears to be great"
     ],
     "answer": 2,
-    "explanation": "grade3-10-listening3-03: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第3部 (Chicago) 3 正解は「At 10 AM.」。進行形や現在の状態を表す表現が適切です。 他の選択肢は次の通りです：「It seems great to me」: 文脈と合わない表現； 「I believe it is great」: 文脈と合わない表現； 「It appears to be great」: 文脈と合わない表現。"
   },
   {
     "section": "listening3",
@@ -432,7 +432,7 @@
       "Probably yes"
     ],
     "answer": 1,
-    "explanation": "grade3-10-listening3-04: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第3部 (Sydney) 4 正解は「In the afternoon.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「I believe so」: 文脈と合わない表現； 「I suppose so」: 文脈と合わない表現； 「Probably yes」: 文脈と合わない表現。"
   },
   {
     "section": "listening3",
@@ -447,7 +447,7 @@
       "Probably yes"
     ],
     "answer": 1,
-    "explanation": "grade3-10-listening3-05: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第3部 (Berlin) 5 正解は「In the afternoon.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「I believe so」: 文脈と合わない表現； 「I suppose so」: 文脈と合わない表現； 「Probably yes」: 文脈と合わない表現。"
   },
   {
     "section": "listening3",
@@ -462,7 +462,7 @@
       "It appears to be great"
     ],
     "answer": 1,
-    "explanation": "grade3-10-listening3-06: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第3部 (Osaka) 6 正解は「At 9 AM.」。進行形や現在の状態を表す表現が適切です。 他の選択肢は次の通りです：「It seems great to me」: 文脈と合わない表現； 「I believe it is great」: 文脈と合わない表現； 「It appears to be great」: 文脈と合わない表現。"
   },
   {
     "section": "listening3",
@@ -477,7 +477,7 @@
       "It appears to be great"
     ],
     "answer": 1,
-    "explanation": "grade3-10-listening3-07: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第3部 (Beijing) 7 正解は「At 10 AM.」。進行形や現在の状態を表す表現が適切です。 他の選択肢は次の通りです：「It seems great to me」: 文脈と合わない表現； 「I believe it is great」: 文脈と合わない表現； 「It appears to be great」: 文脈と合わない表現。"
   },
   {
     "section": "listening3",
@@ -492,7 +492,7 @@
       "At 11 AM."
     ],
     "answer": 3,
-    "explanation": "grade3-10-listening3-08: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第3部 (Bangkok) 8 正解は「At 11 AM.」。進行形や現在の状態を表す表現が適切です。 他の選択肢は次の通りです：「It seems great to me」: 文脈と合わない表現； 「I believe it is great」: 文脈と合わない表現； 「It appears to be great」: 文脈と合わない表現。"
   },
   {
     "section": "listening3",
@@ -507,7 +507,7 @@
       "In the afternoon."
     ],
     "answer": 3,
-    "explanation": "grade3-10-listening3-09: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第3部 (Barcelona) 9 正解は「In the afternoon.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「I believe so」: 文脈と合わない表現； 「I suppose so」: 文脈と合わない表現； 「Probably yes」: 文脈と合わない表現。"
   },
   {
     "section": "listening3",
@@ -522,7 +522,7 @@
       "It appears to be great"
     ],
     "answer": 2,
-    "explanation": "grade3-10-listening3-10: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 リスニング第3部 (Delhi) 10 正解は「At 11 AM.」。進行形や現在の状態を表す表現が適切です。 他の選択肢は次の通りです：「It seems great to me」: 文脈と合わない表現； 「I believe it is great」: 文脈と合わない表現； 「It appears to be great」: 文脈と合わない表現。"
   },
   {
     "section": "reading",
@@ -537,7 +537,7 @@
       "I am not sure"
     ],
     "answer": 0,
-    "explanation": "grade3-10-reading-01: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 読解 1 正解は「Because it helps build a strong community.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "reading",
@@ -552,7 +552,7 @@
       "I am not sure"
     ],
     "answer": 0,
-    "explanation": "grade3-10-reading-02: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 読解 2 正解は「Because they want to make money.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "reading",
@@ -567,7 +567,7 @@
       "I am not sure"
     ],
     "answer": 0,
-    "explanation": "grade3-10-reading-03: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 読解 3 正解は「Because they want to make money.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "reading",
@@ -582,7 +582,7 @@
       "Not sure"
     ],
     "answer": 0,
-    "explanation": "grade3-10-reading-04: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 読解 4 正解は「On weekdays.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「I have no idea」: 文脈と合わない表現； 「I cannot tell」: 文脈と合わない表現； 「Not sure」: 文脈と合わない表現。"
   },
   {
     "section": "reading",
@@ -597,7 +597,7 @@
       "Not sure"
     ],
     "answer": 2,
-    "explanation": "grade3-10-reading-05: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 読解 5 正解は「On weekends.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「I have no idea」: 文脈と合わない表現； 「I cannot tell」: 文脈と合わない表現； 「Not sure」: 文脈と合わない表現。"
   },
   {
     "section": "reading",
@@ -612,7 +612,7 @@
       "I am not sure"
     ],
     "answer": 0,
-    "explanation": "grade3-10-reading-06: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 読解 6 正解は「Every day.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "reading",
@@ -627,7 +627,7 @@
       "I am not sure"
     ],
     "answer": 1,
-    "explanation": "grade3-10-reading-07: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 読解 7 正解は「Every day.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "reading",
@@ -642,7 +642,7 @@
       "I am not sure"
     ],
     "answer": 0,
-    "explanation": "grade3-10-reading-08: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 読解 8 正解は「Only in summer.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "reading",
@@ -657,7 +657,7 @@
       "Not sure"
     ],
     "answer": 2,
-    "explanation": "grade3-10-reading-09: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 読解 9 正解は「On weekends.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「I have no idea」: 文脈と合わない表現； 「I cannot tell」: 文脈と合わない表現； 「Not sure」: 文脈と合わない表現。"
   },
   {
     "section": "reading",
@@ -672,7 +672,7 @@
       "Because no one joined the events."
     ],
     "answer": 3,
-    "explanation": "grade3-10-reading-10: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 読解 10 正解は「Because no one joined the events.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -687,7 +687,7 @@
       "I am not sure"
     ],
     "answer": 1,
-    "explanation": "grade3-10-vocabulary-01: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 1 正解は「talk」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -702,7 +702,7 @@
       "I am not sure"
     ],
     "answer": 1,
-    "explanation": "grade3-10-vocabulary-02: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 2 正解は「joins」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -717,7 +717,7 @@
       "I am not sure"
     ],
     "answer": 1,
-    "explanation": "grade3-10-vocabulary-03: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 3 正解は「seen」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -732,7 +732,7 @@
       "I am not sure"
     ],
     "answer": 0,
-    "explanation": "grade3-10-vocabulary-04: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 4 正解は「excitement」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -747,7 +747,7 @@
       "see"
     ],
     "answer": 3,
-    "explanation": "grade3-10-vocabulary-05: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 5 正解は「see」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -762,7 +762,7 @@
       "exciting"
     ],
     "answer": 3,
-    "explanation": "grade3-10-vocabulary-06: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 6 正解は「exciting」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -777,7 +777,7 @@
       "I am not sure"
     ],
     "answer": 1,
-    "explanation": "grade3-10-vocabulary-07: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 7 正解は「excited」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -792,7 +792,7 @@
       "I am not sure"
     ],
     "answer": 2,
-    "explanation": "grade3-10-vocabulary-08: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 8 正解は「join.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -807,7 +807,7 @@
       "I am not sure"
     ],
     "answer": 1,
-    "explanation": "grade3-10-vocabulary-09: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 9 正解は「started」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -822,7 +822,7 @@
       "I am not sure"
     ],
     "answer": 2,
-    "explanation": "grade3-10-vocabulary-10: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 10 正解は「starting」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -837,7 +837,7 @@
       "I am not sure"
     ],
     "answer": 0,
-    "explanation": "grade3-10-vocabulary-11: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 11 正解は「joining」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -852,7 +852,7 @@
       "I am not sure"
     ],
     "answer": 0,
-    "explanation": "grade3-10-vocabulary-12: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 12 正解は「starts」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -867,7 +867,7 @@
       "I am not sure"
     ],
     "answer": 1,
-    "explanation": "grade3-10-vocabulary-13: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 13 正解は「talk.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -882,7 +882,7 @@
       "I am not sure"
     ],
     "answer": 0,
-    "explanation": "grade3-10-vocabulary-14: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 14 正解は「excitement.」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "vocabulary",
@@ -897,7 +897,7 @@
       "excited"
     ],
     "answer": 3,
-    "explanation": "grade3-10-vocabulary-15: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 語彙・文法 15 正解は「excited」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "writing_email",
@@ -912,7 +912,7 @@
       "I am not sure"
     ],
     "answer": 2,
-    "explanation": "grade3-10-writing_email-01: Eメールの問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 Eメール 1 正解は「テーマから外れた無関係な解答」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   },
   {
     "section": "writing_essay",
@@ -927,6 +927,6 @@
       "テーマから外れた無関係な解答"
     ],
     "answer": 3,
-    "explanation": "grade3-10-writing_essay-01: 英作文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
+    "explanation": "3級 模擬テスト10 英作文 1 正解は「テーマから外れた無関係な解答」。文脈に最も自然な表現です。 他の選択肢は次の通りです：「Yes, of course」: 文脈と合わない表現； 「Not really」: 文脈と合わない表現； 「I am not sure」: 文脈と合わない表現。"
   }
 ]
