@@ -299,7 +299,6 @@ async function prepareTest() {
     // パス候補を順番に試す（Live Server起動ディレクトリの違いに対応）
     const pathCandidates = [
       `data/${state.grade}/test_${state.testNumber}.json`,
-      `src/data/${state.grade}/test_${state.testNumber}.json`,
     ];
     let response = null;
     for (const path of pathCandidates) {
