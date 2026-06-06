@@ -602,7 +602,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト8 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Rachel more about the new technology? It costs $117.\n[Mock 8-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Rachel more about the new technology? It costs $117.\n[Mock 8-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -617,7 +617,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト8 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Oliver more about the public transportation? It costs $124.\n[Mock 8-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Oliver more about the public transportation? It costs $124.\n[Mock 8-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -662,7 +662,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト8 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 145 students in Osaka are interested in (      ) coding classes.\n[Mock 8-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 145 students from Osaka said they were interested in (      ) coding classes.\n[Mock 8-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト8 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 159 students in Kyoto are interested in (      ) sports events.\n[Mock 8-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 159 students from Kyoto said they were interested in (      ) sports events.\n[Mock 8-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -722,7 +722,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト8 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Nancy more about the community libraries? It costs $173.\n[Mock 8-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Nancy more about the community libraries? It costs $173.\n[Mock 8-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト8 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 180 students in Tokyo are interested in (      ) school club activities.\n[Mock 8-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 180 students from Tokyo said they were interested in (      ) school club activities.\n[Mock 8-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト8 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 229 students in Berlin are interested in (      ) recycling programs.\n[Mock 8-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 229 students in Berlin liked (      ) recycling programs.\n[Mock 8-17]",
     "passage": "",
     "audioText": "",
     "choices": [

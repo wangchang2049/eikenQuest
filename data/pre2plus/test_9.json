@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト9 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Judy more about the public transportation? It costs $429.\n[Mock 9-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Judy more about the public transportation? It costs $429.\n[Mock 9-17]",
     "passage": "",
     "audioText": "",
     "choices": [

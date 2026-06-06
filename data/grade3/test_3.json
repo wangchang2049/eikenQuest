@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト3 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Oliver more about the part-time jobs? It costs $124.\n[Mock 3-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nDo people know how to (      ) Oliver more about the part-time jobs? It costs $124.\n[Mock 3-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト3 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 145 students in Tokyo are interested in (      ) drama performances.\n[Mock 3-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 145 students in Tokyo liked (      ) drama performances.\n[Mock 3-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト3 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 180 students in Sydney are interested in (      ) health campaigns.\n[Mock 3-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 180 students in Sydney showed interest in (      ) health campaigns.\n[Mock 3-10]",
     "passage": "",
     "audioText": "",
     "choices": [

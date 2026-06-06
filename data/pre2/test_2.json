@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト2 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 431 students in New York are interested in (      ) job opportunities.\n[Mock 2-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 431 students in New York showed interest in (      ) job opportunities.\n[Mock 2-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト2 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 473 students in Chicago are interested in (      ) school club activities.\n[Mock 2-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 473 students from Chicago said they were interested in (      ) school club activities.\n[Mock 2-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト2 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 480 students in Sydney are interested in (      ) community events.\n[Mock 2-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 480 students in Sydney showed interest in (      ) community events.\n[Mock 2-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト2 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Heidi more about the wildlife conservation? It costs $487.\n[Mock 2-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Heidi more about the wildlife conservation? It costs $487.\n[Mock 2-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト2 語彙・文法 12",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 494 students in Berlin are interested in (      ) smartphone apps.\n[Mock 2-12]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 494 students in Berlin were interested in (      ) smartphone apps.\n[Mock 2-12]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト2 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Bob more about the volunteer work? It costs $501.\n[Mock 2-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Bob more about the volunteer work? It costs $501.\n[Mock 2-13]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト2 語彙・文法 15",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 15 students in Osaka are interested in (      ) farmers markets.\n[Mock 2-15]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Osaka, over 15 students expressed interest in (      ) farmers markets.\n[Mock 2-15]",
     "passage": "",
     "audioText": "",
     "choices": [

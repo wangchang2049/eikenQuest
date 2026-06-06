@@ -722,7 +722,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト1 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Frank more about the science museums? It costs $245.\n[Mock 1-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Frank more about the science museums? It costs $245.\n[Mock 1-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト1 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Quincy more about the new technology? It costs $266.\n[Mock 1-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Quincy more about the new technology? It costs $266.\n[Mock 1-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト1 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 301 students in New York are interested in (      ) smartphone apps.\n[Mock 1-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 301 students from New York said they were interested in (      ) smartphone apps.\n[Mock 1-13]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト1 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Sam more about the volunteer work? It costs $308.\n[Mock 1-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Sam more about the volunteer work? It costs $308.\n[Mock 1-14]",
     "passage": "",
     "audioText": "",
     "choices": [

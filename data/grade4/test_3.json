@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト3 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Lisa more about the science museums? It costs $131.\n[Mock 3-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you know how to (      ) Lisa more about the science museums? It costs $131.\n[Mock 3-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト3 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 152 students in Seattle are interested in (      ) music concerts.\n[Mock 3-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 152 students from Seattle said they were interested in (      ) music concerts.\n[Mock 3-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト3 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ken more about the wildlife conservation? It costs $180.\n[Mock 3-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Ken more about the wildlife conservation? It costs $180.\n[Mock 3-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト3 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 187 students in London are interested in (      ) exchange programs.\n[Mock 3-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 187 students in London were interested in (      ) exchange programs.\n[Mock 3-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -947,7 +947,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト3 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 208 students in Seoul are interested in (      ) food festivals.\n[Mock 3-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 208 students in Seoul were interested in (      ) food festivals.\n[Mock 3-14]",
     "passage": "",
     "audioText": "",
     "choices": [

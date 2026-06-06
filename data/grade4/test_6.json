@@ -752,7 +752,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト6 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 217 students in Rome are interested in (      ) music concerts.\n[Mock 6-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 217 students from Rome said they were interested in (      ) music concerts.\n[Mock 6-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト6 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Lisa more about the new technology? It costs $231.\n[Mock 6-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Lisa more about the new technology? It costs $231.\n[Mock 6-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト6 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ivan more about the public transportation? It costs $238.\n[Mock 6-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Ivan more about the public transportation? It costs $238.\n[Mock 6-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト6 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 245 students in Sydney are interested in (      ) food festivals.\n[Mock 6-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 245 students in Sydney liked (      ) food festivals.\n[Mock 6-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト6 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 273 students in Paris are interested in (      ) local festivals.\n[Mock 6-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 273 students in Paris showed interest in (      ) local festivals.\n[Mock 6-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -932,7 +932,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト6 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Bob more about the local festivals? It costs $301.\n[Mock 6-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Bob more about the local festivals? It costs $301.\n[Mock 6-13]",
     "passage": "",
     "audioText": "",
     "choices": [

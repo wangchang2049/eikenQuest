@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト2 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 438 students in Paris are interested in (      ) food festivals.\n[Mock 2-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 438 students in Paris liked (      ) food festivals.\n[Mock 2-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト2 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 445 students in Osaka are interested in (      ) exchange programs.\n[Mock 2-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 445 students in Osaka liked (      ) exchange programs.\n[Mock 2-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト2 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 452 students in London are interested in (      ) volunteer activities.\n[Mock 2-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 452 students from London said they were interested in (      ) volunteer activities.\n[Mock 2-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -917,7 +917,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト2 語彙・文法 12",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Eve more about the smartphone apps? It costs $494.\n[Mock 2-12]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nDo they know how to (      ) Eve more about the smartphone apps? It costs $494.\n[Mock 2-12]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -932,7 +932,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト2 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Bob more about the volunteer work? It costs $501.\n[Mock 2-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Bob more about the volunteer work? It costs $501.\n[Mock 2-13]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -962,7 +962,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト2 語彙・文法 15",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Paul more about the community libraries? It costs $15.\n[Mock 2-15]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Paul more about the community libraries? It costs $15.\n[Mock 2-15]",
     "passage": "",
     "audioText": "",
     "choices": [

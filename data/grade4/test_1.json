@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト1 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Oliver more about the local festivals? It costs $224.\n[Mock 1-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Oliver more about the local festivals? It costs $224.\n[Mock 1-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト1 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Lisa more about the environmental projects? It costs $231.\n[Mock 1-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nDo they know how to (      ) Lisa more about the environmental projects? It costs $231.\n[Mock 1-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト1 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 238 students in Seoul are interested in (      ) volunteer activities.\n[Mock 1-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 238 students in Seoul were interested in (      ) volunteer activities.\n[Mock 1-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -947,7 +947,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト1 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 308 students in Paris are interested in (      ) smartphone apps.\n[Mock 1-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Paris, over 308 students expressed interest in (      ) smartphone apps.\n[Mock 1-14]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -962,7 +962,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト1 語彙・文法 15",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 315 students in Osaka are interested in (      ) local festivals.\n[Mock 1-15]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 315 students in Osaka liked (      ) local festivals.\n[Mock 1-15]",
     "passage": "",
     "audioText": "",
     "choices": [

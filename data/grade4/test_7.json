@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト7 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Tom more about the smartphone apps? It costs $459.\n[Mock 7-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Tom more about the smartphone apps? It costs $459.\n[Mock 7-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト7 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Heidi more about the online lessons? It costs $487.\n[Mock 7-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Heidi more about the online lessons? It costs $487.\n[Mock 7-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -932,7 +932,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト7 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 501 students in Boston are interested in (      ) environmental projects.\n[Mock 7-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 501 students from Boston said they were interested in (      ) environmental projects.\n[Mock 7-13]",
     "passage": "",
     "audioText": "",
     "choices": [

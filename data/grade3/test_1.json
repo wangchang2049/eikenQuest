@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 217 students in Seattle are interested in (      ) school library programs.\n[Mock 1-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 217 students in Seattle showed interest in (      ) school library programs.\n[Mock 1-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 224 students in Berlin are interested in (      ) robotics clubs.\n[Mock 1-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 224 students in Berlin were interested in (      ) robotics clubs.\n[Mock 1-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -707,7 +707,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 231 students in Boston are interested in (      ) environmental issues.\n[Mock 1-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 231 students in Boston showed interest in (      ) environmental issues.\n[Mock 1-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -752,7 +752,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 252 students in London are interested in (      ) community events.\n[Mock 1-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 252 students from London said they were interested in (      ) community events.\n[Mock 1-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Quincy more about the new technology? It costs $266.\n[Mock 1-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Quincy more about the new technology? It costs $266.\n[Mock 1-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Nancy more about the public transportation? It costs $273.\n[Mock 1-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Nancy more about the public transportation? It costs $273.\n[Mock 1-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ken more about the space exploration? It costs $280.\n[Mock 1-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you know how to (      ) Ken more about the space exploration? It costs $280.\n[Mock 1-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Heidi more about the historical monuments? It costs $287.\n[Mock 1-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Heidi more about the historical monuments? It costs $287.\n[Mock 1-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 12",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Eve more about the wildlife conservation? It costs $294.\n[Mock 1-12]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Eve more about the wildlife conservation? It costs $294.\n[Mock 1-12]",
     "passage": "",
     "audioText": "",
     "choices": [

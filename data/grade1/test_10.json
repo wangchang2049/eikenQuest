@@ -617,7 +617,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト10 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 24 students in Kyoto are interested in (      ) art workshops.\n[Mock 10-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Kyoto, over 24 students expressed interest in (      ) art workshops.\n[Mock 10-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -632,7 +632,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト10 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Lisa more about the wildlife conservation? It costs $31.\n[Mock 10-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Lisa more about the wildlife conservation? It costs $31.\n[Mock 10-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -647,7 +647,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト10 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ivan more about the smartphone apps? It costs $38.\n[Mock 10-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Ivan more about the smartphone apps? It costs $38.\n[Mock 10-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -662,7 +662,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト10 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 45 students in Tokyo are interested in (      ) sports events.\n[Mock 10-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Tokyo, over 45 students expressed interest in (      ) sports events.\n[Mock 10-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト10 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 52 students in Rome are interested in (      ) language classes.\n[Mock 10-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 52 students in Rome were interested in (      ) language classes.\n[Mock 10-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト10 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Tom more about the community libraries? It costs $59.\n[Mock 10-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Tom more about the community libraries? It costs $59.\n[Mock 10-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト10 語彙・文法 12",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Eve more about the science museums? It costs $94.\n[Mock 10-12]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Eve more about the science museums? It costs $94.\n[Mock 10-12]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト10 語彙・文法 15",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Paul more about the new technology? It costs $115.\n[Mock 10-15]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Paul more about the new technology? It costs $115.\n[Mock 10-15]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト10 語彙・文法 20",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Alice more about the smartphone apps? It costs $150.\n[Mock 10-20]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Alice more about the smartphone apps? It costs $150.\n[Mock 10-20]",
     "passage": "",
     "audioText": "",
     "choices": [

@@ -632,7 +632,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト5 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Lisa more about the healthy meals? It costs $31.\n[Mock 5-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Lisa more about the healthy meals? It costs $31.\n[Mock 5-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト5 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Bob more about the online lessons? It costs $101.\n[Mock 5-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Bob more about the online lessons? It costs $101.\n[Mock 5-13]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト5 語彙・文法 16",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Mike more about the part-time jobs? It costs $122.\n[Mock 5-16]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you know how to (      ) Mike more about the part-time jobs? It costs $122.\n[Mock 5-16]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト5 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 129 students in Berlin are interested in (      ) career counseling.\n[Mock 5-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 129 students from Berlin said they were interested in (      ) career counseling.\n[Mock 5-17]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト5 語彙・文法 20",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Alice more about the new technology? It costs $150.\n[Mock 5-20]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Alice more about the new technology? It costs $150.\n[Mock 5-20]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト5 語彙・文法 21",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 157 students in London are interested in (      ) science fairs.\n[Mock 5-21]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 157 students in London showed interest in (      ) science fairs.\n[Mock 5-21]",
     "passage": "",
     "audioText": "",
     "choices": [

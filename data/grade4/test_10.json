@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト10 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 24 students in Kyoto are interested in (      ) environmental issues.\n[Mock 10-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Kyoto, over 24 students expressed interest in (      ) environmental issues.\n[Mock 10-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト10 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 45 students in Tokyo are interested in (      ) job opportunities.\n[Mock 10-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 45 students in Tokyo liked (      ) job opportunities.\n[Mock 10-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト10 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Charlie more about the school club activities? It costs $52.\n[Mock 10-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Charlie more about the school club activities? It costs $52.\n[Mock 10-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト10 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Tom more about the community libraries? It costs $59.\n[Mock 10-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Tom more about the community libraries? It costs $59.\n[Mock 10-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト10 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 66 students in Toronto are interested in (      ) online lessons.\n[Mock 10-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 66 students in Toronto showed interest in (      ) online lessons.\n[Mock 10-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト10 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ken more about the environmental projects? It costs $80.\n[Mock 10-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Ken more about the environmental projects? It costs $80.\n[Mock 10-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト10 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 87 students in Seattle are interested in (      ) science fairs.\n[Mock 10-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 87 students in Seattle liked (      ) science fairs.\n[Mock 10-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -947,7 +947,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト10 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 108 students in Paris are interested in (      ) transportation services.\n[Mock 10-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 108 students from Paris said they were interested in (      ) transportation services.\n[Mock 10-14]",
     "passage": "",
     "audioText": "",
     "choices": [

@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト4 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Oliver more about the science museums? It costs $324.\n[Mock 4-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nDo they know how to (      ) Oliver more about the science museums? It costs $324.\n[Mock 4-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -722,7 +722,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト4 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 345 students in Osaka are interested in (      ) language classes.\n[Mock 4-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 345 students in Osaka were interested in (      ) language classes.\n[Mock 4-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -752,7 +752,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト4 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Tom more about the space exploration? It costs $359.\n[Mock 4-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Tom more about the space exploration? It costs $359.\n[Mock 4-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト4 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 373 students in Seoul are interested in (      ) health campaigns.\n[Mock 4-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 373 students in Seoul were interested in (      ) health campaigns.\n[Mock 4-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト4 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Heidi more about the volunteer work? It costs $387.\n[Mock 4-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Heidi more about the volunteer work? It costs $387.\n[Mock 4-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト4 語彙・文法 15",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Paul more about the local festivals? It costs $415.\n[Mock 4-15]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Paul more about the local festivals? It costs $415.\n[Mock 4-15]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト4 語彙・文法 16",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Mike more about the environmental projects? It costs $422.\n[Mock 4-16]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nDo people know how to (      ) Mike more about the environmental projects? It costs $422.\n[Mock 4-16]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト4 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 429 students in Berlin are interested in (      ) sports events.\n[Mock 4-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 429 students from Berlin said they were interested in (      ) sports events.\n[Mock 4-17]",
     "passage": "",
     "audioText": "",
     "choices": [

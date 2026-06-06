@@ -632,7 +632,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト7 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Rachel more about the healthy meals? It costs $417.\n[Mock 7-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Rachel more about the healthy meals? It costs $417.\n[Mock 7-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -647,7 +647,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト7 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 424 students in Miami are interested in (      ) food festivals.\n[Mock 7-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Miami, over 424 students expressed interest in (      ) food festivals.\n[Mock 7-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト7 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ivan more about the space exploration? It costs $438.\n[Mock 7-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Ivan more about the space exploration? It costs $438.\n[Mock 7-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト7 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Frank more about the historical monuments? It costs $445.\n[Mock 7-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Frank more about the historical monuments? It costs $445.\n[Mock 7-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -707,7 +707,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト7 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 452 students in Seattle are interested in (      ) farmers markets.\n[Mock 7-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Seattle, over 452 students expressed interest in (      ) farmers markets.\n[Mock 7-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -722,7 +722,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト7 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Tom more about the smartphone apps? It costs $459.\n[Mock 7-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Tom more about the smartphone apps? It costs $459.\n[Mock 7-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト7 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 480 students in Osaka are interested in (      ) school library programs.\n[Mock 7-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Osaka, over 480 students expressed interest in (      ) school library programs.\n[Mock 7-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト7 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 501 students in New York are interested in (      ) transportation services.\n[Mock 7-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn New York, over 501 students expressed interest in (      ) transportation services.\n[Mock 7-13]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト7 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 508 students in Seoul are interested in (      ) school club activities.\n[Mock 7-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 508 students in Seoul liked (      ) school club activities.\n[Mock 7-14]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト7 語彙・文法 16",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 22 students in Rome are interested in (      ) community events.\n[Mock 7-16]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 22 students in Rome were interested in (      ) community events.\n[Mock 7-16]",
     "passage": "",
     "audioText": "",
     "choices": [

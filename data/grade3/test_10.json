@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト10 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Rachel more about the space exploration? It costs $17.\n[Mock 10-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Rachel more about the space exploration? It costs $17.\n[Mock 10-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト10 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 24 students in Berlin are interested in (      ) community events.\n[Mock 10-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 24 students from Berlin said they were interested in (      ) community events.\n[Mock 10-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト10 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 66 students in New York are interested in (      ) career counseling.\n[Mock 10-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 66 students in New York were interested in (      ) career counseling.\n[Mock 10-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト10 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 87 students in Rome are interested in (      ) job opportunities.\n[Mock 10-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 87 students in Rome were interested in (      ) job opportunities.\n[Mock 10-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト10 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Bob more about the travel planning? It costs $101.\n[Mock 10-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Bob more about the travel planning? It costs $101.\n[Mock 10-13]",
     "passage": "",
     "audioText": "",
     "choices": [

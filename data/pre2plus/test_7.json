@@ -707,7 +707,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト7 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ivan more about the space exploration? It costs $438.\n[Mock 7-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Ivan more about the space exploration? It costs $438.\n[Mock 7-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト7 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 452 students in Rome are interested in (      ) language classes.\n[Mock 7-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 452 students in Rome were interested in (      ) language classes.\n[Mock 7-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト7 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 466 students in Toronto are interested in (      ) exchange programs.\n[Mock 7-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Toronto, over 466 students expressed interest in (      ) exchange programs.\n[Mock 7-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト7 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Heidi more about the online lessons? It costs $487.\n[Mock 7-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nDo they know how to (      ) Heidi more about the online lessons? It costs $487.\n[Mock 7-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト7 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Sam more about the part-time jobs? It costs $508.\n[Mock 7-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Sam more about the part-time jobs? It costs $508.\n[Mock 7-14]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト7 語彙・文法 16",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 22 students in London are interested in (      ) volunteer activities.\n[Mock 7-16]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn London, over 22 students expressed interest in (      ) volunteer activities.\n[Mock 7-16]",
     "passage": "",
     "audioText": "",
     "choices": [

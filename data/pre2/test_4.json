@@ -662,7 +662,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト4 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Rachel more about the part-time jobs? It costs $317.\n[Mock 4-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Rachel more about the part-time jobs? It costs $317.\n[Mock 4-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト4 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 331 students in Toronto are interested in (      ) school club activities.\n[Mock 4-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 331 students in Toronto liked (      ) school club activities.\n[Mock 4-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト4 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Charlie more about the public transportation? It costs $352.\n[Mock 4-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Charlie more about the public transportation? It costs $352.\n[Mock 4-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -752,7 +752,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト4 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Tom more about the space exploration? It costs $359.\n[Mock 4-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Tom more about the space exploration? It costs $359.\n[Mock 4-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト4 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 373 students in Paris are interested in (      ) transportation services.\n[Mock 4-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 373 students in Paris liked (      ) transportation services.\n[Mock 4-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト4 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Sam more about the online lessons? It costs $408.\n[Mock 4-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Sam more about the online lessons? It costs $408.\n[Mock 4-14]",
     "passage": "",
     "audioText": "",
     "choices": [

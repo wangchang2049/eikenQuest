@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト7 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 424 students in Berlin are interested in (      ) local festivals.\n[Mock 7-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 424 students in Berlin were interested in (      ) local festivals.\n[Mock 7-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -722,7 +722,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト7 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 445 students in Osaka are interested in (      ) study abroad programs.\n[Mock 7-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 445 students in Osaka showed interest in (      ) study abroad programs.\n[Mock 7-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト7 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 473 students in Seoul are interested in (      ) school club activities.\n[Mock 7-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 473 students in Seoul were interested in (      ) school club activities.\n[Mock 7-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト7 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Sam more about the part-time jobs? It costs $508.\n[Mock 7-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Sam more about the part-time jobs? It costs $508.\n[Mock 7-14]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト7 語彙・文法 16",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 22 students in Seattle are interested in (      ) exchange programs.\n[Mock 7-16]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 22 students from Seattle said they were interested in (      ) exchange programs.\n[Mock 7-16]",
     "passage": "",
     "audioText": "",
     "choices": [

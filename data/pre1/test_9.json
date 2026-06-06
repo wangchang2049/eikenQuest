@@ -647,7 +647,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト9 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Oliver more about the space exploration? It costs $324.\n[Mock 9-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIs it true that you ever know how to (      ) Oliver more about the space exploration? It costs $324.\n[Mock 9-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト9 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ivan more about the wildlife conservation? It costs $338.\n[Mock 9-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWere you able to ever know how to (      ) Ivan more about the wildlife conservation? It costs $338.\n[Mock 9-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -722,7 +722,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト9 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Tom more about the school club activities? It costs $359.\n[Mock 9-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Tom more about the school club activities? It costs $359.\n[Mock 9-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -752,7 +752,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト9 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Nancy more about the online lessons? It costs $373.\n[Mock 9-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIs it true that you ever know how to (      ) Nancy more about the online lessons? It costs $373.\n[Mock 9-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト9 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 380 students in Tokyo are interested in (      ) robotics clubs.\n[Mock 9-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Tokyo, over 380 students expressed interest in (      ) robotics clubs.\n[Mock 9-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト9 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Heidi more about the environmental projects? It costs $387.\n[Mock 9-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Heidi more about the environmental projects? It costs $387.\n[Mock 9-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト9 語彙・文法 12",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Eve more about the part-time jobs? It costs $394.\n[Mock 9-12]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nDo people know how to (      ) Eve more about the part-time jobs? It costs $394.\n[Mock 9-12]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト9 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 408 students in Chicago are interested in (      ) art workshops.\n[Mock 9-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 408 students in Chicago showed interest in (      ) art workshops.\n[Mock 9-14]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト9 語彙・文法 16",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 422 students in Seattle are interested in (      ) health campaigns.\n[Mock 9-16]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 422 students in Seattle were interested in (      ) health campaigns.\n[Mock 9-16]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト9 語彙・文法 18",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 436 students in Boston are interested in (      ) music concerts.\n[Mock 9-18]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 436 students in Boston showed interest in (      ) music concerts.\n[Mock 9-18]",
     "passage": "",
     "audioText": "",
     "choices": [

@@ -632,7 +632,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト8 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 117 students in London are interested in (      ) new technology.\n[Mock 8-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 117 students in London were interested in (      ) new technology.\n[Mock 8-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -662,7 +662,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト8 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Lisa more about the space exploration? It costs $131.\n[Mock 8-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Lisa more about the space exploration? It costs $131.\n[Mock 8-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト8 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ivan more about the historical monuments? It costs $138.\n[Mock 8-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Ivan more about the historical monuments? It costs $138.\n[Mock 8-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -707,7 +707,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト8 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Charlie more about the smartphone apps? It costs $152.\n[Mock 8-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Charlie more about the smartphone apps? It costs $152.\n[Mock 8-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -722,7 +722,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト8 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Tom more about the volunteer work? It costs $159.\n[Mock 8-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Tom more about the volunteer work? It costs $159.\n[Mock 8-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト8 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Quincy more about the school club activities? It costs $166.\n[Mock 8-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Quincy more about the school club activities? It costs $166.\n[Mock 8-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト8 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ken more about the online lessons? It costs $180.\n[Mock 8-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you know how to (      ) Ken more about the online lessons? It costs $180.\n[Mock 8-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト8 語彙・文法 16",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Mike more about the healthy meals? It costs $222.\n[Mock 8-16]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Mike more about the healthy meals? It costs $222.\n[Mock 8-16]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト8 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Judy more about the new technology? It costs $229.\n[Mock 8-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you know how to (      ) Judy more about the new technology? It costs $229.\n[Mock 8-17]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト8 語彙・文法 18",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Grace more about the public transportation? It costs $236.\n[Mock 8-18]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Grace more about the public transportation? It costs $236.\n[Mock 8-18]",
     "passage": "",
     "audioText": "",
     "choices": [

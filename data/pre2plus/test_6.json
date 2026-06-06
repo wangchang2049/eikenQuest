@@ -752,7 +752,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト6 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Tom more about the wildlife conservation? It costs $259.\n[Mock 6-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Tom more about the wildlife conservation? It costs $259.\n[Mock 6-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト6 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 273 students in Paris are interested in (      ) environmental issues.\n[Mock 6-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 273 students in Paris liked (      ) environmental issues.\n[Mock 6-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト6 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 308 students in Seoul are interested in (      ) food festivals.\n[Mock 6-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 308 students from Seoul said they were interested in (      ) food festivals.\n[Mock 6-14]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト6 語彙・文法 15",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Paul more about the part-time jobs? It costs $315.\n[Mock 6-15]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you know how to (      ) Paul more about the part-time jobs? It costs $315.\n[Mock 6-15]",
     "passage": "",
     "audioText": "",
     "choices": [

@@ -707,7 +707,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト6 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 238 students in Seoul are interested in (      ) robotics clubs.\n[Mock 6-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 238 students in Seoul showed interest in (      ) robotics clubs.\n[Mock 6-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -752,7 +752,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト6 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 259 students in Miami are interested in (      ) job opportunities.\n[Mock 6-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 259 students in Miami showed interest in (      ) job opportunities.\n[Mock 6-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト6 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Heidi more about the community libraries? It costs $287.\n[Mock 6-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Heidi more about the community libraries? It costs $287.\n[Mock 6-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト6 語彙・文法 12",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 294 students in Berlin are interested in (      ) school club activities.\n[Mock 6-12]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 294 students in Berlin liked (      ) school club activities.\n[Mock 6-12]",
     "passage": "",
     "audioText": "",
     "choices": [

@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト6 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Oliver more about the healthy meals? It costs $224.\n[Mock 6-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Oliver more about the healthy meals? It costs $224.\n[Mock 6-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -707,7 +707,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト6 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ivan more about the public transportation? It costs $238.\n[Mock 6-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you know how to (      ) Ivan more about the public transportation? It costs $238.\n[Mock 6-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト6 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 252 students in London are interested in (      ) science fairs.\n[Mock 6-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn London, over 252 students expressed interest in (      ) science fairs.\n[Mock 6-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト6 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 266 students in New York are interested in (      ) volunteer activities.\n[Mock 6-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn New York, over 266 students expressed interest in (      ) volunteer activities.\n[Mock 6-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト6 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ken more about the school club activities? It costs $280.\n[Mock 6-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nDo they know how to (      ) Ken more about the school club activities? It costs $280.\n[Mock 6-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト6 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Heidi more about the community libraries? It costs $287.\n[Mock 6-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Heidi more about the community libraries? It costs $287.\n[Mock 6-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト6 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 308 students in Chicago are interested in (      ) online lessons.\n[Mock 6-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Chicago, over 308 students expressed interest in (      ) online lessons.\n[Mock 6-14]",
     "passage": "",
     "audioText": "",
     "choices": [

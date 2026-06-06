@@ -602,7 +602,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト7 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Rachel more about the healthy meals? It costs $417.\n[Mock 7-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nDo they know how to (      ) Rachel more about the healthy meals? It costs $417.\n[Mock 7-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -632,7 +632,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト7 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 431 students in New York are interested in (      ) drama performances.\n[Mock 7-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 431 students in New York liked (      ) drama performances.\n[Mock 7-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -647,7 +647,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト7 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ivan more about the space exploration? It costs $438.\n[Mock 7-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Ivan more about the space exploration? It costs $438.\n[Mock 7-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -662,7 +662,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト7 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Frank more about the historical monuments? It costs $445.\n[Mock 7-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nDo people know how to (      ) Frank more about the historical monuments? It costs $445.\n[Mock 7-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト7 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Bob more about the environmental projects? It costs $501.\n[Mock 7-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Bob more about the environmental projects? It costs $501.\n[Mock 7-13]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト7 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 29 students in Kyoto are interested in (      ) health campaigns.\n[Mock 7-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 29 students in Kyoto liked (      ) health campaigns.\n[Mock 7-17]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト7 語彙・文法 18",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 36 students in New York are interested in (      ) smartphone apps.\n[Mock 7-18]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 36 students in New York liked (      ) smartphone apps.\n[Mock 7-18]",
     "passage": "",
     "audioText": "",
     "choices": [

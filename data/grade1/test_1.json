@@ -602,7 +602,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト1 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 217 students in London are interested in (      ) recycling programs.\n[Mock 1-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nMore than 217 students in London showed interest in (      ) recycling programs.\n[Mock 1-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -647,7 +647,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト1 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ivan more about the part-time jobs? It costs $238.\n[Mock 1-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Ivan more about the part-time jobs? It costs $238.\n[Mock 1-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト1 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Charlie more about the travel planning? It costs $252.\n[Mock 1-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Charlie more about the travel planning? It costs $252.\n[Mock 1-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト1 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Tom more about the healthy meals? It costs $259.\n[Mock 1-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nDo people know how to (      ) Tom more about the healthy meals? It costs $259.\n[Mock 1-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト1 語彙・文法 12",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 294 students in Berlin are interested in (      ) environmental issues.\n[Mock 1-12]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 294 students from Berlin said they were interested in (      ) environmental issues.\n[Mock 1-12]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト1 語彙・文法 15",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 315 students in Osaka are interested in (      ) sports events.\n[Mock 1-15]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Osaka, over 315 students expressed interest in (      ) sports events.\n[Mock 1-15]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト1 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 329 students in Kyoto are interested in (      ) job opportunities.\n[Mock 1-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 329 students in Kyoto liked (      ) job opportunities.\n[Mock 1-17]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト1 語彙・文法 20",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Alice more about the part-time jobs? It costs $350.\n[Mock 1-20]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Alice more about the part-time jobs? It costs $350.\n[Mock 1-20]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト1 語彙・文法 21",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Rachel more about the science museums? It costs $357.\n[Mock 1-21]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Rachel more about the science museums? It costs $357.\n[Mock 1-21]",
     "passage": "",
     "audioText": "",
     "choices": [

@@ -752,7 +752,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト8 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 117 students in Seattle are interested in (      ) science fairs.\n[Mock 8-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 117 students in Seattle were interested in (      ) science fairs.\n[Mock 8-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト8 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 131 students in Boston are interested in (      ) community events.\n[Mock 8-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 131 students in Boston were interested in (      ) community events.\n[Mock 8-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト8 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 145 students in Osaka are interested in (      ) school library programs.\n[Mock 8-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 145 students from Osaka said they were interested in (      ) school library programs.\n[Mock 8-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト8 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 159 students in Kyoto are interested in (      ) job opportunities.\n[Mock 8-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Kyoto, over 159 students expressed interest in (      ) job opportunities.\n[Mock 8-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト8 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Quincy more about the school club activities? It costs $166.\n[Mock 8-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Quincy more about the school club activities? It costs $166.\n[Mock 8-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト8 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Nancy more about the community libraries? It costs $173.\n[Mock 8-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Nancy more about the community libraries? It costs $173.\n[Mock 8-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -932,7 +932,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト8 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Bob more about the part-time jobs? It costs $201.\n[Mock 8-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Bob more about the part-time jobs? It costs $201.\n[Mock 8-13]",
     "passage": "",
     "audioText": "",
     "choices": [

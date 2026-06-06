@@ -707,7 +707,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト8 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 131 students in Toronto are interested in (      ) sports events.\n[Mock 8-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Toronto, over 131 students expressed interest in (      ) sports events.\n[Mock 8-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -722,7 +722,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト8 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 138 students in Chicago are interested in (      ) music concerts.\n[Mock 8-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 138 students in Chicago liked (      ) music concerts.\n[Mock 8-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -752,7 +752,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト8 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Charlie more about the smartphone apps? It costs $152.\n[Mock 8-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Charlie more about the smartphone apps? It costs $152.\n[Mock 8-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト8 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Tom more about the volunteer work? It costs $159.\n[Mock 8-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIs it true that you ever know how to (      ) Tom more about the volunteer work? It costs $159.\n[Mock 8-7]",
     "passage": "",
     "audioText": "",
     "choices": [

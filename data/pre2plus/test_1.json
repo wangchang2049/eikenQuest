@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト1 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ken more about the space exploration? It costs $280.\n[Mock 1-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Ken more about the space exploration? It costs $280.\n[Mock 1-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト1 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 301 students in Boston are interested in (      ) career counseling.\n[Mock 1-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 301 students in Boston liked (      ) career counseling.\n[Mock 1-13]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト1 語彙・文法 15",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 315 students in Osaka are interested in (      ) local festivals.\n[Mock 1-15]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 315 students in Osaka were interested in (      ) local festivals.\n[Mock 1-15]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト1 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Judy more about the online lessons? It costs $329.\n[Mock 1-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Judy more about the online lessons? It costs $329.\n[Mock 1-17]",
     "passage": "",
     "audioText": "",
     "choices": [

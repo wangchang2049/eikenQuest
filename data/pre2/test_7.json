@@ -662,7 +662,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト7 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Rachel more about the healthy meals? It costs $417.\n[Mock 7-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Rachel more about the healthy meals? It costs $417.\n[Mock 7-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -707,7 +707,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト7 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Ivan more about the space exploration? It costs $438.\n[Mock 7-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Ivan more about the space exploration? It costs $438.\n[Mock 7-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト7 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Charlie more about the wildlife conservation? It costs $452.\n[Mock 7-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Charlie more about the wildlife conservation? It costs $452.\n[Mock 7-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト7 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 466 students in Boston are interested in (      ) smartphone apps.\n[Mock 7-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 466 students in Boston liked (      ) smartphone apps.\n[Mock 7-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト7 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 480 students in Osaka are interested in (      ) school club activities.\n[Mock 7-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA survey found that over 480 students in Osaka were interested in (      ) school club activities.\n[Mock 7-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト7 語彙・文法 15",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Paul more about the science museums? It costs $15.\n[Mock 7-15]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Paul more about the science museums? It costs $15.\n[Mock 7-15]",
     "passage": "",
     "audioText": "",
     "choices": [

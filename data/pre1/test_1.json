@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト1 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Sam more about the volunteer work? It costs $308.\n[Mock 1-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Sam more about the volunteer work? It costs $308.\n[Mock 1-14]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト1 語彙・文法 15",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 315 students in Tokyo are interested in (      ) school club activities.\n[Mock 1-15]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nA study reported that more than 315 students in Tokyo liked (      ) school club activities.\n[Mock 1-15]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト1 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Judy more about the online lessons? It costs $329.\n[Mock 1-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you mind (      ) Judy more about the online lessons? It costs $329.\n[Mock 1-17]",
     "passage": "",
     "audioText": "",
     "choices": [

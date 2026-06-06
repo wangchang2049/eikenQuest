@@ -602,7 +602,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト6 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Rachel more about the travel planning? It costs $217.\n[Mock 6-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nHave you ever ever know how to (      ) Rachel more about the travel planning? It costs $217.\n[Mock 6-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -632,7 +632,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト6 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Lisa more about the new technology? It costs $231.\n[Mock 6-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nDo people know how to (      ) Lisa more about the new technology? It costs $231.\n[Mock 6-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト6 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Tom more about the wildlife conservation? It costs $259.\n[Mock 6-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you be able to (      ) Tom more about the wildlife conservation? It costs $259.\n[Mock 6-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト6 語彙・文法 12",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Eve more about the online lessons? It costs $294.\n[Mock 6-12]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCould you (      ) Eve more about the online lessons? It costs $294.\n[Mock 6-12]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト6 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Judy more about the travel planning? It costs $329.\n[Mock 6-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nWould you know how to (      ) Judy more about the travel planning? It costs $329.\n[Mock 6-17]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト6 語彙・文法 19",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 343 students in Chicago are interested in (      ) language classes.\n[Mock 6-19]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Chicago, over 343 students expressed interest in (      ) language classes.\n[Mock 6-19]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト6 語彙・文法 20",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 350 students in Sydney are interested in (      ) museum exhibitions.\n[Mock 6-20]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nIn Sydney, over 350 students expressed interest in (      ) museum exhibitions.\n[Mock 6-20]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト6 語彙・文法 21",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nCan you (      ) Rachel more about the space exploration? It costs $357.\n[Mock 6-21]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nAre you able to (      ) Rachel more about the space exploration? It costs $357.\n[Mock 6-21]",
     "passage": "",
     "audioText": "",
     "choices": [
