@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト6 語彙・文法 19",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 343 students in Chicago are interested in (      ) new technology.\n[Mock 6-19]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 343 students in Chicago are interested in (      ) language classes.\n[Mock 6-19]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト6 語彙・文法 20",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 350 students in Sydney are interested in (      ) public transportation.\n[Mock 6-20]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 350 students in Sydney are interested in (      ) museum exhibitions.\n[Mock 6-20]",
     "passage": "",
     "audioText": "",
     "choices": [

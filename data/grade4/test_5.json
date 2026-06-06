@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト5 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 45 students in Osaka are interested in (      ) public transportation.\n[Mock 5-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 45 students in Osaka are interested in (      ) health campaigns.\n[Mock 5-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト5 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 73 students in Seoul are interested in (      ) smartphone apps.\n[Mock 5-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 73 students in Seoul are interested in (      ) coding classes.\n[Mock 5-9]",
     "passage": "",
     "audioText": "",
     "choices": [

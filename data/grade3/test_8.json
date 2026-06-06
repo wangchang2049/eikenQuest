@@ -707,7 +707,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト8 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 131 students in Toronto are interested in (      ) space exploration.\n[Mock 8-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 131 students in Toronto are interested in (      ) sports events.\n[Mock 8-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -722,7 +722,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト8 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 138 students in Chicago are interested in (      ) historical monuments.\n[Mock 8-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 138 students in Chicago are interested in (      ) music concerts.\n[Mock 8-4]",
     "passage": "",
     "audioText": "",
     "choices": [

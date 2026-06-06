@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト2 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 424 students in Berlin are interested in (      ) environmental projects.\n[Mock 2-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 424 students in Berlin are interested in (      ) robotics clubs.\n[Mock 2-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト2 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 452 students in London are interested in (      ) healthy meals.\n[Mock 2-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 452 students in London are interested in (      ) coding classes.\n[Mock 2-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト2 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 466 students in New York are interested in (      ) public transportation.\n[Mock 2-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 466 students in New York are interested in (      ) music concerts.\n[Mock 2-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト2 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 501 students in Toronto are interested in (      ) volunteer work.\n[Mock 2-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 501 students in Toronto are interested in (      ) farmers markets.\n[Mock 2-13]",
     "passage": "",
     "audioText": "",
     "choices": [

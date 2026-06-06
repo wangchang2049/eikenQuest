@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト5 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 129 students in Berlin are interested in (      ) science museums.\n[Mock 5-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 129 students in Berlin are interested in (      ) career counseling.\n[Mock 5-17]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "1級 模擬テスト5 語彙・文法 21",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 157 students in London are interested in (      ) public transportation.\n[Mock 5-21]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 157 students in London are interested in (      ) science fairs.\n[Mock 5-21]",
     "passage": "",
     "audioText": "",
     "choices": [

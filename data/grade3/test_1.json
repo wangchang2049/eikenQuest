@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 217 students in Seattle are interested in (      ) online lessons.\n[Mock 1-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 217 students in Seattle are interested in (      ) school library programs.\n[Mock 1-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 224 students in Berlin are interested in (      ) local festivals.\n[Mock 1-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 224 students in Berlin are interested in (      ) robotics clubs.\n[Mock 1-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -707,7 +707,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 231 students in Boston are interested in (      ) environmental projects.\n[Mock 1-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 231 students in Boston are interested in (      ) environmental issues.\n[Mock 1-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -752,7 +752,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト1 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 252 students in London are interested in (      ) travel planning.\n[Mock 1-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 252 students in London are interested in (      ) community events.\n[Mock 1-6]",
     "passage": "",
     "audioText": "",
     "choices": [

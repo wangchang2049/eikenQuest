@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト4 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 366 students in Boston are interested in (      ) historical monuments.\n[Mock 4-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 366 students in Boston are interested in (      ) smartphone apps.\n[Mock 4-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト4 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 380 students in Osaka are interested in (      ) smartphone apps.\n[Mock 4-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 380 students in Osaka are interested in (      ) environmental issues.\n[Mock 4-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト4 語彙・文法 18",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 436 students in Toronto are interested in (      ) science museums.\n[Mock 4-18]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 436 students in Toronto are interested in (      ) transportation services.\n[Mock 4-18]",
     "passage": "",
     "audioText": "",
     "choices": [

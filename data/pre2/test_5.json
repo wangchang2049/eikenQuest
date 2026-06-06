@@ -722,7 +722,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト5 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 45 students in Tokyo are interested in (      ) public transportation.\n[Mock 5-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 45 students in Tokyo are interested in (      ) career counseling.\n[Mock 5-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト5 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 87 students in Seattle are interested in (      ) school club activities.\n[Mock 5-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 87 students in Seattle are interested in (      ) health campaigns.\n[Mock 5-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト5 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 101 students in Boston are interested in (      ) online lessons.\n[Mock 5-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 101 students in Boston are interested in (      ) museum exhibitions.\n[Mock 5-13]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト5 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 108 students in Paris are interested in (      ) local festivals.\n[Mock 5-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 108 students in Paris are interested in (      ) food festivals.\n[Mock 5-14]",
     "passage": "",
     "audioText": "",
     "choices": [

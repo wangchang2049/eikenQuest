@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト2 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 431 students in New York are interested in (      ) part-time jobs.\n[Mock 2-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 431 students in New York are interested in (      ) job opportunities.\n[Mock 2-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト2 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 473 students in Chicago are interested in (      ) space exploration.\n[Mock 2-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 473 students in Chicago are interested in (      ) school club activities.\n[Mock 2-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト2 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 480 students in Sydney are interested in (      ) historical monuments.\n[Mock 2-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 480 students in Sydney are interested in (      ) community events.\n[Mock 2-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -872,7 +872,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト2 語彙・文法 15",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 15 students in Osaka are interested in (      ) community libraries.\n[Mock 2-15]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 15 students in Osaka are interested in (      ) farmers markets.\n[Mock 2-15]",
     "passage": "",
     "audioText": "",
     "choices": [

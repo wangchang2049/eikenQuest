@@ -752,7 +752,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト3 語彙・文法 7",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 159 students in Berlin are interested in (      ) public transportation.\n[Mock 3-7]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 159 students in Berlin are interested in (      ) community events.\n[Mock 3-7]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト3 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 173 students in Paris are interested in (      ) historical monuments.\n[Mock 3-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 173 students in Paris are interested in (      ) job opportunities.\n[Mock 3-9]",
     "passage": "",
     "audioText": "",
     "choices": [

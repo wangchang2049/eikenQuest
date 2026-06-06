@@ -647,7 +647,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト10 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 24 students in Miami are interested in (      ) historical monuments.\n[Mock 10-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 24 students in Miami are interested in (      ) job opportunities.\n[Mock 10-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト10 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 108 students in Seoul are interested in (      ) healthy meals.\n[Mock 10-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 108 students in Seoul are interested in (      ) school club activities.\n[Mock 10-14]",
     "passage": "",
     "audioText": "",
     "choices": [

@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト2 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 417 students in Rome are interested in (      ) local festivals.\n[Mock 2-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 417 students in Rome are interested in (      ) health campaigns.\n[Mock 2-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト2 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 424 students in Miami are interested in (      ) environmental projects.\n[Mock 2-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 424 students in Miami are interested in (      ) sports events.\n[Mock 2-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト2 語彙・文法 12",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 494 students in Kyoto are interested in (      ) smartphone apps.\n[Mock 2-12]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 494 students in Kyoto are interested in (      ) transportation services.\n[Mock 2-12]",
     "passage": "",
     "audioText": "",
     "choices": [

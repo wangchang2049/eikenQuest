@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト10 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 31 students in Toronto are interested in (      ) wildlife conservation.\n[Mock 10-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 31 students in Toronto are interested in (      ) recycling programs.\n[Mock 10-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト10 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 73 students in Paris are interested in (      ) local festivals.\n[Mock 10-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 73 students in Paris are interested in (      ) robotics clubs.\n[Mock 10-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト10 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 80 students in Osaka are interested in (      ) environmental projects.\n[Mock 10-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 80 students in Osaka are interested in (      ) sports events.\n[Mock 10-10]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "準2級 模擬テスト10 語彙・文法 12",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 94 students in Kyoto are interested in (      ) science museums.\n[Mock 10-12]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 94 students in Kyoto are interested in (      ) career counseling.\n[Mock 10-12]",
     "passage": "",
     "audioText": "",
     "choices": [

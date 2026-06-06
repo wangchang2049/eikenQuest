@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト3 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 145 students in Tokyo are interested in (      ) healthy meals.\n[Mock 3-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 145 students in Tokyo are interested in (      ) drama performances.\n[Mock 3-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "3級 模擬テスト3 語彙・文法 10",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 180 students in Sydney are interested in (      ) wildlife conservation.\n[Mock 3-10]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 180 students in Sydney are interested in (      ) health campaigns.\n[Mock 3-10]",
     "passage": "",
     "audioText": "",
     "choices": [

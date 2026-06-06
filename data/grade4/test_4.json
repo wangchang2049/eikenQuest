@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト4 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 331 students in New York are interested in (      ) travel planning.\n[Mock 4-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 331 students in New York are interested in (      ) volunteer activities.\n[Mock 4-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト4 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 366 students in Toronto are interested in (      ) historical monuments.\n[Mock 4-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 366 students in Toronto are interested in (      ) farmers markets.\n[Mock 4-8]",
     "passage": "",
     "audioText": "",
     "choices": [

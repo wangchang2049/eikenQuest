@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト10 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 24 students in Kyoto are interested in (      ) historical monuments.\n[Mock 10-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 24 students in Kyoto are interested in (      ) environmental issues.\n[Mock 10-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト10 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 45 students in Tokyo are interested in (      ) volunteer work.\n[Mock 10-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 45 students in Tokyo are interested in (      ) job opportunities.\n[Mock 10-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト10 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 87 students in Seattle are interested in (      ) part-time jobs.\n[Mock 10-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 87 students in Seattle are interested in (      ) science fairs.\n[Mock 10-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -947,7 +947,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト10 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 108 students in Paris are interested in (      ) healthy meals.\n[Mock 10-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 108 students in Paris are interested in (      ) transportation services.\n[Mock 10-14]",
     "passage": "",
     "audioText": "",
     "choices": [

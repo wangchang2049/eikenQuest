@@ -647,7 +647,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト5 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 24 students in Kyoto are interested in (      ) travel planning.\n[Mock 5-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 24 students in Kyoto are interested in (      ) job opportunities.\n[Mock 5-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -707,7 +707,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト5 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 52 students in Rome are interested in (      ) space exploration.\n[Mock 5-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 52 students in Rome are interested in (      ) recycling programs.\n[Mock 5-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト5 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 66 students in Toronto are interested in (      ) wildlife conservation.\n[Mock 5-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 66 students in Toronto are interested in (      ) health campaigns.\n[Mock 5-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "準1級 模擬テスト5 語彙・文法 18",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 136 students in New York are interested in (      ) travel planning.\n[Mock 5-18]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 136 students in New York are interested in (      ) school club activities.\n[Mock 5-18]",
     "passage": "",
     "audioText": "",
     "choices": [

@@ -662,7 +662,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト9 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 317 students in London are interested in (      ) public transportation.\n[Mock 9-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 317 students in London are interested in (      ) community events.\n[Mock 9-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -677,7 +677,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト9 語彙・文法 2",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 324 students in Kyoto are interested in (      ) space exploration.\n[Mock 9-2]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 324 students in Kyoto are interested in (      ) health campaigns.\n[Mock 9-2]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト9 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 352 students in Rome are interested in (      ) volunteer work.\n[Mock 9-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 352 students in Rome are interested in (      ) smartphone apps.\n[Mock 9-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト9 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 366 students in Toronto are interested in (      ) community libraries.\n[Mock 9-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 366 students in Toronto are interested in (      ) museum exhibitions.\n[Mock 9-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -842,7 +842,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト9 語彙・文法 13",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 401 students in Boston are interested in (      ) science museums.\n[Mock 9-13]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 401 students in Boston are interested in (      ) drama performances.\n[Mock 9-13]",
     "passage": "",
     "audioText": "",
     "choices": [

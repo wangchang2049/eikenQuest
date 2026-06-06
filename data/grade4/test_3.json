@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト3 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 152 students in Seattle are interested in (      ) new technology.\n[Mock 3-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 152 students in Seattle are interested in (      ) music concerts.\n[Mock 3-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト3 語彙・文法 11",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 187 students in London are interested in (      ) smartphone apps.\n[Mock 3-11]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 187 students in London are interested in (      ) exchange programs.\n[Mock 3-11]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -947,7 +947,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト3 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 208 students in Seoul are interested in (      ) community libraries.\n[Mock 3-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 208 students in Seoul are interested in (      ) food festivals.\n[Mock 3-14]",
     "passage": "",
     "audioText": "",
     "choices": [

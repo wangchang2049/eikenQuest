@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト2 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 438 students in Paris are interested in (      ) science museums.\n[Mock 2-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 438 students in Paris are interested in (      ) food festivals.\n[Mock 2-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -812,7 +812,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト2 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 445 students in Osaka are interested in (      ) travel planning.\n[Mock 2-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 445 students in Osaka are interested in (      ) exchange programs.\n[Mock 2-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト2 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 452 students in London are interested in (      ) healthy meals.\n[Mock 2-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 452 students in London are interested in (      ) volunteer activities.\n[Mock 2-6]",
     "passage": "",
     "audioText": "",
     "choices": [

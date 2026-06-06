@@ -797,7 +797,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト1 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 238 students in Seoul are interested in (      ) part-time jobs.\n[Mock 1-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 238 students in Seoul are interested in (      ) volunteer activities.\n[Mock 1-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -947,7 +947,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト1 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 308 students in Paris are interested in (      ) volunteer work.\n[Mock 1-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 308 students in Paris are interested in (      ) smartphone apps.\n[Mock 1-14]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -962,7 +962,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト1 語彙・文法 15",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 315 students in Osaka are interested in (      ) school club activities.\n[Mock 1-15]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 315 students in Osaka are interested in (      ) local festivals.\n[Mock 1-15]",
     "passage": "",
     "audioText": "",
     "choices": [

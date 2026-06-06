@@ -692,7 +692,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト8 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 131 students in Boston are interested in (      ) space exploration.\n[Mock 8-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 131 students in Boston are interested in (      ) farmers markets.\n[Mock 8-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト8 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 173 students in Seoul are interested in (      ) community libraries.\n[Mock 8-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 173 students in Seoul are interested in (      ) language classes.\n[Mock 8-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト8 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 208 students in Chicago are interested in (      ) science museums.\n[Mock 8-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 208 students in Chicago are interested in (      ) art workshops.\n[Mock 8-14]",
     "passage": "",
     "audioText": "",
     "choices": [

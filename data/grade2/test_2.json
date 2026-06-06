@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト2 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 452 students in Seattle are interested in (      ) healthy meals.\n[Mock 2-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 452 students in Seattle are interested in (      ) museum exhibitions.\n[Mock 2-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト2 語彙・文法 12",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 494 students in Kyoto are interested in (      ) smartphone apps.\n[Mock 2-12]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 494 students in Kyoto are interested in (      ) study abroad programs.\n[Mock 2-12]",
     "passage": "",
     "audioText": "",
     "choices": [

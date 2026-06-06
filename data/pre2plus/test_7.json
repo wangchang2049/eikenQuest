@@ -737,7 +737,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト7 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 452 students in Rome are interested in (      ) wildlife conservation.\n[Mock 7-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 452 students in Rome are interested in (      ) language classes.\n[Mock 7-6]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト7 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 466 students in Toronto are interested in (      ) volunteer work.\n[Mock 7-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 466 students in Toronto are interested in (      ) exchange programs.\n[Mock 7-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト7 語彙・文法 16",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 22 students in London are interested in (      ) travel planning.\n[Mock 7-16]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 22 students in London are interested in (      ) volunteer activities.\n[Mock 7-16]",
     "passage": "",
     "audioText": "",
     "choices": [

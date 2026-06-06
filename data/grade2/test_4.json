@@ -722,7 +722,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト4 語彙・文法 5",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 345 students in Osaka are interested in (      ) new technology.\n[Mock 4-5]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 345 students in Osaka are interested in (      ) language classes.\n[Mock 4-5]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト4 語彙・文法 9",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 373 students in Seoul are interested in (      ) wildlife conservation.\n[Mock 4-9]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 373 students in Seoul are interested in (      ) health campaigns.\n[Mock 4-9]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "2級 模擬テスト4 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 429 students in Berlin are interested in (      ) part-time jobs.\n[Mock 4-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 429 students in Berlin are interested in (      ) sports events.\n[Mock 4-17]",
     "passage": "",
     "audioText": "",
     "choices": [

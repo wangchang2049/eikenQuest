@@ -752,7 +752,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト9 語彙・文法 1",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 317 students in Rome are interested in (      ) public transportation.\n[Mock 9-1]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 317 students in Rome are interested in (      ) farmers markets.\n[Mock 9-1]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -782,7 +782,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト9 語彙・文法 3",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 331 students in Toronto are interested in (      ) historical monuments.\n[Mock 9-3]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 331 students in Toronto are interested in (      ) smartphone apps.\n[Mock 9-3]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -827,7 +827,7 @@
   {
     "section": "vocabulary",
     "title": "4級 模擬テスト9 語彙・文法 6",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 352 students in Seattle are interested in (      ) volunteer work.\n[Mock 9-6]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 352 students in Seattle are interested in (      ) music concerts.\n[Mock 9-6]",
     "passage": "",
     "audioText": "",
     "choices": [

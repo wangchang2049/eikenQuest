@@ -707,7 +707,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト10 語彙・文法 4",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 38 students in Seoul are interested in (      ) smartphone apps.\n[Mock 10-4]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 38 students in Seoul are interested in (      ) exchange programs.\n[Mock 10-4]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -767,7 +767,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト10 語彙・文法 8",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 66 students in Toronto are interested in (      ) online lessons.\n[Mock 10-8]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 66 students in Toronto are interested in (      ) coding classes.\n[Mock 10-8]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -857,7 +857,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト10 語彙・文法 14",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 108 students in Paris are interested in (      ) healthy meals.\n[Mock 10-14]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 108 students in Paris are interested in (      ) career counseling.\n[Mock 10-14]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -887,7 +887,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト10 語彙・文法 16",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 122 students in London are interested in (      ) public transportation.\n[Mock 10-16]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 122 students in London are interested in (      ) health campaigns.\n[Mock 10-16]",
     "passage": "",
     "audioText": "",
     "choices": [
@@ -902,7 +902,7 @@
   {
     "section": "vocabulary",
     "title": "準2級プラス 模擬テスト10 語彙・文法 17",
-    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 129 students in Kyoto are interested in (      ) space exploration.\n[Mock 10-17]",
+    "prompt": "次の（　　　）に入れるのに最も適切なものを1, 2, 3, 4の中から一つ選びなさい。\n\nOver 129 students in Kyoto are interested in (      ) food festivals.\n[Mock 10-17]",
     "passage": "",
     "audioText": "",
     "choices": [
