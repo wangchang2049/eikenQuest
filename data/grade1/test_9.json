@@ -6,12 +6,12 @@
     "passage": "",
     "audioText": "A: Have you had the chance to visit the public transportation in Kyoto, Grace?\nB: Yes, although there were many people there.\nA: I see. Would you recommend it to others?",
     "choices": [
+      "I haven't",
       "No, I didn't.",
-      "a trip",
-      "sometimes",
-      "never"
+      "I did not",
+      "No, I didn't"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "grade1-09-listening1-01: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -21,12 +21,12 @@
     "passage": "",
     "audioText": "A: How did you like the space exploration in New York, Tom?\nB: Yes, but it felt quite crowded.\nA: I see. Would you go back?",
     "choices": [
-      "a lecture",
-      "a museum",
-      "a concert",
-      "I have been there."
+      "I went to that place",
+      "I have been there",
+      "I have been there.",
+      "I visited that place"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "grade1-09-listening1-02: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -36,12 +36,12 @@
     "passage": "",
     "audioText": "A: Did you like the historical monuments in Seoul, Mike?\nB: Yes, but it was pretty packed.\nA: I see. Would you consider returning?",
     "choices": [
-      "Yes, I went.",
-      "a picnic",
-      "a trip",
-      "a lecture"
+      "I do",
+      "Yes, definitely",
+      "I do enjoy it",
+      "Yes, I went."
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "grade1-09-listening1-03: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -51,9 +51,9 @@
     "passage": "",
     "audioText": "A: What did you think of the wildlife conservation in Tokyo, Frank?\nB: Yes, although it was overcrowded.\nA: I see. Would you go there again?",
     "choices": [
-      "a workshop",
-      "a party",
-      "a movie",
+      "Yes, of course",
+      "Not really",
+      "I am not sure",
       "That seems likely."
     ],
     "answer": 3,
@@ -67,9 +67,9 @@
     "audioText": "A: Did you enjoy the smartphone apps in Rome, Sam?\nB: Yes, but it was a bit crowded.\nA: I see. Would you visit again?",
     "choices": [
       "I did go there.",
-      "a coffee shop",
-      "a restaurant",
-      "a bookstore"
+      "I went to that place",
+      "I have been there",
+      "I visited that place"
     ],
     "answer": 0,
     "explanation": "grade1-09-listening1-05: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -81,12 +81,12 @@
     "passage": "",
     "audioText": "A: Have you had the chance to visit the volunteer work in Miami, Lisa?\nB: Yes, although there were many people there.\nA: I see. Would you recommend it to others?",
     "choices": [
-      "a library",
-      "a zoo",
-      "No, I didn't.",
-      "a park"
+      "I haven't",
+      "I did not",
+      "No, I didn't",
+      "No, I didn't."
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "grade1-09-listening1-06: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -96,12 +96,12 @@
     "passage": "",
     "audioText": "A: How did you like the school club activities in Toronto, Eve?\nB: Yes, but it felt quite crowded.\nA: I see. Would you go back?",
     "choices": [
-      "Yes, I do",
       "It was crowded.",
-      "want to know more",
-      "for is working hard"
+      "There were many people",
+      "It was packed",
+      "It was too crowded"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "grade1-09-listening1-07: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -111,12 +111,12 @@
     "passage": "",
     "audioText": "A: Did you like the community libraries in Chicago, Rachel?\nB: Yes, but it was pretty packed.\nA: I see. Would you consider returning?",
     "choices": [
-      "a festival",
+      "Yes, of course",
+      "Not really",
       "Probably yes.",
-      "a swimming pool",
-      "a train station"
+      "I am not sure"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "grade1-09-listening1-08: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -126,12 +126,12 @@
     "passage": "",
     "audioText": "A: What did you think of the online lessons in Sydney, Ken?\nB: Yes, although it was overcrowded.\nA: I see. Would you go there again?",
     "choices": [
-      "It was crowded.",
-      "a bus stop",
-      "a bakery",
-      "a gym"
+      "There were many people",
+      "It was packed",
+      "It was too crowded",
+      "It was crowded."
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "grade1-09-listening1-09: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -141,10 +141,10 @@
     "passage": "",
     "audioText": "A: Did you enjoy the local festivals in Berlin, Oliver?\nB: Yes, but it was a bit crowded.\nA: I see. Would you visit again?",
     "choices": [
-      "a hospital",
-      "a school",
+      "I went to that place",
+      "I have been there",
       "I went there.",
-      "a hotel"
+      "I visited that place"
     ],
     "answer": 2,
     "explanation": "grade1-09-listening1-10: リスニング第1部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -156,12 +156,12 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the public transportation, Rachel.\nB: That's a good idea! It starts next Monday in Osaka.\nA: Oh, Laura? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "Wait until Monday.",
-      "a store",
-      "a market",
-      "a beach"
+      "Yes, of course",
+      "Not really",
+      "I am not sure",
+      "Wait until Monday."
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "grade1-09-listening2-01: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -171,10 +171,10 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the space exploration, Oliver.\nB: That's a good idea! It starts next Monday in Beijing.\nA: Oh, John? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "a mountain",
+      "Yes, of course",
       "Register for it.",
-      "a river",
-      "a lake"
+      "Not really",
+      "I am not sure"
     ],
     "answer": 1,
     "explanation": "grade1-09-listening2-02: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -186,9 +186,9 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the historical monuments, Lisa.\nB: That's a good idea! It starts next Monday in Bangkok.\nA: Oh, Anna? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "not really",
-      "yes, of course",
-      "no, I haven't",
+      "I might go",
+      "I am going to go",
+      "I plan to go",
       "Go to the event."
     ],
     "answer": 3,
@@ -201,10 +201,10 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the wildlife conservation, Ivan.\nB: That's a good idea! It starts next Monday in Barcelona.\nA: Oh, David? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "I'm not sure",
+      "Yes, of course",
       "Wait until next Monday.",
-      "maybe later",
-      "I don't know"
+      "Not really",
+      "I am not sure"
     ],
     "answer": 1,
     "explanation": "grade1-09-listening2-04: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -216,12 +216,12 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the smartphone apps, Frank.\nB: That's a good idea! It starts next Monday in Delhi.\nA: Oh, Emily? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
+      "Yes, of course",
       "Wait until Monday.",
-      "definitely",
-      "probably not",
-      "sometimes"
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "grade1-09-listening2-05: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -231,12 +231,12 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the volunteer work, Charlie.\nB: That's a good idea! It starts next Monday in Istanbul.\nA: Oh, Robert? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "never",
+      "Yes, of course",
+      "Not really",
       "Sign up for the activity.",
-      "sure",
-      "OK"
+      "I am not sure"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "grade1-09-listening2-06: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -246,12 +246,12 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the school club activities, Tom.\nB: That's a good idea! It starts next Monday in Moscow.\nA: Oh, Sophia? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "alright",
-      "I see",
-      "Go to the activity.",
-      "got it"
+      "I might go",
+      "I am going to go",
+      "I plan to go",
+      "Go to the activity."
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "grade1-09-listening2-07: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -261,12 +261,12 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the community libraries, Quincy.\nB: That's a good idea! It starts next Monday in Dubai.\nA: Oh, Chris? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "understood",
+      "I might go",
+      "I am going to go",
       "Go to the activity.",
-      "really?",
-      "seriously?"
+      "I plan to go"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "grade1-09-listening2-08: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -276,12 +276,12 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the online lessons, Nancy.\nB: That's a good idea! It starts next Monday in Madrid.\nA: Oh, Mia? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "for sure",
       "Go to the activity.",
-      "absolutely",
-      "certainly"
+      "I might go",
+      "I am going to go",
+      "I plan to go"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "grade1-09-listening2-09: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -291,12 +291,12 @@
     "passage": "",
     "audioText": "A: I'm thinking of joining the local festivals, Ken.\nB: That's a good idea! It starts next Monday in London.\nA: Oh, Nancy? I should sign up today.\n\nQuestion: What will the man probably do today?",
     "choices": [
-      "not at all",
       "Sign up for the activity.",
-      "no way",
-      "of course not"
+      "Yes, of course",
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "grade1-09-listening2-10: リスニング第2部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -306,9 +306,9 @@
     "passage": "",
     "audioText": "Welcome to the public transportation in Kyoto. We are very happy to see 317 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "I don't think so",
-      "yesterday",
-      "tomorrow",
+      "It seems great to me",
+      "I believe it is great",
+      "It appears to be great",
       "At 9 AM."
     ],
     "answer": 3,
@@ -321,12 +321,12 @@
     "passage": "",
     "audioText": "Welcome to the space exploration in New York. We are very happy to see 324 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "last week",
-      "next week",
-      "this week",
-      "In the afternoon."
+      "I believe so",
+      "In the afternoon.",
+      "I suppose so",
+      "Probably yes"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation": "grade1-09-listening3-02: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -336,10 +336,10 @@
     "passage": "",
     "audioText": "Welcome to the historical monuments in Seoul. We are very happy to see 331 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "this weekend",
-      "on Monday",
+      "I believe so",
+      "I suppose so",
       "In the afternoon.",
-      "on Tuesday"
+      "Probably yes"
     ],
     "answer": 2,
     "explanation": "grade1-09-listening3-03: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -351,12 +351,12 @@
     "passage": "",
     "audioText": "Welcome to the wildlife conservation in Tokyo. We are very happy to see 338 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
-      "on Wednesday",
-      "on Thursday",
-      "on Friday",
-      "At 10 AM."
+      "It seems great to me",
+      "I believe it is great",
+      "At 10 AM.",
+      "It appears to be great"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "grade1-09-listening3-04: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -367,9 +367,9 @@
     "audioText": "Welcome to the smartphone apps in Rome. We are very happy to see 345 people here today. The main event will start at 10 AM. Please make sure to get your tickets before then.\n\nQuestion: When will the main event start?",
     "choices": [
       "At 9 AM.",
-      "on Saturday",
-      "on Sunday",
-      "in the morning"
+      "It seems great to me",
+      "I believe it is great",
+      "It appears to be great"
     ],
     "answer": 0,
     "explanation": "grade1-09-listening3-05: リスニング第3部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -381,12 +381,12 @@
     "passage": "",
     "audioText": "Interviewer: Why did you start the public transportation project in 1991?\nNancy: Well, I wanted to help the community in Miami.\nInterviewer: That's wonderful.\n\nQuestion: Why did Nancy start the project?",
     "choices": [
-      "in the afternoon",
-      "in the evening",
-      "at night",
-      "To make money."
+      "I want to",
+      "To make money.",
+      "I desire to",
+      "I wish to"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation": "grade1-09-listening4-01: リスニング第4部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -396,12 +396,12 @@
     "passage": "",
     "audioText": "Interviewer: Why did you start the space exploration project in 1992?\nGrace: Well, I wanted to help the community in Toronto.\nInterviewer: That's wonderful.\n\nQuestion: Why did Grace start the project?",
     "choices": [
-      "early",
+      "I want to",
+      "I desire to",
       "To become famous.",
-      "late",
-      "soon"
+      "I wish to"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "grade1-09-listening4-02: リスニング第4部の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -411,12 +411,12 @@
     "passage": "Recently, public transportation has become very popular in Rome. Since 1991, many residents gather on weekends. Nancy, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 317 more events related to public transportation.",
     "audioText": "",
     "choices": [
-      "later",
-      "On weekends.",
-      "eventually",
-      "thank you"
+      "I have no idea",
+      "I cannot tell",
+      "Not sure",
+      "On weekends."
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "grade1-09-reading-01: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -426,10 +426,10 @@
     "passage": "Recently, space exploration has become very popular in Miami. Since 1992, many residents gather on weekends. Grace, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 324 more events related to space exploration.",
     "audioText": "",
     "choices": [
-      "thanks a lot",
-      "thank you so much",
+      "I have no idea",
+      "I cannot tell",
       "On weekdays.",
-      "you're welcome"
+      "Not sure"
     ],
     "answer": 2,
     "explanation": "grade1-09-reading-02: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -441,12 +441,12 @@
     "passage": "Recently, historical monuments has become very popular in Toronto. Since 1993, many residents gather on weekends. Tom, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 331 more events related to historical monuments.",
     "audioText": "",
     "choices": [
-      "Every day.",
-      "no problem",
-      "happy to help",
-      "sorry"
+      "Yes, of course",
+      "Not really",
+      "I am not sure",
+      "Every day."
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "grade1-09-reading-03: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -456,12 +456,12 @@
     "passage": "Recently, wildlife conservation has become very popular in Chicago. Since 1994, many residents gather on weekends. Mike, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 338 more events related to wildlife conservation.",
     "audioText": "",
     "choices": [
-      "excuse me",
-      "Every day.",
-      "pardon me",
-      "I apologize"
+      "Yes, of course",
+      "Not really",
+      "I am not sure",
+      "Every day."
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "grade1-09-reading-04: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -471,10 +471,10 @@
     "passage": "Recently, smartphone apps has become very popular in Sydney. Since 1995, many residents gather on weekends. Frank, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 345 more events related to smartphone apps.",
     "audioText": "",
     "choices": [
-      "that's right",
-      "that's wrong",
+      "I have no idea",
+      "I cannot tell",
       "On weekends.",
-      "I agree"
+      "Not sure"
     ],
     "answer": 2,
     "explanation": "grade1-09-reading-05: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -486,12 +486,12 @@
     "passage": "Recently, volunteer work has become very popular in Seattle. Since 1996, many residents gather on weekends. Sam, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 352 more events related to volunteer work.",
     "audioText": "",
     "choices": [
-      "I disagree",
-      "I don't agree",
+      "Yes, of course",
       "Only in summer.",
-      "sounds good"
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "grade1-09-reading-06: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -501,12 +501,12 @@
     "passage": "Recently, school club activities has become very popular in Berlin. Since 1997, many residents gather on weekends. Lisa, the mayor, said that this activity helps build a strong community. In the future, the city plans to organize 359 more events related to school club activities.",
     "audioText": "",
     "choices": [
-      "looks good",
+      "Yes, of course",
+      "Not really",
       "Because no one joined the events.",
-      "smells good",
-      "tastes good"
+      "I am not sure"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "grade1-09-reading-07: 読解の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -516,12 +516,12 @@
     "passage": "In 1991, I participated in a public transportation in Rome. It was a great experience. I met about 317 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
+      "Yes, of course",
       "idea",
-      "feels good",
-      "I like it",
-      "I don't like it"
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "grade1-09-reading_cloze-01: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -531,12 +531,12 @@
     "passage": "In 1992, I participated in a space exploration in Miami. It was a great experience. I met about 324 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
-      "I love it",
-      "I hate it",
+      "Yes, of course",
       "problem",
-      "I enjoy it"
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "grade1-09-reading_cloze-02: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -546,12 +546,12 @@
     "passage": "In 1993, I participated in a historical monuments in Toronto. It was a great experience. I met about 331 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
+      "Yes, of course",
+      "Not really",
       "success",
-      "I prefer it",
-      "I'm interested",
-      "I'm not interested"
+      "I am not sure"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "grade1-09-reading_cloze-03: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -561,12 +561,12 @@
     "passage": "In 1994, I participated in a wildlife conservation in Chicago. It was a great experience. I met about 338 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
-      "I'm tired",
-      "I'm hungry",
       "story",
-      "I'm thirsty"
+      "Yes, of course",
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "grade1-09-reading_cloze-04: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -576,12 +576,12 @@
     "passage": "In 1995, I participated in a smartphone apps in Sydney. It was a great experience. I met about 345 people who were interested in the same things. However, there was one (      ). We didn't have enough time to discuss everything.",
     "audioText": "",
     "choices": [
-      "I'm cold",
-      "I'm warm",
-      "I'm busy",
-      "story."
+      "Yes, of course",
+      "story.",
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation": "grade1-09-reading_cloze-05: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -592,9 +592,9 @@
     "audioText": "",
     "choices": [
       "problem",
-      "I'm free",
-      "a museum",
-      "a concert"
+      "Yes, of course",
+      "Not really",
+      "I am not sure"
     ],
     "answer": 0,
     "explanation": "grade1-09-reading_cloze-06: 長文空所補充の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -606,12 +606,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "a picnic",
+      "Yes, of course",
+      "Not really",
       "joined",
-      "a trip",
-      "a lecture"
+      "I am not sure"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "grade1-09-vocabulary-01: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -621,12 +621,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "a workshop",
-      "a party",
-      "a movie",
-      "talk"
+      "talk",
+      "Yes, of course",
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "grade1-09-vocabulary-02: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -636,12 +636,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "a coffee shop",
-      "a restaurant",
-      "exciting",
-      "a bookstore"
+      "Yes, of course",
+      "Not really",
+      "I am not sure",
+      "exciting"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "grade1-09-vocabulary-03: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -651,12 +651,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "a library",
-      "a zoo",
+      "Yes, of course",
       "seen",
-      "a park"
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "grade1-09-vocabulary-04: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -666,12 +666,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "a festival",
+      "Yes, of course",
+      "Not really",
       "excitement",
-      "a swimming pool",
-      "a train station"
+      "I am not sure"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "grade1-09-vocabulary-05: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -682,9 +682,9 @@
     "audioText": "",
     "choices": [
       "seeing",
-      "a bus stop",
-      "a bakery",
-      "a gym"
+      "Yes, of course",
+      "Not really",
+      "I am not sure"
     ],
     "answer": 0,
     "explanation": "grade1-09-vocabulary-06: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -696,12 +696,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "a hospital",
-      "a school",
-      "exciting",
-      "a hotel"
+      "Yes, of course",
+      "Not really",
+      "I am not sure",
+      "exciting"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "grade1-09-vocabulary-07: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -711,9 +711,9 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "a store",
-      "a market",
-      "a beach",
+      "Yes, of course",
+      "Not really",
+      "I am not sure",
       "excited"
     ],
     "answer": 3,
@@ -726,12 +726,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "a mountain",
       "joined",
-      "a river",
-      "a lake"
+      "Yes, of course",
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "grade1-09-vocabulary-09: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -741,12 +741,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "not really",
-      "yes, of course",
-      "excitement",
-      "no, I haven't"
+      "Yes, of course",
+      "Not really",
+      "I am not sure",
+      "excitement"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "grade1-09-vocabulary-10: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -756,12 +756,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "I'm not sure",
-      "maybe later",
-      "I don't know",
-      "joined."
+      "Yes, of course",
+      "Not really",
+      "joined.",
+      "I am not sure"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "grade1-09-vocabulary-11: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -772,9 +772,9 @@
     "audioText": "",
     "choices": [
       "joining",
-      "definitely",
-      "probably not",
-      "sometimes"
+      "Yes, of course",
+      "Not really",
+      "I am not sure"
     ],
     "answer": 0,
     "explanation": "grade1-09-vocabulary-12: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -787,9 +787,9 @@
     "audioText": "",
     "choices": [
       "started.",
-      "never",
-      "sure",
-      "OK"
+      "Yes, of course",
+      "Not really",
+      "I am not sure"
     ],
     "answer": 0,
     "explanation": "grade1-09-vocabulary-13: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -801,12 +801,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "alright",
-      "I see",
-      "starts.",
-      "got it"
+      "Yes, of course",
+      "Not really",
+      "I am not sure",
+      "starts."
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "grade1-09-vocabulary-14: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -816,12 +816,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
+      "Yes, of course",
+      "Not really",
       "talk",
-      "understood",
-      "really?",
-      "seriously?"
+      "I am not sure"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "grade1-09-vocabulary-15: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -832,9 +832,9 @@
     "audioText": "",
     "choices": [
       "start",
-      "for sure",
-      "absolutely",
-      "certainly"
+      "Yes, of course",
+      "Not really",
+      "I am not sure"
     ],
     "answer": 0,
     "explanation": "grade1-09-vocabulary-16: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -846,12 +846,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "not at all",
       "speak",
-      "no way",
-      "of course not"
+      "Yes, of course",
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "grade1-09-vocabulary-17: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -861,10 +861,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "I don't think so",
-      "yesterday",
+      "Yes, of course",
+      "Not really",
       "excite.",
-      "tomorrow"
+      "I am not sure"
     ],
     "answer": 2,
     "explanation": "grade1-09-vocabulary-18: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -877,9 +877,9 @@
     "audioText": "",
     "choices": [
       "say",
-      "last week",
-      "next week",
-      "this week"
+      "Yes, of course",
+      "Not really",
+      "I am not sure"
     ],
     "answer": 0,
     "explanation": "grade1-09-vocabulary-19: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -891,10 +891,10 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "this weekend",
+      "Yes, of course",
       "seen",
-      "on Monday",
-      "on Tuesday"
+      "Not really",
+      "I am not sure"
     ],
     "answer": 1,
     "explanation": "grade1-09-vocabulary-20: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
@@ -906,12 +906,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "on Wednesday",
-      "join",
-      "on Thursday",
-      "on Friday"
+      "Yes, of course",
+      "Not really",
+      "I am not sure",
+      "join"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "grade1-09-vocabulary-21: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -921,12 +921,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "on Saturday",
-      "on Sunday",
-      "in the morning",
-      "see"
+      "Yes, of course",
+      "see",
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation": "grade1-09-vocabulary-22: 語彙・文法の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -936,12 +936,12 @@
     "passage": "",
     "audioText": "",
     "choices": [
-      "in the afternoon",
-      "in the evening",
+      "Yes, of course",
       "テーマから外れた無関係な解答",
-      "at night"
+      "Not really",
+      "I am not sure"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "grade1-09-writing_essay-01: 英作文の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   },
   {
@@ -951,12 +951,12 @@
     "passage": "Some people in Rome believe that public transportation should be a priority. They argue that it provides long-term benefits for 317 residents. On the other hand, Rachel thinks that it costs too much money. Ultimately, finding a balance is crucial.",
     "audioText": "",
     "choices": [
-      "early",
-      "与えられたテーマに沿った、適切な構成と内容の解答",
-      "late",
-      "soon"
+      "Yes, of course",
+      "Not really",
+      "I am not sure",
+      "与えられたテーマに沿った、適切な構成と内容の解答"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "grade1-09-writing_summary-01: 英文要約の問題です。文脈と設問条件に最も合う選択肢を選びます。"
   }
 ]
